@@ -1,0 +1,36 @@
+# CMake generated Testfile for 
+# Source directory: /home/ouyanglong/work2/kml/kernel-ml
+# Build directory: /home/ouyanglong/work2/kml/kernel-ml/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(matrix_test "test_matrix")
+set_tests_properties(matrix_test PROPERTIES  _BACKTRACE_TRIPLES "/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;212;add_test;/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;0;")
+add_test(math_test "test_math")
+set_tests_properties(math_test PROPERTIES  _BACKTRACE_TRIPLES "/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;213;add_test;/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;0;")
+add_test(linear_algebra_test "test_linear_algebra")
+set_tests_properties(linear_algebra_test PROPERTIES  _BACKTRACE_TRIPLES "/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;214;add_test;/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;0;")
+add_test(layers_test "test_layers")
+set_tests_properties(layers_test PROPERTIES  _BACKTRACE_TRIPLES "/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;215;add_test;/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;0;")
+add_test(cross_entropy_test "test_cross_entropy")
+set_tests_properties(cross_entropy_test PROPERTIES  _BACKTRACE_TRIPLES "/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;216;add_test;/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;0;")
+add_test(memory_allocator_test "test_memory_allocator")
+set_tests_properties(memory_allocator_test PROPERTIES  _BACKTRACE_TRIPLES "/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;217;add_test;/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;0;")
+add_test(matrix_bench "bench_matrix")
+set_tests_properties(matrix_bench PROPERTIES  _BACKTRACE_TRIPLES "/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;218;add_test;/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;0;")
+add_test(math_bench "bench_math")
+set_tests_properties(math_bench PROPERTIES  _BACKTRACE_TRIPLES "/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;219;add_test;/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;0;")
+add_test(example_linear_regression "linear_regression_example")
+set_tests_properties(example_linear_regression PROPERTIES  _BACKTRACE_TRIPLES "/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;220;add_test;/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;0;")
+add_test(example_xor_net "xor_net_example")
+set_tests_properties(example_xor_net PROPERTIES  _BACKTRACE_TRIPLES "/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;221;add_test;/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;0;")
+add_test(example_readahead_net "readahead_net_example")
+set_tests_properties(example_readahead_net PROPERTIES  _BACKTRACE_TRIPLES "/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;222;add_test;/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;0;")
+add_test(example_readahead_net_classification "readahead_net_classification_example")
+set_tests_properties(example_readahead_net_classification PROPERTIES  _BACKTRACE_TRIPLES "/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;223;add_test;/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;0;")
+add_test(example_nfs_net_classification "nfs_net_classification_example")
+set_tests_properties(example_nfs_net_classification PROPERTIES  _BACKTRACE_TRIPLES "/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;224;add_test;/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;0;")
+add_test(example_readahead_net_classification_training "readahead_net_classification_training_example")
+set_tests_properties(example_readahead_net_classification_training PROPERTIES  _BACKTRACE_TRIPLES "/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;225;add_test;/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;0;")
+add_test(example_decision_tree "decision_tree_example")
+set_tests_properties(example_decision_tree PROPERTIES  _BACKTRACE_TRIPLES "/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;226;add_test;/home/ouyanglong/work2/kml/kernel-ml/CMakeLists.txt;0;")
