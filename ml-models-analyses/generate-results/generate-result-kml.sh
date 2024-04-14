@@ -22,8 +22,6 @@ do
     echo $test
 
     ./clear_dataset.sh $2
-    umount /dev/$1
-    mount /dev/$1 $2
     blockdev --setra 256 /dev/$1
     free && sync && echo 3 > /proc/sys/vm/drop_caches && free
     /usr/bin/time -v ./result-kml.sh $test $3 $2 &> bench_output_${test}_$1_kml

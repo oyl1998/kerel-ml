@@ -1,0 +1,2034 @@
+Apr 14 01:57:51 ubuntu kernel: [ 1211.302023] generate-result (3948): drop_caches: 3
+Apr 14 01:57:51 ubuntu kernel: [ 1211.336060] result-kml.sh (3957): drop_caches: 3
+readseq 1
+Apr 14 01:57:51 ubuntu kernel: [ 1211.357395] kml_readahead_init: hello
+Apr 14 01:57:51 ubuntu kernel: [ 1211.362880] opened block device 00000000a5bb772f
+Apr 14 01:57:52 ubuntu kernel: [ 1211.363878] KML rocksdb readahead_update started
+Apr 14 01:57:52 ubuntu kernel: [ 1212.368212] ----------------------- 1 -----------------------
+Apr 14 01:57:52 ubuntu kernel: [ 1212.368224] readahead val set:		 960
+Apr 14 01:57:52 ubuntu kernel: [ 1212.368224] predicted class:		 readreverse
+Apr 14 01:57:52 ubuntu kernel: [ 1212.368224] inference took in avg.:		 9011
+Apr 14 01:57:52 ubuntu kernel: [ 1212.368225] data processing took in avg.:	 46
+Apr 14 01:57:52 ubuntu kernel: [ 1212.368225] ops/sec average:		 0
+Apr 14 01:57:53 ubuntu kernel: [ 1213.392263] readahead_update thread should stop
+Apr 14 01:57:53 ubuntu kernel: [ 1213.392288] kml readahead update thread stopped
+Apr 14 01:57:54 ubuntu kernel: [ 1214.417043] perf_monitoring thread should stop
+Apr 14 01:57:54 ubuntu kernel: [ 1214.417052] kml readahed perf thread stopped
+Apr 14 01:57:54 ubuntu kernel: [ 1214.420080] KML rocksdb readahead_update ended
+Apr 14 01:57:54 ubuntu kernel: [ 1214.451297] result-kml.sh (3957): drop_caches: 3
+readseq 2
+Apr 14 01:57:54 ubuntu kernel: [ 1214.466931] kml_readahead_init: hello
+Apr 14 01:57:54 ubuntu kernel: [ 1214.470451] opened block device 00000000a5bb772f
+Apr 14 01:57:56 ubuntu kernel: [ 1214.471466] KML rocksdb readahead_update started
+Apr 14 01:57:56 ubuntu kernel: [ 1215.500970] readahead_update thread should stop
+Apr 14 01:57:56 ubuntu kernel: [ 1215.500980] kml readahead update thread stopped
+Apr 14 01:57:56 ubuntu kernel: [ 1215.500982] perf_monitoring thread should stop
+Apr 14 01:57:56 ubuntu kernel: [ 1215.500984] kml readahed perf thread stopped
+Apr 14 01:57:56 ubuntu kernel: [ 1215.512320] KML rocksdb readahead_update ended
+readseq 3
+Apr 14 01:57:56 ubuntu kernel: [ 1215.538844] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:57:56 ubuntu kernel: [ 1215.554585] kml_readahead_init: hello
+Apr 14 01:57:56 ubuntu kernel: [ 1215.558043] opened block device 00000000a5bb772f
+Apr 14 01:57:57 ubuntu kernel: [ 1215.559059] KML rocksdb readahead_update started
+Apr 14 01:57:57 ubuntu kernel: [ 1216.581020] readahead_update thread should stop
+Apr 14 01:57:57 ubuntu kernel: [ 1216.581025] kml readahead update thread stopped
+Apr 14 01:57:57 ubuntu kernel: [ 1216.581037] perf_monitoring thread should stop
+Apr 14 01:57:57 ubuntu kernel: [ 1216.581052] kml readahed perf thread stopped
+Apr 14 01:57:57 ubuntu kernel: [ 1216.584089] KML rocksdb readahead_update ended
+readseq 4
+Apr 14 01:57:57 ubuntu kernel: [ 1216.605900] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:57:57 ubuntu kernel: [ 1216.619354] kml_readahead_init: hello
+Apr 14 01:57:57 ubuntu kernel: [ 1216.622457] opened block device 00000000a5bb772f
+Apr 14 01:57:58 ubuntu kernel: [ 1216.623450] KML rocksdb readahead_update started
+Apr 14 01:57:58 ubuntu kernel: [ 1217.644498] readahead_update thread should stop
+Apr 14 01:57:58 ubuntu kernel: [ 1217.644502] kml readahead update thread stopped
+Apr 14 01:57:58 ubuntu kernel: [ 1217.644599] perf_monitoring thread should stop
+Apr 14 01:57:58 ubuntu kernel: [ 1217.644607] kml readahed perf thread stopped
+Apr 14 01:57:58 ubuntu kernel: [ 1217.657017] KML rocksdb readahead_update ended
+Apr 14 01:57:58 ubuntu kernel: [ 1217.685313] result-kml.sh (3957): drop_caches: 3
+readseq 5
+Apr 14 01:57:58 ubuntu kernel: [ 1217.700539] kml_readahead_init: hello
+Apr 14 01:57:58 ubuntu kernel: [ 1217.703544] opened block device 00000000a5bb772f
+Apr 14 01:57:59 ubuntu kernel: [ 1217.704536] KML rocksdb readahead_update started
+Apr 14 01:57:59 ubuntu kernel: [ 1218.725653] readahead_update thread should stop
+Apr 14 01:57:59 ubuntu kernel: [ 1218.725670] kml readahead update thread stopped
+Apr 14 01:57:59 ubuntu kernel: [ 1218.725672] perf_monitoring thread should stop
+Apr 14 01:57:59 ubuntu kernel: [ 1218.725675] kml readahed perf thread stopped
+Apr 14 01:57:59 ubuntu kernel: [ 1218.728815] KML rocksdb readahead_update ended
+Apr 14 01:57:59 ubuntu kernel: [ 1218.748877] result-kml.sh (3957): drop_caches: 3
+readseq 6
+Apr 14 01:57:59 ubuntu kernel: [ 1218.762802] kml_readahead_init: hello
+Apr 14 01:57:59 ubuntu kernel: [ 1218.765775] opened block device 00000000a5bb772f
+Apr 14 01:58:00 ubuntu kernel: [ 1218.766773] KML rocksdb readahead_update started
+Apr 14 01:58:00 ubuntu kernel: [ 1219.790835] readahead_update thread should stop
+Apr 14 01:58:00 ubuntu kernel: [ 1219.790846] kml readahead update thread stopped
+Apr 14 01:58:00 ubuntu kernel: [ 1219.790858] perf_monitoring thread should stop
+Apr 14 01:58:00 ubuntu kernel: [ 1219.790874] kml readahed perf thread stopped
+Apr 14 01:58:00 ubuntu kernel: [ 1219.805010] KML rocksdb readahead_update ended
+Apr 14 01:58:00 ubuntu kernel: [ 1219.830603] result-kml.sh (3957): drop_caches: 3
+readseq 7
+Apr 14 01:58:00 ubuntu kernel: [ 1219.844638] kml_readahead_init: hello
+Apr 14 01:58:00 ubuntu kernel: [ 1219.847899] opened block device 00000000a5bb772f
+Apr 14 01:58:01 ubuntu kernel: [ 1219.848890] KML rocksdb readahead_update started
+Apr 14 01:58:01 ubuntu kernel: [ 1220.867731] readahead_update thread should stop
+Apr 14 01:58:01 ubuntu kernel: [ 1220.867734] kml readahead update thread stopped
+Apr 14 01:58:01 ubuntu kernel: [ 1220.867798] perf_monitoring thread should stop
+Apr 14 01:58:01 ubuntu kernel: [ 1220.867817] kml readahed perf thread stopped
+Apr 14 01:58:01 ubuntu kernel: [ 1220.880961] KML rocksdb readahead_update ended
+Apr 14 01:58:01 ubuntu kernel: [ 1220.905488] result-kml.sh (3957): drop_caches: 3
+readseq 8
+Apr 14 01:58:01 ubuntu kernel: [ 1220.919823] kml_readahead_init: hello
+Apr 14 01:58:01 ubuntu kernel: [ 1220.923118] opened block device 00000000a5bb772f
+Apr 14 01:58:02 ubuntu kernel: [ 1220.924196] KML rocksdb readahead_update started
+Apr 14 01:58:02 ubuntu kernel: [ 1221.936649] ----------------------- 1 -----------------------
+Apr 14 01:58:02 ubuntu kernel: [ 1221.936658] readahead val set:		 16
+Apr 14 01:58:02 ubuntu kernel: [ 1221.936659] predicted class:		 readrandom
+Apr 14 01:58:02 ubuntu kernel: [ 1221.936659] inference took in avg.:		 8008
+Apr 14 01:58:02 ubuntu kernel: [ 1221.936659] data processing took in avg.:	 17
+Apr 14 01:58:02 ubuntu kernel: [ 1221.936660] ops/sec average:		 0
+Apr 14 01:58:03 ubuntu kernel: [ 1222.961165] readahead_update thread should stop
+Apr 14 01:58:03 ubuntu kernel: [ 1222.961195] kml readahead update thread stopped
+Apr 14 01:58:04 ubuntu kernel: [ 1223.985199] perf_monitoring thread should stop
+Apr 14 01:58:04 ubuntu kernel: [ 1223.985228] kml readahed perf thread stopped
+Apr 14 01:58:04 ubuntu kernel: [ 1223.993340] KML rocksdb readahead_update ended
+readseq 9
+Apr 14 01:58:04 ubuntu kernel: [ 1224.017835] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:04 ubuntu kernel: [ 1224.032325] kml_readahead_init: hello
+Apr 14 01:58:04 ubuntu kernel: [ 1224.036183] opened block device 00000000a5bb772f
+Apr 14 01:58:05 ubuntu kernel: [ 1224.037176] KML rocksdb readahead_update started
+Apr 14 01:58:05 ubuntu kernel: [ 1225.040520] ----------------------- 1 -----------------------
+Apr 14 01:58:05 ubuntu kernel: [ 1225.040533] readahead val set:		 960
+Apr 14 01:58:05 ubuntu kernel: [ 1225.040533] predicted class:		 readreverse
+Apr 14 01:58:05 ubuntu kernel: [ 1225.040534] inference took in avg.:		 12040
+Apr 14 01:58:05 ubuntu kernel: [ 1225.040534] data processing took in avg.:	 37
+Apr 14 01:58:05 ubuntu kernel: [ 1225.040534] ops/sec average:		 0
+Apr 14 01:58:06 ubuntu kernel: [ 1226.064987] readahead_update thread should stop
+Apr 14 01:58:06 ubuntu kernel: [ 1226.064995] kml readahead update thread stopped
+Apr 14 01:58:06 ubuntu kernel: [ 1226.080944] perf_monitoring thread should stop
+Apr 14 01:58:06 ubuntu kernel: [ 1226.080949] kml readahed perf thread stopped
+Apr 14 01:58:06 ubuntu kernel: [ 1226.089103] KML rocksdb readahead_update ended
+readseq 10
+Apr 14 01:58:06 ubuntu kernel: [ 1226.119556] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:06 ubuntu kernel: [ 1226.132458] kml_readahead_init: hello
+Apr 14 01:58:06 ubuntu kernel: [ 1226.135461] opened block device 00000000a5bb772f
+Apr 14 01:58:07 ubuntu kernel: [ 1226.136454] KML rocksdb readahead_update started
+Apr 14 01:58:07 ubuntu kernel: [ 1227.152590] ----------------------- 1 -----------------------
+Apr 14 01:58:07 ubuntu kernel: [ 1227.152601] readahead val set:		 16
+Apr 14 01:58:07 ubuntu kernel: [ 1227.152602] predicted class:		 readrandom
+Apr 14 01:58:07 ubuntu kernel: [ 1227.152602] inference took in avg.:		 9658
+Apr 14 01:58:07 ubuntu kernel: [ 1227.152602] data processing took in avg.:	 15
+Apr 14 01:58:07 ubuntu kernel: [ 1227.152603] ops/sec average:		 0
+Apr 14 01:58:08 ubuntu kernel: [ 1228.177316] readahead_update thread should stop
+Apr 14 01:58:08 ubuntu kernel: [ 1228.177323] kml readahead update thread stopped
+Apr 14 01:58:09 ubuntu kernel: [ 1229.201001] perf_monitoring thread should stop
+Apr 14 01:58:09 ubuntu kernel: [ 1229.201010] kml readahed perf thread stopped
+Apr 14 01:58:09 ubuntu kernel: [ 1229.209231] KML rocksdb readahead_update ended
+readseq 11
+Apr 14 01:58:09 ubuntu kernel: [ 1229.234505] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:09 ubuntu kernel: [ 1229.248545] kml_readahead_init: hello
+Apr 14 01:58:09 ubuntu kernel: [ 1229.251622] opened block device 00000000a5bb772f
+Apr 14 01:58:10 ubuntu kernel: [ 1229.252614] KML rocksdb readahead_update started
+Apr 14 01:58:10 ubuntu kernel: [ 1230.256687] ----------------------- 1 -----------------------
+Apr 14 01:58:10 ubuntu kernel: [ 1230.256710] readahead val set:		 16
+Apr 14 01:58:10 ubuntu kernel: [ 1230.256711] predicted class:		 readrandom
+Apr 14 01:58:10 ubuntu kernel: [ 1230.256711] inference took in avg.:		 21707
+Apr 14 01:58:10 ubuntu kernel: [ 1230.256711] data processing took in avg.:	 87
+Apr 14 01:58:10 ubuntu kernel: [ 1230.256711] ops/sec average:		 0
+Apr 14 01:58:11 ubuntu kernel: [ 1231.280792] readahead_update thread should stop
+Apr 14 01:58:11 ubuntu kernel: [ 1231.280800] kml readahead update thread stopped
+Apr 14 01:58:11 ubuntu kernel: [ 1231.297292] perf_monitoring thread should stop
+Apr 14 01:58:11 ubuntu kernel: [ 1231.297298] kml readahed perf thread stopped
+Apr 14 01:58:11 ubuntu kernel: [ 1231.304821] KML rocksdb readahead_update ended
+Apr 14 01:58:11 ubuntu kernel: [ 1231.326540] result-kml.sh (3957): drop_caches: 3
+readseq 12
+Apr 14 01:58:11 ubuntu kernel: [ 1231.343915] kml_readahead_init: hello
+Apr 14 01:58:11 ubuntu kernel: [ 1231.347113] opened block device 00000000a5bb772f
+Apr 14 01:58:12 ubuntu kernel: [ 1231.348116] KML rocksdb readahead_update started
+Apr 14 01:58:12 ubuntu kernel: [ 1232.368759] ----------------------- 1 -----------------------
+Apr 14 01:58:12 ubuntu kernel: [ 1232.368769] readahead val set:		 16
+Apr 14 01:58:12 ubuntu kernel: [ 1232.368769] predicted class:		 readrandom
+Apr 14 01:58:12 ubuntu kernel: [ 1232.368769] inference took in avg.:		 7103
+Apr 14 01:58:12 ubuntu kernel: [ 1232.368770] data processing took in avg.:	 23
+Apr 14 01:58:12 ubuntu kernel: [ 1232.368770] ops/sec average:		 0
+Apr 14 01:58:13 ubuntu kernel: [ 1233.393145] readahead_update thread should stop
+Apr 14 01:58:13 ubuntu kernel: [ 1233.393194] kml readahead update thread stopped
+Apr 14 01:58:14 ubuntu kernel: [ 1234.417290] perf_monitoring thread should stop
+Apr 14 01:58:14 ubuntu kernel: [ 1234.417343] kml readahed perf thread stopped
+Apr 14 01:58:14 ubuntu kernel: [ 1234.429008] KML rocksdb readahead_update ended
+readseq 13
+Apr 14 01:58:14 ubuntu kernel: [ 1234.459522] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:14 ubuntu kernel: [ 1234.474262] kml_readahead_init: hello
+Apr 14 01:58:14 ubuntu kernel: [ 1234.477834] opened block device 00000000a5bb772f
+Apr 14 01:58:16 ubuntu kernel: [ 1234.478823] KML rocksdb readahead_update started
+Apr 14 01:58:16 ubuntu kernel: [ 1235.504860] ----------------------- 1 -----------------------
+Apr 14 01:58:16 ubuntu kernel: [ 1235.504869] readahead val set:		 16
+Apr 14 01:58:16 ubuntu kernel: [ 1235.504869] predicted class:		 readrandom
+Apr 14 01:58:16 ubuntu kernel: [ 1235.504870] inference took in avg.:		 7782
+Apr 14 01:58:16 ubuntu kernel: [ 1235.504870] data processing took in avg.:	 28
+Apr 14 01:58:16 ubuntu kernel: [ 1235.504870] ops/sec average:		 0
+Apr 14 01:58:17 ubuntu kernel: [ 1236.529470] readahead_update thread should stop
+Apr 14 01:58:17 ubuntu kernel: [ 1236.529505] kml readahead update thread stopped
+Apr 14 01:58:17 ubuntu kernel: [ 1236.529509] perf_monitoring thread should stop
+Apr 14 01:58:17 ubuntu kernel: [ 1236.529519] kml readahed perf thread stopped
+Apr 14 01:58:17 ubuntu kernel: [ 1236.541126] KML rocksdb readahead_update ended
+Apr 14 01:58:17 ubuntu kernel: [ 1236.568029] result-kml.sh (3957): drop_caches: 3
+readseq 14
+Apr 14 01:58:17 ubuntu kernel: [ 1236.585030] kml_readahead_init: hello
+Apr 14 01:58:17 ubuntu kernel: [ 1236.588459] opened block device 00000000a5bb772f
+Apr 14 01:58:18 ubuntu kernel: [ 1236.589470] KML rocksdb readahead_update started
+Apr 14 01:58:18 ubuntu kernel: [ 1237.616931] ----------------------- 1 -----------------------
+Apr 14 01:58:18 ubuntu kernel: [ 1237.616943] readahead val set:		 16
+Apr 14 01:58:18 ubuntu kernel: [ 1237.616943] predicted class:		 readrandom
+Apr 14 01:58:18 ubuntu kernel: [ 1237.616944] inference took in avg.:		 9292
+Apr 14 01:58:18 ubuntu kernel: [ 1237.616944] data processing took in avg.:	 19
+Apr 14 01:58:18 ubuntu kernel: [ 1237.616944] ops/sec average:		 0
+Apr 14 01:58:19 ubuntu kernel: [ 1238.641814] readahead_update thread should stop
+Apr 14 01:58:19 ubuntu kernel: [ 1238.641846] kml readahead update thread stopped
+Apr 14 01:58:20 ubuntu kernel: [ 1239.665193] perf_monitoring thread should stop
+Apr 14 01:58:20 ubuntu kernel: [ 1239.665204] kml readahed perf thread stopped
+Apr 14 01:58:20 ubuntu kernel: [ 1239.673310] KML rocksdb readahead_update ended
+readseq 15
+Apr 14 01:58:20 ubuntu kernel: [ 1239.699697] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:20 ubuntu kernel: [ 1239.716429] kml_readahead_init: hello
+Apr 14 01:58:20 ubuntu kernel: [ 1239.719531] opened block device 00000000a5bb772f
+Apr 14 01:58:21 ubuntu kernel: [ 1239.720579] KML rocksdb readahead_update started
+Apr 14 01:58:21 ubuntu kernel: [ 1240.750210] readahead_update thread should stop
+Apr 14 01:58:21 ubuntu kernel: [ 1240.750227] kml readahead update thread stopped
+Apr 14 01:58:21 ubuntu kernel: [ 1240.750243] perf_monitoring thread should stop
+Apr 14 01:58:21 ubuntu kernel: [ 1240.750257] kml readahed perf thread stopped
+Apr 14 01:58:21 ubuntu kernel: [ 1240.753400] KML rocksdb readahead_update ended
+Apr 14 01:58:21 ubuntu kernel: [ 1240.777745] result-kml.sh (3957): drop_caches: 3
+readseq 16
+Apr 14 01:58:21 ubuntu kernel: [ 1240.790875] kml_readahead_init: hello
+Apr 14 01:58:21 ubuntu kernel: [ 1240.793939] opened block device 00000000a5bb772f
+Apr 14 01:58:22 ubuntu kernel: [ 1240.794931] KML rocksdb readahead_update started
+Apr 14 01:58:22 ubuntu kernel: [ 1241.809265] ----------------------- 1 -----------------------
+Apr 14 01:58:22 ubuntu kernel: [ 1241.809273] readahead val set:		 16
+Apr 14 01:58:22 ubuntu kernel: [ 1241.809274] predicted class:		 readrandom
+Apr 14 01:58:22 ubuntu kernel: [ 1241.809274] inference took in avg.:		 6775
+Apr 14 01:58:22 ubuntu kernel: [ 1241.809274] data processing took in avg.:	 21
+Apr 14 01:58:22 ubuntu kernel: [ 1241.809275] ops/sec average:		 0
+Apr 14 01:58:23 ubuntu kernel: [ 1242.833430] readahead_update thread should stop
+Apr 14 01:58:23 ubuntu kernel: [ 1242.833437] kml readahead update thread stopped
+Apr 14 01:58:24 ubuntu kernel: [ 1243.857112] perf_monitoring thread should stop
+Apr 14 01:58:24 ubuntu kernel: [ 1243.857141] kml readahed perf thread stopped
+Apr 14 01:58:24 ubuntu kernel: [ 1243.865605] KML rocksdb readahead_update ended
+readseq 17
+Apr 14 01:58:24 ubuntu kernel: [ 1243.894422] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:24 ubuntu kernel: [ 1243.908260] kml_readahead_init: hello
+Apr 14 01:58:24 ubuntu kernel: [ 1243.911418] opened block device 00000000a5bb772f
+Apr 14 01:58:25 ubuntu kernel: [ 1243.912407] KML rocksdb readahead_update started
+Apr 14 01:58:25 ubuntu kernel: [ 1244.945168] ----------------------- 1 -----------------------
+Apr 14 01:58:25 ubuntu kernel: [ 1244.945176] readahead val set:		 16
+Apr 14 01:58:25 ubuntu kernel: [ 1244.945177] predicted class:		 readrandom
+Apr 14 01:58:25 ubuntu kernel: [ 1244.945177] inference took in avg.:		 7234
+Apr 14 01:58:25 ubuntu kernel: [ 1244.945177] data processing took in avg.:	 18
+Apr 14 01:58:25 ubuntu kernel: [ 1244.945177] ops/sec average:		 0
+Apr 14 01:58:26 ubuntu kernel: [ 1245.969156] readahead_update thread should stop
+Apr 14 01:58:26 ubuntu kernel: [ 1245.969164] kml readahead update thread stopped
+Apr 14 01:58:27 ubuntu kernel: [ 1246.993979] perf_monitoring thread should stop
+Apr 14 01:58:27 ubuntu kernel: [ 1246.994002] kml readahed perf thread stopped
+Apr 14 01:58:27 ubuntu kernel: [ 1247.005405] KML rocksdb readahead_update ended
+readseq 18
+Apr 14 01:58:27 ubuntu kernel: [ 1247.034750] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:27 ubuntu kernel: [ 1247.048992] kml_readahead_init: hello
+Apr 14 01:58:27 ubuntu kernel: [ 1247.051947] opened block device 00000000a5bb772f
+Apr 14 01:58:28 ubuntu kernel: [ 1247.052940] KML rocksdb readahead_update started
+Apr 14 01:58:28 ubuntu kernel: [ 1248.106793] ----------------------- 1 -----------------------
+Apr 14 01:58:28 ubuntu kernel: [ 1248.106802] readahead val set:		 16
+Apr 14 01:58:28 ubuntu kernel: [ 1248.106803] predicted class:		 readrandom
+Apr 14 01:58:28 ubuntu kernel: [ 1248.106803] inference took in avg.:		 6974
+Apr 14 01:58:28 ubuntu kernel: [ 1248.106803] data processing took in avg.:	 20
+Apr 14 01:58:28 ubuntu kernel: [ 1248.106804] ops/sec average:		 0
+Apr 14 01:58:29 ubuntu kernel: [ 1249.137993] readahead_update thread should stop
+Apr 14 01:58:29 ubuntu kernel: [ 1249.138017] kml readahead update thread stopped
+Apr 14 01:58:29 ubuntu kernel: [ 1249.138026] perf_monitoring thread should stop
+Apr 14 01:58:29 ubuntu kernel: [ 1249.138033] kml readahed perf thread stopped
+Apr 14 01:58:29 ubuntu kernel: [ 1249.149448] KML rocksdb readahead_update ended
+readseq 19
+Apr 14 01:58:29 ubuntu kernel: [ 1249.178329] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:29 ubuntu kernel: [ 1249.192944] kml_readahead_init: hello
+Apr 14 01:58:29 ubuntu kernel: [ 1249.195966] opened block device 00000000a5bb772f
+Apr 14 01:58:30 ubuntu kernel: [ 1249.196959] KML rocksdb readahead_update started
+Apr 14 01:58:30 ubuntu kernel: [ 1250.224048] readahead_update thread should stop
+Apr 14 01:58:30 ubuntu kernel: [ 1250.224051] kml readahead update thread stopped
+Apr 14 01:58:30 ubuntu kernel: [ 1250.224138] perf_monitoring thread should stop
+Apr 14 01:58:30 ubuntu kernel: [ 1250.224156] kml readahed perf thread stopped
+Apr 14 01:58:30 ubuntu kernel: [ 1250.237319] KML rocksdb readahead_update ended
+readseq 20
+Apr 14 01:58:30 ubuntu kernel: [ 1250.266102] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:30 ubuntu kernel: [ 1250.280448] kml_readahead_init: hello
+Apr 14 01:58:30 ubuntu kernel: [ 1250.283708] opened block device 00000000a5bb772f
+Apr 14 01:58:31 ubuntu kernel: [ 1250.284699] KML rocksdb readahead_update started
+Apr 14 01:58:31 ubuntu kernel: [ 1251.317274] ----------------------- 1 -----------------------
+Apr 14 01:58:31 ubuntu kernel: [ 1251.317288] readahead val set:		 16
+Apr 14 01:58:31 ubuntu kernel: [ 1251.317288] predicted class:		 readrandom
+Apr 14 01:58:31 ubuntu kernel: [ 1251.317289] inference took in avg.:		 11171
+Apr 14 01:58:31 ubuntu kernel: [ 1251.317289] data processing took in avg.:	 18
+Apr 14 01:58:31 ubuntu kernel: [ 1251.317290] ops/sec average:		 0
+Apr 14 01:58:32 ubuntu kernel: [ 1252.337356] readahead_update thread should stop
+Apr 14 01:58:32 ubuntu kernel: [ 1252.337375] kml readahead update thread stopped
+Apr 14 01:58:33 ubuntu kernel: [ 1253.362054] perf_monitoring thread should stop
+Apr 14 01:58:33 ubuntu kernel: [ 1253.362063] kml readahed perf thread stopped
+Apr 14 01:58:33 ubuntu kernel: [ 1253.374051] KML rocksdb readahead_update ended
+Apr 14 01:58:33 ubuntu kernel: [ 1253.402453] result-kml.sh (3957): drop_caches: 3
+readseq 21
+Apr 14 01:58:33 ubuntu kernel: [ 1253.417806] kml_readahead_init: hello
+Apr 14 01:58:33 ubuntu kernel: [ 1253.420750] opened block device 00000000a5bb772f
+Apr 14 01:58:34 ubuntu kernel: [ 1253.421743] KML rocksdb readahead_update started
+Apr 14 01:58:34 ubuntu kernel: [ 1254.449013] readahead_update thread should stop
+Apr 14 01:58:34 ubuntu kernel: [ 1254.449016] kml readahead update thread stopped
+Apr 14 01:58:34 ubuntu kernel: [ 1254.449078] perf_monitoring thread should stop
+Apr 14 01:58:34 ubuntu kernel: [ 1254.449095] kml readahed perf thread stopped
+Apr 14 01:58:34 ubuntu kernel: [ 1254.452272] KML rocksdb readahead_update ended
+readseq 22
+Apr 14 01:58:34 ubuntu kernel: [ 1254.478420] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:34 ubuntu kernel: [ 1254.492325] kml_readahead_init: hello
+Apr 14 01:58:34 ubuntu kernel: [ 1254.495453] opened block device 00000000a5bb772f
+Apr 14 01:58:36 ubuntu kernel: [ 1254.496445] KML rocksdb readahead_update started
+Apr 14 01:58:36 ubuntu kernel: [ 1255.505719] ----------------------- 1 -----------------------
+Apr 14 01:58:36 ubuntu kernel: [ 1255.505734] readahead val set:		 16
+Apr 14 01:58:36 ubuntu kernel: [ 1255.505734] predicted class:		 readrandom
+Apr 14 01:58:36 ubuntu kernel: [ 1255.505735] inference took in avg.:		 11889
+Apr 14 01:58:36 ubuntu kernel: [ 1255.505758] data processing took in avg.:	 67
+Apr 14 01:58:36 ubuntu kernel: [ 1255.505758] ops/sec average:		 0
+Apr 14 01:58:37 ubuntu kernel: [ 1256.530294] readahead_update thread should stop
+Apr 14 01:58:37 ubuntu kernel: [ 1256.530304] kml readahead update thread stopped
+Apr 14 01:58:37 ubuntu kernel: [ 1256.530318] perf_monitoring thread should stop
+Apr 14 01:58:37 ubuntu kernel: [ 1256.530322] kml readahed perf thread stopped
+Apr 14 01:58:37 ubuntu kernel: [ 1256.537802] KML rocksdb readahead_update ended
+readseq 23
+Apr 14 01:58:37 ubuntu kernel: [ 1256.571807] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:37 ubuntu kernel: [ 1256.590893] kml_readahead_init: hello
+Apr 14 01:58:37 ubuntu kernel: [ 1256.594408] opened block device 00000000a5bb772f
+Apr 14 01:58:38 ubuntu kernel: [ 1256.595400] KML rocksdb readahead_update started
+Apr 14 01:58:38 ubuntu kernel: [ 1257.617441] ----------------------- 1 -----------------------
+Apr 14 01:58:38 ubuntu kernel: [ 1257.617452] readahead val set:		 16
+Apr 14 01:58:38 ubuntu kernel: [ 1257.617452] predicted class:		 readrandom
+Apr 14 01:58:38 ubuntu kernel: [ 1257.617453] inference took in avg.:		 8584
+Apr 14 01:58:38 ubuntu kernel: [ 1257.617453] data processing took in avg.:	 26
+Apr 14 01:58:38 ubuntu kernel: [ 1257.617453] ops/sec average:		 0
+Apr 14 01:58:39 ubuntu kernel: [ 1258.641971] readahead_update thread should stop
+Apr 14 01:58:39 ubuntu kernel: [ 1258.641994] kml readahead update thread stopped
+Apr 14 01:58:39 ubuntu kernel: [ 1258.641999] perf_monitoring thread should stop
+Apr 14 01:58:39 ubuntu kernel: [ 1258.642003] kml readahed perf thread stopped
+Apr 14 01:58:39 ubuntu kernel: [ 1258.654282] KML rocksdb readahead_update ended
+readseq 24
+Apr 14 01:58:39 ubuntu kernel: [ 1258.688181] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:39 ubuntu kernel: [ 1258.703384] kml_readahead_init: hello
+Apr 14 01:58:39 ubuntu kernel: [ 1258.706936] opened block device 00000000a5bb772f
+Apr 14 01:58:40 ubuntu kernel: [ 1258.707928] KML rocksdb readahead_update started
+Apr 14 01:58:40 ubuntu kernel: [ 1259.729885] ----------------------- 1 -----------------------
+Apr 14 01:58:40 ubuntu kernel: [ 1259.729897] readahead val set:		 16
+Apr 14 01:58:40 ubuntu kernel: [ 1259.729898] predicted class:		 readrandom
+Apr 14 01:58:40 ubuntu kernel: [ 1259.729898] inference took in avg.:		 10183
+Apr 14 01:58:40 ubuntu kernel: [ 1259.729898] data processing took in avg.:	 21
+Apr 14 01:58:40 ubuntu kernel: [ 1259.729899] ops/sec average:		 0
+Apr 14 01:58:41 ubuntu kernel: [ 1260.754527] readahead_update thread should stop
+Apr 14 01:58:41 ubuntu kernel: [ 1260.754548] kml readahead update thread stopped
+Apr 14 01:58:41 ubuntu kernel: [ 1260.754621] perf_monitoring thread should stop
+Apr 14 01:58:41 ubuntu kernel: [ 1260.754660] kml readahed perf thread stopped
+Apr 14 01:58:41 ubuntu kernel: [ 1260.765702] KML rocksdb readahead_update ended
+readseq 25
+Apr 14 01:58:41 ubuntu kernel: [ 1260.796225] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:41 ubuntu kernel: [ 1260.811867] kml_readahead_init: hello
+Apr 14 01:58:41 ubuntu kernel: [ 1260.815405] opened block device 00000000a5bb772f
+Apr 14 01:58:42 ubuntu kernel: [ 1260.816397] KML rocksdb readahead_update started
+Apr 14 01:58:42 ubuntu kernel: [ 1261.841946] ----------------------- 1 -----------------------
+Apr 14 01:58:42 ubuntu kernel: [ 1261.841957] readahead val set:		 16
+Apr 14 01:58:42 ubuntu kernel: [ 1261.841957] predicted class:		 readrandom
+Apr 14 01:58:42 ubuntu kernel: [ 1261.841957] inference took in avg.:		 8394
+Apr 14 01:58:42 ubuntu kernel: [ 1261.841958] data processing took in avg.:	 20
+Apr 14 01:58:42 ubuntu kernel: [ 1261.841958] ops/sec average:		 0
+Apr 14 01:58:43 ubuntu kernel: [ 1262.866497] readahead_update thread should stop
+Apr 14 01:58:43 ubuntu kernel: [ 1262.866520] kml readahead update thread stopped
+Apr 14 01:58:44 ubuntu kernel: [ 1263.889616] perf_monitoring thread should stop
+Apr 14 01:58:44 ubuntu kernel: [ 1263.889639] kml readahed perf thread stopped
+Apr 14 01:58:44 ubuntu kernel: [ 1263.898176] KML rocksdb readahead_update ended
+readseq 26
+Apr 14 01:58:44 ubuntu kernel: [ 1263.923624] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:44 ubuntu kernel: [ 1263.938372] kml_readahead_init: hello
+Apr 14 01:58:44 ubuntu kernel: [ 1263.941331] opened block device 00000000a5bb772f
+Apr 14 01:58:45 ubuntu kernel: [ 1263.942326] KML rocksdb readahead_update started
+Apr 14 01:58:45 ubuntu kernel: [ 1264.945828] ----------------------- 1 -----------------------
+Apr 14 01:58:45 ubuntu kernel: [ 1264.945838] readahead val set:		 960
+Apr 14 01:58:45 ubuntu kernel: [ 1264.945838] predicted class:		 readreverse
+Apr 14 01:58:45 ubuntu kernel: [ 1264.945838] inference took in avg.:		 7988
+Apr 14 01:58:45 ubuntu kernel: [ 1264.945839] data processing took in avg.:	 45
+Apr 14 01:58:45 ubuntu kernel: [ 1264.945839] ops/sec average:		 0
+Apr 14 01:58:46 ubuntu kernel: [ 1265.970413] readahead_update thread should stop
+Apr 14 01:58:46 ubuntu kernel: [ 1265.970421] kml readahead update thread stopped
+Apr 14 01:58:46 ubuntu kernel: [ 1265.986888] perf_monitoring thread should stop
+Apr 14 01:58:46 ubuntu kernel: [ 1265.986894] kml readahed perf thread stopped
+Apr 14 01:58:46 ubuntu kernel: [ 1265.990005] KML rocksdb readahead_update ended
+readseq 27
+Apr 14 01:58:46 ubuntu kernel: [ 1266.018655] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:46 ubuntu kernel: [ 1266.032174] kml_readahead_init: hello
+Apr 14 01:58:46 ubuntu kernel: [ 1266.035362] opened block device 00000000a5bb772f
+Apr 14 01:58:47 ubuntu kernel: [ 1266.036355] KML rocksdb readahead_update started
+Apr 14 01:58:47 ubuntu kernel: [ 1267.057708] ----------------------- 1 -----------------------
+Apr 14 01:58:47 ubuntu kernel: [ 1267.057717] readahead val set:		 16
+Apr 14 01:58:47 ubuntu kernel: [ 1267.057717] predicted class:		 readrandom
+Apr 14 01:58:47 ubuntu kernel: [ 1267.057718] inference took in avg.:		 7536
+Apr 14 01:58:47 ubuntu kernel: [ 1267.057718] data processing took in avg.:	 16
+Apr 14 01:58:47 ubuntu kernel: [ 1267.057718] ops/sec average:		 0
+Apr 14 01:58:48 ubuntu kernel: [ 1268.082605] readahead_update thread should stop
+Apr 14 01:58:48 ubuntu kernel: [ 1268.082681] kml readahead update thread stopped
+Apr 14 01:58:49 ubuntu kernel: [ 1269.107201] perf_monitoring thread should stop
+Apr 14 01:58:49 ubuntu kernel: [ 1269.107211] kml readahed perf thread stopped
+Apr 14 01:58:49 ubuntu kernel: [ 1269.122680] KML rocksdb readahead_update ended
+readseq 28
+Apr 14 01:58:49 ubuntu kernel: [ 1269.151233] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:49 ubuntu kernel: [ 1269.165362] kml_readahead_init: hello
+Apr 14 01:58:49 ubuntu kernel: [ 1269.168483] opened block device 00000000a5bb772f
+Apr 14 01:58:50 ubuntu kernel: [ 1269.169474] KML rocksdb readahead_update started
+Apr 14 01:58:50 ubuntu kernel: [ 1270.194022] ----------------------- 1 -----------------------
+Apr 14 01:58:50 ubuntu kernel: [ 1270.194030] readahead val set:		 16
+Apr 14 01:58:50 ubuntu kernel: [ 1270.194030] predicted class:		 readrandom
+Apr 14 01:58:50 ubuntu kernel: [ 1270.194030] inference took in avg.:		 6446
+Apr 14 01:58:50 ubuntu kernel: [ 1270.194031] data processing took in avg.:	 18
+Apr 14 01:58:50 ubuntu kernel: [ 1270.194031] ops/sec average:		 0
+Apr 14 01:58:51 ubuntu kernel: [ 1271.218153] readahead_update thread should stop
+Apr 14 01:58:51 ubuntu kernel: [ 1271.218161] kml readahead update thread stopped
+Apr 14 01:58:52 ubuntu kernel: [ 1272.242050] perf_monitoring thread should stop
+Apr 14 01:58:52 ubuntu kernel: [ 1272.242080] kml readahed perf thread stopped
+Apr 14 01:58:52 ubuntu kernel: [ 1272.254029] KML rocksdb readahead_update ended
+readseq 29
+Apr 14 01:58:52 ubuntu kernel: [ 1272.275203] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:52 ubuntu kernel: [ 1272.289190] kml_readahead_init: hello
+Apr 14 01:58:52 ubuntu kernel: [ 1272.292263] opened block device 00000000a5bb772f
+Apr 14 01:58:53 ubuntu kernel: [ 1272.293254] KML rocksdb readahead_update started
+Apr 14 01:58:53 ubuntu kernel: [ 1273.297885] ----------------------- 1 -----------------------
+Apr 14 01:58:53 ubuntu kernel: [ 1273.297915] readahead val set:		 16
+Apr 14 01:58:53 ubuntu kernel: [ 1273.297916] predicted class:		 readrandom
+Apr 14 01:58:53 ubuntu kernel: [ 1273.297916] inference took in avg.:		 28577
+Apr 14 01:58:53 ubuntu kernel: [ 1273.297916] data processing took in avg.:	 92
+Apr 14 01:58:53 ubuntu kernel: [ 1273.297917] ops/sec average:		 0
+Apr 14 01:58:54 ubuntu kernel: [ 1274.322704] readahead_update thread should stop
+Apr 14 01:58:54 ubuntu kernel: [ 1274.322714] kml readahead update thread stopped
+Apr 14 01:58:55 ubuntu kernel: [ 1275.347400] perf_monitoring thread should stop
+Apr 14 01:58:55 ubuntu kernel: [ 1275.347494] kml readahed perf thread stopped
+Apr 14 01:58:55 ubuntu kernel: [ 1275.350502] KML rocksdb readahead_update ended
+readseq 30
+Apr 14 01:58:55 ubuntu kernel: [ 1275.375425] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:55 ubuntu kernel: [ 1275.389459] kml_readahead_init: hello
+Apr 14 01:58:55 ubuntu kernel: [ 1275.392586] opened block device 00000000a5bb772f
+Apr 14 01:58:56 ubuntu kernel: [ 1275.393579] KML rocksdb readahead_update started
+Apr 14 01:58:56 ubuntu kernel: [ 1276.402018] ----------------------- 1 -----------------------
+Apr 14 01:58:56 ubuntu kernel: [ 1276.402027] readahead val set:		 16
+Apr 14 01:58:56 ubuntu kernel: [ 1276.402027] predicted class:		 readrandom
+Apr 14 01:58:56 ubuntu kernel: [ 1276.402028] inference took in avg.:		 7092
+Apr 14 01:58:56 ubuntu kernel: [ 1276.402028] data processing took in avg.:	 47
+Apr 14 01:58:56 ubuntu kernel: [ 1276.402028] ops/sec average:		 0
+Apr 14 01:58:57 ubuntu kernel: [ 1277.427047] readahead_update thread should stop
+Apr 14 01:58:57 ubuntu kernel: [ 1277.427056] kml readahead update thread stopped
+Apr 14 01:58:57 ubuntu kernel: [ 1277.427058] perf_monitoring thread should stop
+Apr 14 01:58:57 ubuntu kernel: [ 1277.427061] kml readahed perf thread stopped
+Apr 14 01:58:57 ubuntu kernel: [ 1277.430186] KML rocksdb readahead_update ended
+readseq 31
+Apr 14 01:58:57 ubuntu kernel: [ 1277.451241] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:58:57 ubuntu kernel: [ 1277.464678] kml_readahead_init: hello
+Apr 14 01:58:57 ubuntu kernel: [ 1277.467710] opened block device 00000000a5bb772f
+Apr 14 01:58:58 ubuntu kernel: [ 1277.468721] KML rocksdb readahead_update started
+Apr 14 01:58:58 ubuntu kernel: [ 1278.486018] ----------------------- 1 -----------------------
+Apr 14 01:58:58 ubuntu kernel: [ 1278.486026] readahead val set:		 16
+Apr 14 01:58:58 ubuntu kernel: [ 1278.486026] predicted class:		 readrandom
+Apr 14 01:58:58 ubuntu kernel: [ 1278.486026] inference took in avg.:		 6506
+Apr 14 01:58:58 ubuntu kernel: [ 1278.486027] data processing took in avg.:	 19
+Apr 14 01:58:58 ubuntu kernel: [ 1278.486027] ops/sec average:		 0
+Apr 14 01:59:00 ubuntu kernel: [ 1279.506872] readahead_update thread should stop
+Apr 14 01:59:00 ubuntu kernel: [ 1279.506893] kml readahead update thread stopped
+Apr 14 01:59:01 ubuntu kernel: [ 1280.530870] perf_monitoring thread should stop
+Apr 14 01:59:01 ubuntu kernel: [ 1280.530911] kml readahed perf thread stopped
+Apr 14 01:59:01 ubuntu kernel: [ 1280.533927] KML rocksdb readahead_update ended
+Apr 14 01:59:01 ubuntu kernel: [ 1280.557293] result-kml.sh (3957): drop_caches: 3
+readseq 32
+Apr 14 01:59:01 ubuntu kernel: [ 1280.573895] kml_readahead_init: hello
+Apr 14 01:59:01 ubuntu kernel: [ 1280.577262] opened block device 00000000a5bb772f
+Apr 14 01:59:02 ubuntu kernel: [ 1280.578252] KML rocksdb readahead_update started
+Apr 14 01:59:02 ubuntu kernel: [ 1281.587214] ----------------------- 1 -----------------------
+Apr 14 01:59:02 ubuntu kernel: [ 1281.587225] readahead val set:		 16
+Apr 14 01:59:02 ubuntu kernel: [ 1281.587225] predicted class:		 readrandom
+Apr 14 01:59:02 ubuntu kernel: [ 1281.587225] inference took in avg.:		 8270
+Apr 14 01:59:02 ubuntu kernel: [ 1281.587226] data processing took in avg.:	 58
+Apr 14 01:59:02 ubuntu kernel: [ 1281.587226] ops/sec average:		 0
+Apr 14 01:59:03 ubuntu kernel: [ 1282.610885] readahead_update thread should stop
+Apr 14 01:59:03 ubuntu kernel: [ 1282.610894] kml readahead update thread stopped
+Apr 14 01:59:04 ubuntu kernel: [ 1283.635023] perf_monitoring thread should stop
+Apr 14 01:59:04 ubuntu kernel: [ 1283.635092] kml readahed perf thread stopped
+Apr 14 01:59:04 ubuntu kernel: [ 1283.642999] KML rocksdb readahead_update ended
+Apr 14 01:59:04 ubuntu kernel: [ 1283.669302] result-kml.sh (3957): drop_caches: 3
+readseq 33
+Apr 14 01:59:04 ubuntu kernel: [ 1283.685949] kml_readahead_init: hello
+Apr 14 01:59:04 ubuntu kernel: [ 1283.689403] opened block device 00000000a5bb772f
+Apr 14 01:59:05 ubuntu kernel: [ 1283.690394] KML rocksdb readahead_update started
+Apr 14 01:59:05 ubuntu kernel: [ 1284.726197] ----------------------- 1 -----------------------
+Apr 14 01:59:05 ubuntu kernel: [ 1284.726206] readahead val set:		 16
+Apr 14 01:59:05 ubuntu kernel: [ 1284.726206] predicted class:		 readrandom
+Apr 14 01:59:05 ubuntu kernel: [ 1284.726207] inference took in avg.:		 7407
+Apr 14 01:59:05 ubuntu kernel: [ 1284.726207] data processing took in avg.:	 23
+Apr 14 01:59:05 ubuntu kernel: [ 1284.726207] ops/sec average:		 0
+Apr 14 01:59:06 ubuntu kernel: [ 1285.747096] readahead_update thread should stop
+Apr 14 01:59:06 ubuntu kernel: [ 1285.747127] kml readahead update thread stopped
+Apr 14 01:59:07 ubuntu kernel: [ 1286.770893] perf_monitoring thread should stop
+Apr 14 01:59:07 ubuntu kernel: [ 1286.770918] kml readahed perf thread stopped
+Apr 14 01:59:07 ubuntu kernel: [ 1286.773924] KML rocksdb readahead_update ended
+readseq 34
+Apr 14 01:59:07 ubuntu kernel: [ 1286.804603] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:59:07 ubuntu kernel: [ 1286.821907] kml_readahead_init: hello
+Apr 14 01:59:07 ubuntu kernel: [ 1286.826024] opened block device 00000000a5bb772f
+Apr 14 01:59:08 ubuntu kernel: [ 1286.827015] KML rocksdb readahead_update started
+Apr 14 01:59:08 ubuntu kernel: [ 1287.862189] ----------------------- 1 -----------------------
+Apr 14 01:59:08 ubuntu kernel: [ 1287.862199] readahead val set:		 16
+Apr 14 01:59:08 ubuntu kernel: [ 1287.862199] predicted class:		 readrandom
+Apr 14 01:59:08 ubuntu kernel: [ 1287.862200] inference took in avg.:		 8332
+Apr 14 01:59:08 ubuntu kernel: [ 1287.862200] data processing took in avg.:	 32
+Apr 14 01:59:08 ubuntu kernel: [ 1287.862200] ops/sec average:		 0
+Apr 14 01:59:09 ubuntu kernel: [ 1288.883081] readahead_update thread should stop
+Apr 14 01:59:09 ubuntu kernel: [ 1288.883099] kml readahead update thread stopped
+Apr 14 01:59:09 ubuntu kernel: [ 1288.883102] perf_monitoring thread should stop
+Apr 14 01:59:09 ubuntu kernel: [ 1288.883105] kml readahed perf thread stopped
+Apr 14 01:59:09 ubuntu kernel: [ 1288.886307] KML rocksdb readahead_update ended
+readseq 35
+Apr 14 01:59:09 ubuntu kernel: [ 1288.915104] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:59:09 ubuntu kernel: [ 1288.929446] kml_readahead_init: hello
+Apr 14 01:59:09 ubuntu kernel: [ 1288.932825] opened block device 00000000a5bb772f
+Apr 14 01:59:10 ubuntu kernel: [ 1288.933818] KML rocksdb readahead_update started
+Apr 14 01:59:10 ubuntu kernel: [ 1289.937951] ----------------------- 1 -----------------------
+Apr 14 01:59:10 ubuntu kernel: [ 1289.937960] readahead val set:		 16
+Apr 14 01:59:10 ubuntu kernel: [ 1289.937960] predicted class:		 readrandom
+Apr 14 01:59:10 ubuntu kernel: [ 1289.937961] inference took in avg.:		 6835
+Apr 14 01:59:10 ubuntu kernel: [ 1289.937961] data processing took in avg.:	 84
+Apr 14 01:59:10 ubuntu kernel: [ 1289.937961] ops/sec average:		 0
+Apr 14 01:59:11 ubuntu kernel: [ 1290.962471] readahead_update thread should stop
+Apr 14 01:59:11 ubuntu kernel: [ 1290.962478] kml readahead update thread stopped
+Apr 14 01:59:11 ubuntu kernel: [ 1290.981950] perf_monitoring thread should stop
+Apr 14 01:59:11 ubuntu kernel: [ 1290.981965] kml readahed perf thread stopped
+Apr 14 01:59:11 ubuntu kernel: [ 1290.985022] KML rocksdb readahead_update ended
+readseq 36
+Apr 14 01:59:11 ubuntu kernel: [ 1291.010921] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:59:11 ubuntu kernel: [ 1291.026457] kml_readahead_init: hello
+Apr 14 01:59:11 ubuntu kernel: [ 1291.029586] opened block device 00000000a5bb772f
+Apr 14 01:59:12 ubuntu kernel: [ 1291.030578] KML rocksdb readahead_update started
+Apr 14 01:59:12 ubuntu kernel: [ 1292.049682] ----------------------- 1 -----------------------
+Apr 14 01:59:12 ubuntu kernel: [ 1292.049690] readahead val set:		 16
+Apr 14 01:59:12 ubuntu kernel: [ 1292.049691] predicted class:		 readrandom
+Apr 14 01:59:12 ubuntu kernel: [ 1292.049691] inference took in avg.:		 6338
+Apr 14 01:59:12 ubuntu kernel: [ 1292.049691] data processing took in avg.:	 27
+Apr 14 01:59:12 ubuntu kernel: [ 1292.049698] ops/sec average:		 0
+Apr 14 01:59:13 ubuntu kernel: [ 1293.074015] readahead_update thread should stop
+Apr 14 01:59:13 ubuntu kernel: [ 1293.074053] kml readahead update thread stopped
+Apr 14 01:59:13 ubuntu kernel: [ 1293.074062] perf_monitoring thread should stop
+Apr 14 01:59:13 ubuntu kernel: [ 1293.074069] kml readahed perf thread stopped
+Apr 14 01:59:13 ubuntu kernel: [ 1293.090542] KML rocksdb readahead_update ended
+Apr 14 01:59:13 ubuntu kernel: [ 1293.127203] result-kml.sh (3957): drop_caches: 3
+readseq 37
+Apr 14 01:59:13 ubuntu kernel: [ 1293.140873] kml_readahead_init: hello
+Apr 14 01:59:13 ubuntu kernel: [ 1293.143943] opened block device 00000000a5bb772f
+Apr 14 01:59:14 ubuntu kernel: [ 1293.144955] KML rocksdb readahead_update started
+Apr 14 01:59:14 ubuntu kernel: [ 1294.161442] ----------------------- 1 -----------------------
+Apr 14 01:59:14 ubuntu kernel: [ 1294.161450] readahead val set:		 16
+Apr 14 01:59:14 ubuntu kernel: [ 1294.161450] predicted class:		 readrandom
+Apr 14 01:59:14 ubuntu kernel: [ 1294.161450] inference took in avg.:		 6369
+Apr 14 01:59:14 ubuntu kernel: [ 1294.161451] data processing took in avg.:	 19
+Apr 14 01:59:14 ubuntu kernel: [ 1294.161451] ops/sec average:		 0
+Apr 14 01:59:15 ubuntu kernel: [ 1295.185621] readahead_update thread should stop
+Apr 14 01:59:15 ubuntu kernel: [ 1295.185645] kml readahead update thread stopped
+Apr 14 01:59:16 ubuntu kernel: [ 1296.210029] perf_monitoring thread should stop
+Apr 14 01:59:16 ubuntu kernel: [ 1296.210053] kml readahed perf thread stopped
+Apr 14 01:59:16 ubuntu kernel: [ 1296.218069] KML rocksdb readahead_update ended
+Apr 14 01:59:16 ubuntu kernel: [ 1296.242162] result-kml.sh (3957): drop_caches: 3
+readseq 38
+Apr 14 01:59:16 ubuntu kernel: [ 1296.256240] kml_readahead_init: hello
+Apr 14 01:59:16 ubuntu kernel: [ 1296.259351] opened block device 00000000a5bb772f
+Apr 14 01:59:17 ubuntu kernel: [ 1296.260343] KML rocksdb readahead_update started
+Apr 14 01:59:17 ubuntu kernel: [ 1297.265103] ----------------------- 1 -----------------------
+Apr 14 01:59:17 ubuntu kernel: [ 1297.265112] readahead val set:		 16
+Apr 14 01:59:17 ubuntu kernel: [ 1297.265112] predicted class:		 readrandom
+Apr 14 01:59:17 ubuntu kernel: [ 1297.265113] inference took in avg.:		 7225
+Apr 14 01:59:17 ubuntu kernel: [ 1297.265113] data processing took in avg.:	 75
+Apr 14 01:59:17 ubuntu kernel: [ 1297.265113] ops/sec average:		 0
+Apr 14 01:59:18 ubuntu kernel: [ 1298.289349] readahead_update thread should stop
+Apr 14 01:59:18 ubuntu kernel: [ 1298.289357] kml readahead update thread stopped
+Apr 14 01:59:18 ubuntu kernel: [ 1298.289361] perf_monitoring thread should stop
+Apr 14 01:59:18 ubuntu kernel: [ 1298.289364] kml readahed perf thread stopped
+Apr 14 01:59:18 ubuntu kernel: [ 1298.297341] KML rocksdb readahead_update ended
+Apr 14 01:59:18 ubuntu kernel: [ 1298.322090] result-kml.sh (3957): drop_caches: 3
+readseq 39
+Apr 14 01:59:18 ubuntu kernel: [ 1298.336071] kml_readahead_init: hello
+Apr 14 01:59:18 ubuntu kernel: [ 1298.339024] opened block device 00000000a5bb772f
+Apr 14 01:59:19 ubuntu kernel: [ 1298.340016] KML rocksdb readahead_update started
+Apr 14 01:59:19 ubuntu kernel: [ 1299.344839] ----------------------- 1 -----------------------
+Apr 14 01:59:19 ubuntu kernel: [ 1299.344848] readahead val set:		 16
+Apr 14 01:59:19 ubuntu kernel: [ 1299.344848] predicted class:		 readrandom
+Apr 14 01:59:19 ubuntu kernel: [ 1299.344848] inference took in avg.:		 7188
+Apr 14 01:59:19 ubuntu kernel: [ 1299.344849] data processing took in avg.:	 83
+Apr 14 01:59:19 ubuntu kernel: [ 1299.344849] ops/sec average:		 0
+Apr 14 01:59:20 ubuntu kernel: [ 1300.369390] readahead_update thread should stop
+Apr 14 01:59:20 ubuntu kernel: [ 1300.369398] kml readahead update thread stopped
+Apr 14 01:59:20 ubuntu kernel: [ 1300.369401] perf_monitoring thread should stop
+Apr 14 01:59:20 ubuntu kernel: [ 1300.369403] kml readahed perf thread stopped
+Apr 14 01:59:20 ubuntu kernel: [ 1300.377390] KML rocksdb readahead_update ended
+Apr 14 01:59:20 ubuntu kernel: [ 1300.409838] result-kml.sh (3957): drop_caches: 3
+readseq 40
+Apr 14 01:59:20 ubuntu kernel: [ 1300.425573] kml_readahead_init: hello
+Apr 14 01:59:20 ubuntu kernel: [ 1300.428772] opened block device 00000000a5bb772f
+Apr 14 01:59:21 ubuntu kernel: [ 1300.429763] KML rocksdb readahead_update started
+Apr 14 01:59:21 ubuntu kernel: [ 1301.456580] ----------------------- 1 -----------------------
+Apr 14 01:59:21 ubuntu kernel: [ 1301.456589] readahead val set:		 16
+Apr 14 01:59:21 ubuntu kernel: [ 1301.456590] predicted class:		 readrandom
+Apr 14 01:59:21 ubuntu kernel: [ 1301.456590] inference took in avg.:		 8318
+Apr 14 01:59:21 ubuntu kernel: [ 1301.456590] data processing took in avg.:	 19
+Apr 14 01:59:21 ubuntu kernel: [ 1301.456591] ops/sec average:		 0
+Apr 14 01:59:22 ubuntu kernel: [ 1302.481139] readahead_update thread should stop
+Apr 14 01:59:22 ubuntu kernel: [ 1302.481164] kml readahead update thread stopped
+Apr 14 01:59:24 ubuntu kernel: [ 1303.504912] perf_monitoring thread should stop
+Apr 14 01:59:24 ubuntu kernel: [ 1303.504940] kml readahed perf thread stopped
+Apr 14 01:59:24 ubuntu kernel: [ 1303.517202] KML rocksdb readahead_update ended
+readseq 41
+Apr 14 01:59:24 ubuntu kernel: [ 1303.547023] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:59:24 ubuntu kernel: [ 1303.564598] kml_readahead_init: hello
+Apr 14 01:59:24 ubuntu kernel: [ 1303.568141] opened block device 00000000a5bb772f
+Apr 14 01:59:25 ubuntu kernel: [ 1303.569134] KML rocksdb readahead_update started
+Apr 14 01:59:25 ubuntu kernel: [ 1304.596225] ----------------------- 1 -----------------------
+Apr 14 01:59:25 ubuntu kernel: [ 1304.596236] readahead val set:		 16
+Apr 14 01:59:25 ubuntu kernel: [ 1304.596236] predicted class:		 readrandom
+Apr 14 01:59:25 ubuntu kernel: [ 1304.596237] inference took in avg.:		 9477
+Apr 14 01:59:25 ubuntu kernel: [ 1304.596237] data processing took in avg.:	 23
+Apr 14 01:59:25 ubuntu kernel: [ 1304.596237] ops/sec average:		 0
+Apr 14 01:59:26 ubuntu kernel: [ 1305.617280] readahead_update thread should stop
+Apr 14 01:59:26 ubuntu kernel: [ 1305.617290] kml readahead update thread stopped
+Apr 14 01:59:26 ubuntu kernel: [ 1305.617302] perf_monitoring thread should stop
+Apr 14 01:59:26 ubuntu kernel: [ 1305.617325] kml readahed perf thread stopped
+Apr 14 01:59:26 ubuntu kernel: [ 1305.620665] KML rocksdb readahead_update ended
+readseq 42
+Apr 14 01:59:26 ubuntu kernel: [ 1305.653816] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:59:26 ubuntu kernel: [ 1305.669462] kml_readahead_init: hello
+Apr 14 01:59:26 ubuntu kernel: [ 1305.673061] opened block device 00000000a5bb772f
+Apr 14 01:59:27 ubuntu kernel: [ 1305.674112] KML rocksdb readahead_update started
+Apr 14 01:59:27 ubuntu kernel: [ 1306.703973] ----------------------- 1 -----------------------
+Apr 14 01:59:27 ubuntu kernel: [ 1306.703984] readahead val set:		 16
+Apr 14 01:59:27 ubuntu kernel: [ 1306.703985] predicted class:		 readrandom
+Apr 14 01:59:27 ubuntu kernel: [ 1306.703985] inference took in avg.:		 9637
+Apr 14 01:59:27 ubuntu kernel: [ 1306.703986] data processing took in avg.:	 22
+Apr 14 01:59:27 ubuntu kernel: [ 1306.703986] ops/sec average:		 0
+Apr 14 01:59:28 ubuntu kernel: [ 1307.727884] readahead_update thread should stop
+Apr 14 01:59:28 ubuntu kernel: [ 1307.727911] kml readahead update thread stopped
+Apr 14 01:59:28 ubuntu kernel: [ 1307.727914] perf_monitoring thread should stop
+Apr 14 01:59:28 ubuntu kernel: [ 1307.727918] kml readahed perf thread stopped
+Apr 14 01:59:28 ubuntu kernel: [ 1307.730934] KML rocksdb readahead_update ended
+readseq 43
+Apr 14 01:59:28 ubuntu kernel: [ 1307.757706] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:59:28 ubuntu kernel: [ 1307.775042] kml_readahead_init: hello
+Apr 14 01:59:28 ubuntu kernel: [ 1307.778462] opened block device 00000000a5bb772f
+Apr 14 01:59:29 ubuntu kernel: [ 1307.779455] KML rocksdb readahead_update started
+Apr 14 01:59:29 ubuntu kernel: [ 1308.783751] ----------------------- 1 -----------------------
+Apr 14 01:59:29 ubuntu kernel: [ 1308.783762] readahead val set:		 16
+Apr 14 01:59:29 ubuntu kernel: [ 1308.783762] predicted class:		 readrandom
+Apr 14 01:59:29 ubuntu kernel: [ 1308.783763] inference took in avg.:		 9081
+Apr 14 01:59:29 ubuntu kernel: [ 1308.783763] data processing took in avg.:	 92
+Apr 14 01:59:29 ubuntu kernel: [ 1308.783763] ops/sec average:		 0
+Apr 14 01:59:30 ubuntu kernel: [ 1309.807869] readahead_update thread should stop
+Apr 14 01:59:30 ubuntu kernel: [ 1309.807878] kml readahead update thread stopped
+Apr 14 01:59:30 ubuntu kernel: [ 1309.807882] perf_monitoring thread should stop
+Apr 14 01:59:30 ubuntu kernel: [ 1309.807885] kml readahed perf thread stopped
+Apr 14 01:59:30 ubuntu kernel: [ 1309.816192] KML rocksdb readahead_update ended
+readseq 44
+Apr 14 01:59:30 ubuntu kernel: [ 1309.846235] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:59:30 ubuntu kernel: [ 1309.862641] kml_readahead_init: hello
+Apr 14 01:59:30 ubuntu kernel: [ 1309.865962] opened block device 00000000a5bb772f
+Apr 14 01:59:31 ubuntu kernel: [ 1309.866949] KML rocksdb readahead_update started
+Apr 14 01:59:31 ubuntu kernel: [ 1310.895508] ----------------------- 1 -----------------------
+Apr 14 01:59:31 ubuntu kernel: [ 1310.895516] readahead val set:		 16
+Apr 14 01:59:31 ubuntu kernel: [ 1310.895516] predicted class:		 readrandom
+Apr 14 01:59:31 ubuntu kernel: [ 1310.895516] inference took in avg.:		 5932
+Apr 14 01:59:31 ubuntu kernel: [ 1310.895517] data processing took in avg.:	 19
+Apr 14 01:59:31 ubuntu kernel: [ 1310.895517] ops/sec average:		 0
+Apr 14 01:59:32 ubuntu kernel: [ 1311.920055] readahead_update thread should stop
+Apr 14 01:59:32 ubuntu kernel: [ 1311.920088] kml readahead update thread stopped
+Apr 14 01:59:32 ubuntu kernel: [ 1311.920092] perf_monitoring thread should stop
+Apr 14 01:59:32 ubuntu kernel: [ 1311.920097] kml readahed perf thread stopped
+Apr 14 01:59:32 ubuntu kernel: [ 1311.927590] KML rocksdb readahead_update ended
+Apr 14 01:59:32 ubuntu kernel: [ 1311.952931] result-kml.sh (3957): drop_caches: 3
+readseq 45
+Apr 14 01:59:32 ubuntu kernel: [ 1311.968161] kml_readahead_init: hello
+Apr 14 01:59:32 ubuntu kernel: [ 1311.971354] opened block device 00000000a5bb772f
+Apr 14 01:59:33 ubuntu kernel: [ 1311.972357] KML rocksdb readahead_update started
+Apr 14 01:59:33 ubuntu kernel: [ 1313.000073] readahead_update thread should stop
+Apr 14 01:59:33 ubuntu kernel: [ 1313.000076] kml readahead update thread stopped
+Apr 14 01:59:33 ubuntu kernel: [ 1313.000090] perf_monitoring thread should stop
+Apr 14 01:59:33 ubuntu kernel: [ 1313.000102] kml readahed perf thread stopped
+Apr 14 01:59:33 ubuntu kernel: [ 1313.003095] KML rocksdb readahead_update ended
+Apr 14 01:59:33 ubuntu kernel: [ 1313.027525] result-kml.sh (3957): drop_caches: 3
+readseq 46
+Apr 14 01:59:33 ubuntu kernel: [ 1313.041509] kml_readahead_init: hello
+Apr 14 01:59:33 ubuntu kernel: [ 1313.044594] opened block device 00000000a5bb772f
+Apr 14 01:59:34 ubuntu kernel: [ 1313.045607] KML rocksdb readahead_update started
+Apr 14 01:59:34 ubuntu kernel: [ 1314.063172] ----------------------- 1 -----------------------
+Apr 14 01:59:34 ubuntu kernel: [ 1314.063180] readahead val set:		 16
+Apr 14 01:59:34 ubuntu kernel: [ 1314.063181] predicted class:		 readrandom
+Apr 14 01:59:34 ubuntu kernel: [ 1314.063181] inference took in avg.:		 7183
+Apr 14 01:59:34 ubuntu kernel: [ 1314.063181] data processing took in avg.:	 20
+Apr 14 01:59:34 ubuntu kernel: [ 1314.063182] ops/sec average:		 0
+Apr 14 01:59:35 ubuntu kernel: [ 1315.087182] readahead_update thread should stop
+Apr 14 01:59:35 ubuntu kernel: [ 1315.087223] kml readahead update thread stopped
+Apr 14 01:59:36 ubuntu kernel: [ 1316.111426] perf_monitoring thread should stop
+Apr 14 01:59:36 ubuntu kernel: [ 1316.111461] kml readahed perf thread stopped
+Apr 14 01:59:36 ubuntu kernel: [ 1316.123010] KML rocksdb readahead_update ended
+Apr 14 01:59:36 ubuntu kernel: [ 1316.152887] result-kml.sh (3957): drop_caches: 3
+readseq 47
+Apr 14 01:59:36 ubuntu kernel: [ 1316.167091] kml_readahead_init: hello
+Apr 14 01:59:36 ubuntu kernel: [ 1316.170379] opened block device 00000000a5bb772f
+Apr 14 01:59:37 ubuntu kernel: [ 1316.171390] KML rocksdb readahead_update started
+Apr 14 01:59:37 ubuntu kernel: [ 1317.198839] ----------------------- 1 -----------------------
+Apr 14 01:59:37 ubuntu kernel: [ 1317.198847] readahead val set:		 16
+Apr 14 01:59:37 ubuntu kernel: [ 1317.198847] predicted class:		 readrandom
+Apr 14 01:59:37 ubuntu kernel: [ 1317.198848] inference took in avg.:		 6630
+Apr 14 01:59:37 ubuntu kernel: [ 1317.198868] data processing took in avg.:	 28
+Apr 14 01:59:37 ubuntu kernel: [ 1317.198868] ops/sec average:		 0
+Apr 14 01:59:38 ubuntu kernel: [ 1318.222976] readahead_update thread should stop
+Apr 14 01:59:38 ubuntu kernel: [ 1318.222996] kml readahead update thread stopped
+Apr 14 01:59:38 ubuntu kernel: [ 1318.223000] perf_monitoring thread should stop
+Apr 14 01:59:38 ubuntu kernel: [ 1318.223003] kml readahed perf thread stopped
+Apr 14 01:59:38 ubuntu kernel: [ 1318.226005] KML rocksdb readahead_update ended
+readseq 48
+Apr 14 01:59:38 ubuntu kernel: [ 1318.243795] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:59:38 ubuntu kernel: [ 1318.258311] kml_readahead_init: hello
+Apr 14 01:59:38 ubuntu kernel: [ 1318.261468] opened block device 00000000a5bb772f
+Apr 14 01:59:39 ubuntu kernel: [ 1318.262482] KML rocksdb readahead_update started
+Apr 14 01:59:39 ubuntu kernel: [ 1319.282622] ----------------------- 1 -----------------------
+Apr 14 01:59:39 ubuntu kernel: [ 1319.282631] readahead val set:		 16
+Apr 14 01:59:39 ubuntu kernel: [ 1319.282631] predicted class:		 readrandom
+Apr 14 01:59:39 ubuntu kernel: [ 1319.282631] inference took in avg.:		 6788
+Apr 14 01:59:39 ubuntu kernel: [ 1319.282632] data processing took in avg.:	 33
+Apr 14 01:59:39 ubuntu kernel: [ 1319.282632] ops/sec average:		 0
+Apr 14 01:59:40 ubuntu kernel: [ 1320.302612] readahead_update thread should stop
+Apr 14 01:59:40 ubuntu kernel: [ 1320.302722] kml readahead update thread stopped
+Apr 14 01:59:41 ubuntu kernel: [ 1321.327107] perf_monitoring thread should stop
+Apr 14 01:59:41 ubuntu kernel: [ 1321.327144] kml readahed perf thread stopped
+Apr 14 01:59:41 ubuntu kernel: [ 1321.334620] KML rocksdb readahead_update ended
+Apr 14 01:59:41 ubuntu kernel: [ 1321.359766] result-kml.sh (3957): drop_caches: 3
+readseq 49
+Apr 14 01:59:41 ubuntu kernel: [ 1321.374442] kml_readahead_init: hello
+Apr 14 01:59:41 ubuntu kernel: [ 1321.377472] opened block device 00000000a5bb772f
+Apr 14 01:59:42 ubuntu kernel: [ 1321.378464] KML rocksdb readahead_update started
+Apr 14 01:59:42 ubuntu kernel: [ 1322.383308] ----------------------- 1 -----------------------
+Apr 14 01:59:42 ubuntu kernel: [ 1322.383317] readahead val set:		 960
+Apr 14 01:59:42 ubuntu kernel: [ 1322.383318] predicted class:		 readreverse
+Apr 14 01:59:42 ubuntu kernel: [ 1322.383318] inference took in avg.:		 7393
+Apr 14 01:59:42 ubuntu kernel: [ 1322.383318] data processing took in avg.:	 35
+Apr 14 01:59:42 ubuntu kernel: [ 1322.383318] ops/sec average:		 0
+Apr 14 01:59:43 ubuntu kernel: [ 1323.407020] readahead_update thread should stop
+Apr 14 01:59:43 ubuntu kernel: [ 1323.407040] kml readahead update thread stopped
+Apr 14 01:59:43 ubuntu kernel: [ 1323.422126] perf_monitoring thread should stop
+Apr 14 01:59:43 ubuntu kernel: [ 1323.422135] kml readahed perf thread stopped
+Apr 14 01:59:43 ubuntu kernel: [ 1323.430242] KML rocksdb readahead_update ended
+readseq 50
+Apr 14 01:59:43 ubuntu kernel: [ 1323.459402] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:59:43 ubuntu kernel: [ 1323.473090] kml_readahead_init: hello
+Apr 14 01:59:43 ubuntu kernel: [ 1323.476164] opened block device 00000000a5bb772f
+Apr 14 01:59:45 ubuntu kernel: [ 1323.477177] KML rocksdb readahead_update started
+Apr 14 01:59:45 ubuntu kernel: [ 1324.494035] ----------------------- 1 -----------------------
+Apr 14 01:59:45 ubuntu kernel: [ 1324.494044] readahead val set:		 16
+Apr 14 01:59:45 ubuntu kernel: [ 1324.494045] predicted class:		 readrandom
+Apr 14 01:59:45 ubuntu kernel: [ 1324.494045] inference took in avg.:		 7693
+Apr 14 01:59:45 ubuntu kernel: [ 1324.494045] data processing took in avg.:	 17
+Apr 14 01:59:45 ubuntu kernel: [ 1324.494045] ops/sec average:		 0
+Apr 14 01:59:46 ubuntu kernel: [ 1325.518200] readahead_update thread should stop
+Apr 14 01:59:46 ubuntu kernel: [ 1325.518221] kml readahead update thread stopped
+Apr 14 01:59:46 ubuntu kernel: [ 1325.518224] perf_monitoring thread should stop
+Apr 14 01:59:46 ubuntu kernel: [ 1325.518227] kml readahed perf thread stopped
+Apr 14 01:59:46 ubuntu kernel: [ 1325.521247] KML rocksdb readahead_update ended
+Apr 14 01:59:46 ubuntu kernel: [ 1325.555668] result-kml.sh (3957): drop_caches: 3
+Apr 14 01:59:49 ubuntu kernel: [ 1328.600244] generate-result (3948): drop_caches: 3
+Apr 14 01:59:49 ubuntu kernel: [ 1328.653048] result-kml.sh (4572): drop_caches: 3
+readrandom 1
+Apr 14 01:59:49 ubuntu kernel: [ 1328.670484] kml_readahead_init: hello
+Apr 14 01:59:49 ubuntu kernel: [ 1328.673042] opened block device 00000000a5bb772f
+Apr 14 01:59:50 ubuntu kernel: [ 1328.674025] KML rocksdb readahead_update started
+Apr 14 01:59:50 ubuntu kernel: [ 1329.677563] ----------------------- 1 -----------------------
+Apr 14 01:59:50 ubuntu kernel: [ 1329.677574] readahead val set:		 960
+Apr 14 01:59:50 ubuntu kernel: [ 1329.677575] predicted class:		 readreverse
+Apr 14 01:59:50 ubuntu kernel: [ 1329.677575] inference took in avg.:		 9136
+Apr 14 01:59:50 ubuntu kernel: [ 1329.677575] data processing took in avg.:	 58
+Apr 14 01:59:50 ubuntu kernel: [ 1329.677576] ops/sec average:		 0
+Apr 14 01:59:51 ubuntu kernel: [ 1330.701722] readahead_update thread should stop
+Apr 14 01:59:51 ubuntu kernel: [ 1330.701743] kml readahead update thread stopped
+Apr 14 01:59:51 ubuntu kernel: [ 1330.717832] perf_monitoring thread should stop
+Apr 14 01:59:51 ubuntu kernel: [ 1330.717867] kml readahed perf thread stopped
+Apr 14 01:59:51 ubuntu kernel: [ 1330.730162] KML rocksdb readahead_update ended
+Apr 14 01:59:51 ubuntu kernel: [ 1330.760283] result-kml.sh (4572): drop_caches: 3
+readrandom 2
+Apr 14 01:59:51 ubuntu kernel: [ 1330.775933] kml_readahead_init: hello
+Apr 14 01:59:51 ubuntu kernel: [ 1330.778965] opened block device 00000000a5bb772f
+Apr 14 01:59:52 ubuntu kernel: [ 1330.779956] KML rocksdb readahead_update started
+Apr 14 01:59:52 ubuntu kernel: [ 1331.794641] ----------------------- 1 -----------------------
+Apr 14 01:59:52 ubuntu kernel: [ 1331.794652] readahead val set:		 16
+Apr 14 01:59:52 ubuntu kernel: [ 1331.794653] predicted class:		 readrandomwriterandom
+Apr 14 01:59:52 ubuntu kernel: [ 1331.794653] inference took in avg.:		 8727
+Apr 14 01:59:52 ubuntu kernel: [ 1331.794653] data processing took in avg.:	 23
+Apr 14 01:59:52 ubuntu kernel: [ 1331.794653] ops/sec average:		 0
+Apr 14 01:59:53 ubuntu kernel: [ 1332.813762] readahead_update thread should stop
+Apr 14 01:59:53 ubuntu kernel: [ 1332.813786] kml readahead update thread stopped
+Apr 14 01:59:54 ubuntu kernel: [ 1333.838151] perf_monitoring thread should stop
+Apr 14 01:59:54 ubuntu kernel: [ 1333.838189] kml readahed perf thread stopped
+Apr 14 01:59:54 ubuntu kernel: [ 1333.841203] KML rocksdb readahead_update ended
+Apr 14 01:59:54 ubuntu kernel: [ 1333.871600] result-kml.sh (4572): drop_caches: 3
+readrandom 3
+Apr 14 01:59:54 ubuntu kernel: [ 1333.888451] kml_readahead_init: hello
+Apr 14 01:59:54 ubuntu kernel: [ 1333.891645] opened block device 00000000a5bb772f
+Apr 14 01:59:55 ubuntu kernel: [ 1333.892640] KML rocksdb readahead_update started
+Apr 14 01:59:55 ubuntu kernel: [ 1334.924949] ----------------------- 1 -----------------------
+Apr 14 01:59:55 ubuntu kernel: [ 1334.924959] readahead val set:		 16
+Apr 14 01:59:55 ubuntu kernel: [ 1334.924959] predicted class:		 readrandom
+Apr 14 01:59:55 ubuntu kernel: [ 1334.924959] inference took in avg.:		 7422
+Apr 14 01:59:55 ubuntu kernel: [ 1334.924960] data processing took in avg.:	 21
+Apr 14 01:59:55 ubuntu kernel: [ 1334.924960] ops/sec average:		 0
+Apr 14 01:59:56 ubuntu kernel: [ 1335.949185] readahead_update thread should stop
+Apr 14 01:59:56 ubuntu kernel: [ 1335.949211] kml readahead update thread stopped
+Apr 14 01:59:56 ubuntu kernel: [ 1335.949212] perf_monitoring thread should stop
+Apr 14 01:59:56 ubuntu kernel: [ 1335.949220] kml readahed perf thread stopped
+Apr 14 01:59:56 ubuntu kernel: [ 1335.957163] KML rocksdb readahead_update ended
+Apr 14 01:59:56 ubuntu kernel: [ 1335.984122] result-kml.sh (4572): drop_caches: 3
+readrandom 4
+Apr 14 01:59:56 ubuntu kernel: [ 1335.999467] kml_readahead_init: hello
+Apr 14 01:59:56 ubuntu kernel: [ 1336.002228] opened block device 00000000a5bb772f
+Apr 14 01:59:57 ubuntu kernel: [ 1336.003218] KML rocksdb readahead_update started
+Apr 14 01:59:57 ubuntu kernel: [ 1337.036743] ----------------------- 1 -----------------------
+Apr 14 01:59:57 ubuntu kernel: [ 1337.036751] readahead val set:		 16
+Apr 14 01:59:57 ubuntu kernel: [ 1337.036751] predicted class:		 readrandom
+Apr 14 01:59:57 ubuntu kernel: [ 1337.036751] inference took in avg.:		 6315
+Apr 14 01:59:57 ubuntu kernel: [ 1337.036752] data processing took in avg.:	 19
+Apr 14 01:59:57 ubuntu kernel: [ 1337.036752] ops/sec average:		 0
+Apr 14 01:59:58 ubuntu kernel: [ 1338.060904] readahead_update thread should stop
+Apr 14 01:59:58 ubuntu kernel: [ 1338.060936] kml readahead update thread stopped
+Apr 14 01:59:59 ubuntu kernel: [ 1339.085036] perf_monitoring thread should stop
+Apr 14 01:59:59 ubuntu kernel: [ 1339.085069] kml readahed perf thread stopped
+Apr 14 01:59:59 ubuntu kernel: [ 1339.097103] KML rocksdb readahead_update ended
+Apr 14 01:59:59 ubuntu kernel: [ 1339.125352] result-kml.sh (4572): drop_caches: 3
+readrandom 5
+Apr 14 01:59:59 ubuntu kernel: [ 1339.166606] kml_readahead_init: hello
+Apr 14 01:59:59 ubuntu kernel: [ 1339.169961] opened block device 00000000a5bb772f
+Apr 14 02:00:00 ubuntu kernel: [ 1339.170955] KML rocksdb readahead_update started
+Apr 14 02:00:00 ubuntu kernel: [ 1340.198953] readahead_update thread should stop
+Apr 14 02:00:00 ubuntu kernel: [ 1340.198956] kml readahead update thread stopped
+Apr 14 02:00:00 ubuntu kernel: [ 1340.198962] perf_monitoring thread should stop
+Apr 14 02:00:00 ubuntu kernel: [ 1340.198964] kml readahed perf thread stopped
+Apr 14 02:00:00 ubuntu kernel: [ 1340.212918] KML rocksdb readahead_update ended
+Apr 14 02:00:00 ubuntu kernel: [ 1340.237254] result-kml.sh (4572): drop_caches: 3
+readrandom 6
+Apr 14 02:00:00 ubuntu kernel: [ 1340.250986] kml_readahead_init: hello
+Apr 14 02:00:00 ubuntu kernel: [ 1340.254341] opened block device 00000000a5bb772f
+Apr 14 02:00:01 ubuntu kernel: [ 1340.255337] KML rocksdb readahead_update started
+Apr 14 02:00:01 ubuntu kernel: [ 1341.265310] ----------------------- 1 -----------------------
+Apr 14 02:00:01 ubuntu kernel: [ 1341.265324] readahead val set:		 16
+Apr 14 02:00:01 ubuntu kernel: [ 1341.265325] predicted class:		 readrandom
+Apr 14 02:00:01 ubuntu kernel: [ 1341.265325] inference took in avg.:		 11695
+Apr 14 02:00:01 ubuntu kernel: [ 1341.265326] data processing took in avg.:	 32
+Apr 14 02:00:01 ubuntu kernel: [ 1341.265326] ops/sec average:		 0
+Apr 14 02:00:02 ubuntu kernel: [ 1342.284365] readahead_update thread should stop
+Apr 14 02:00:02 ubuntu kernel: [ 1342.284373] kml readahead update thread stopped
+Apr 14 02:00:03 ubuntu kernel: [ 1343.308404] perf_monitoring thread should stop
+Apr 14 02:00:03 ubuntu kernel: [ 1343.308413] kml readahed perf thread stopped
+Apr 14 02:00:03 ubuntu kernel: [ 1343.317070] KML rocksdb readahead_update ended
+Apr 14 02:00:03 ubuntu kernel: [ 1343.341124] result-kml.sh (4572): drop_caches: 3
+readrandom 7
+Apr 14 02:00:03 ubuntu kernel: [ 1343.354711] kml_readahead_init: hello
+Apr 14 02:00:03 ubuntu kernel: [ 1343.358005] opened block device 00000000a5bb772f
+Apr 14 02:00:04 ubuntu kernel: [ 1343.358994] KML rocksdb readahead_update started
+Apr 14 02:00:04 ubuntu kernel: [ 1344.364035] ----------------------- 1 -----------------------
+Apr 14 02:00:04 ubuntu kernel: [ 1344.364044] readahead val set:		 16
+Apr 14 02:00:04 ubuntu kernel: [ 1344.364044] predicted class:		 readrandom
+Apr 14 02:00:04 ubuntu kernel: [ 1344.364044] inference took in avg.:		 6360
+Apr 14 02:00:04 ubuntu kernel: [ 1344.364044] data processing took in avg.:	 73
+Apr 14 02:00:04 ubuntu kernel: [ 1344.364045] ops/sec average:		 0
+Apr 14 02:00:05 ubuntu kernel: [ 1345.388043] readahead_update thread should stop
+Apr 14 02:00:05 ubuntu kernel: [ 1345.388071] kml readahead update thread stopped
+Apr 14 02:00:05 ubuntu kernel: [ 1345.388074] perf_monitoring thread should stop
+Apr 14 02:00:05 ubuntu kernel: [ 1345.388078] kml readahed perf thread stopped
+Apr 14 02:00:05 ubuntu kernel: [ 1345.391081] KML rocksdb readahead_update ended
+Apr 14 02:00:05 ubuntu kernel: [ 1345.413141] result-kml.sh (4572): drop_caches: 3
+readrandom 8
+Apr 14 02:00:05 ubuntu kernel: [ 1345.426598] kml_readahead_init: hello
+Apr 14 02:00:05 ubuntu kernel: [ 1345.429795] opened block device 00000000a5bb772f
+Apr 14 02:00:06 ubuntu kernel: [ 1345.430787] KML rocksdb readahead_update started
+Apr 14 02:00:06 ubuntu kernel: [ 1346.443824] ----------------------- 1 -----------------------
+Apr 14 02:00:06 ubuntu kernel: [ 1346.443833] readahead val set:		 16
+Apr 14 02:00:06 ubuntu kernel: [ 1346.443833] predicted class:		 readrandom
+Apr 14 02:00:06 ubuntu kernel: [ 1346.443834] inference took in avg.:		 7121
+Apr 14 02:00:06 ubuntu kernel: [ 1346.443834] data processing took in avg.:	 23
+Apr 14 02:00:06 ubuntu kernel: [ 1346.443834] ops/sec average:		 0
+Apr 14 02:00:07 ubuntu kernel: [ 1347.467946] readahead_update thread should stop
+Apr 14 02:00:07 ubuntu kernel: [ 1347.467953] kml readahead update thread stopped
+Apr 14 02:00:07 ubuntu kernel: [ 1347.467957] perf_monitoring thread should stop
+Apr 14 02:00:07 ubuntu kernel: [ 1347.467959] kml readahed perf thread stopped
+Apr 14 02:00:07 ubuntu kernel: [ 1347.470963] KML rocksdb readahead_update ended
+Apr 14 02:00:08 ubuntu kernel: [ 1347.493017] result-kml.sh (4572): drop_caches: 3
+readrandom 9
+Apr 14 02:00:08 ubuntu kernel: [ 1347.508093] kml_readahead_init: hello
+Apr 14 02:00:08 ubuntu kernel: [ 1347.510591] opened block device 00000000a5bb772f
+Apr 14 02:00:09 ubuntu kernel: [ 1347.511580] KML rocksdb readahead_update started
+Apr 14 02:00:09 ubuntu kernel: [ 1348.523603] ----------------------- 1 -----------------------
+Apr 14 02:00:09 ubuntu kernel: [ 1348.523612] readahead val set:		 16
+Apr 14 02:00:09 ubuntu kernel: [ 1348.523612] predicted class:		 readrandom
+Apr 14 02:00:09 ubuntu kernel: [ 1348.523612] inference took in avg.:		 7290
+Apr 14 02:00:09 ubuntu kernel: [ 1348.523613] data processing took in avg.:	 23
+Apr 14 02:00:09 ubuntu kernel: [ 1348.523613] ops/sec average:		 0
+Apr 14 02:00:10 ubuntu kernel: [ 1349.547603] readahead_update thread should stop
+Apr 14 02:00:10 ubuntu kernel: [ 1349.547611] kml readahead update thread stopped
+Apr 14 02:00:11 ubuntu kernel: [ 1350.572102] perf_monitoring thread should stop
+Apr 14 02:00:11 ubuntu kernel: [ 1350.572113] kml readahed perf thread stopped
+Apr 14 02:00:11 ubuntu kernel: [ 1350.584104] KML rocksdb readahead_update ended
+Apr 14 02:00:11 ubuntu kernel: [ 1350.613364] result-kml.sh (4572): drop_caches: 3
+readrandom 10
+Apr 14 02:00:11 ubuntu kernel: [ 1350.629147] kml_readahead_init: hello
+Apr 14 02:00:11 ubuntu kernel: [ 1350.632948] opened block device 00000000a5bb772f
+Apr 14 02:00:12 ubuntu kernel: [ 1350.633945] KML rocksdb readahead_update started
+Apr 14 02:00:12 ubuntu kernel: [ 1351.660177] ----------------------- 1 -----------------------
+Apr 14 02:00:12 ubuntu kernel: [ 1351.660198] readahead val set:		 16
+Apr 14 02:00:12 ubuntu kernel: [ 1351.660198] predicted class:		 readrandom
+Apr 14 02:00:12 ubuntu kernel: [ 1351.660199] inference took in avg.:		 8444
+Apr 14 02:00:12 ubuntu kernel: [ 1351.660199] data processing took in avg.:	 23
+Apr 14 02:00:12 ubuntu kernel: [ 1351.660199] ops/sec average:		 0
+Apr 14 02:00:13 ubuntu kernel: [ 1352.683984] readahead_update thread should stop
+Apr 14 02:00:13 ubuntu kernel: [ 1352.683995] kml readahead update thread stopped
+Apr 14 02:00:14 ubuntu kernel: [ 1353.707222] perf_monitoring thread should stop
+Apr 14 02:00:14 ubuntu kernel: [ 1353.707233] kml readahed perf thread stopped
+Apr 14 02:00:14 ubuntu kernel: [ 1353.715755] KML rocksdb readahead_update ended
+Apr 14 02:00:14 ubuntu kernel: [ 1353.741678] result-kml.sh (4572): drop_caches: 3
+readrandom 11
+Apr 14 02:00:14 ubuntu kernel: [ 1353.759235] kml_readahead_init: hello
+Apr 14 02:00:14 ubuntu kernel: [ 1353.763770] opened block device 00000000a5bb772f
+Apr 14 02:00:15 ubuntu kernel: [ 1353.764786] KML rocksdb readahead_update started
+Apr 14 02:00:15 ubuntu kernel: [ 1354.795023] ----------------------- 1 -----------------------
+Apr 14 02:00:15 ubuntu kernel: [ 1354.795034] readahead val set:		 16
+Apr 14 02:00:15 ubuntu kernel: [ 1354.795034] predicted class:		 readrandom
+Apr 14 02:00:15 ubuntu kernel: [ 1354.795035] inference took in avg.:		 8884
+Apr 14 02:00:15 ubuntu kernel: [ 1354.795035] data processing took in avg.:	 22
+Apr 14 02:00:15 ubuntu kernel: [ 1354.795035] ops/sec average:		 0
+Apr 14 02:00:16 ubuntu kernel: [ 1355.819617] readahead_update thread should stop
+Apr 14 02:00:16 ubuntu kernel: [ 1355.819652] kml readahead update thread stopped
+Apr 14 02:00:16 ubuntu kernel: [ 1355.819655] perf_monitoring thread should stop
+Apr 14 02:00:16 ubuntu kernel: [ 1355.819658] kml readahed perf thread stopped
+Apr 14 02:00:16 ubuntu kernel: [ 1355.822669] KML rocksdb readahead_update ended
+Apr 14 02:00:16 ubuntu kernel: [ 1355.845511] result-kml.sh (4572): drop_caches: 3
+readrandom 12
+Apr 14 02:00:16 ubuntu kernel: [ 1355.861045] kml_readahead_init: hello
+Apr 14 02:00:16 ubuntu kernel: [ 1355.864573] opened block device 00000000a5bb772f
+Apr 14 02:00:17 ubuntu kernel: [ 1355.865565] KML rocksdb readahead_update started
+Apr 14 02:00:17 ubuntu kernel: [ 1356.875123] ----------------------- 1 -----------------------
+Apr 14 02:00:17 ubuntu kernel: [ 1356.875134] readahead val set:		 16
+Apr 14 02:00:17 ubuntu kernel: [ 1356.875134] predicted class:		 readrandom
+Apr 14 02:00:17 ubuntu kernel: [ 1356.875135] inference took in avg.:		 8829
+Apr 14 02:00:17 ubuntu kernel: [ 1356.875135] data processing took in avg.:	 55
+Apr 14 02:00:17 ubuntu kernel: [ 1356.875135] ops/sec average:		 0
+Apr 14 02:00:18 ubuntu kernel: [ 1357.899092] readahead_update thread should stop
+Apr 14 02:00:18 ubuntu kernel: [ 1357.899121] kml readahead update thread stopped
+Apr 14 02:00:19 ubuntu kernel: [ 1358.922711] perf_monitoring thread should stop
+Apr 14 02:00:19 ubuntu kernel: [ 1358.922739] kml readahed perf thread stopped
+Apr 14 02:00:19 ubuntu kernel: [ 1358.926097] KML rocksdb readahead_update ended
+Apr 14 02:00:19 ubuntu kernel: [ 1358.948178] result-kml.sh (4572): drop_caches: 3
+readrandom 13
+Apr 14 02:00:19 ubuntu kernel: [ 1358.962860] kml_readahead_init: hello
+Apr 14 02:00:19 ubuntu kernel: [ 1358.966180] opened block device 00000000a5bb772f
+Apr 14 02:00:20 ubuntu kernel: [ 1358.967177] KML rocksdb readahead_update started
+Apr 14 02:00:20 ubuntu kernel: [ 1359.978538] ----------------------- 1 -----------------------
+Apr 14 02:00:20 ubuntu kernel: [ 1359.978547] readahead val set:		 16
+Apr 14 02:00:20 ubuntu kernel: [ 1359.978547] predicted class:		 readrandom
+Apr 14 02:00:20 ubuntu kernel: [ 1359.978547] inference took in avg.:		 6586
+Apr 14 02:00:20 ubuntu kernel: [ 1359.978547] data processing took in avg.:	 29
+Apr 14 02:00:20 ubuntu kernel: [ 1359.978548] ops/sec average:		 0
+Apr 14 02:00:21 ubuntu kernel: [ 1361.003058] readahead_update thread should stop
+Apr 14 02:00:21 ubuntu kernel: [ 1361.003080] kml readahead update thread stopped
+Apr 14 02:00:22 ubuntu kernel: [ 1362.027025] perf_monitoring thread should stop
+Apr 14 02:00:22 ubuntu kernel: [ 1362.027066] kml readahed perf thread stopped
+Apr 14 02:00:22 ubuntu kernel: [ 1362.030085] KML rocksdb readahead_update ended
+Apr 14 02:00:22 ubuntu kernel: [ 1362.056400] result-kml.sh (4572): drop_caches: 3
+readrandom 14
+Apr 14 02:00:22 ubuntu kernel: [ 1362.071955] kml_readahead_init: hello
+Apr 14 02:00:22 ubuntu kernel: [ 1362.075407] opened block device 00000000a5bb772f
+Apr 14 02:00:23 ubuntu kernel: [ 1362.076405] KML rocksdb readahead_update started
+Apr 14 02:00:23 ubuntu kernel: [ 1363.084361] ----------------------- 1 -----------------------
+Apr 14 02:00:23 ubuntu kernel: [ 1363.084370] readahead val set:		 16
+Apr 14 02:00:23 ubuntu kernel: [ 1363.084370] predicted class:		 readrandom
+Apr 14 02:00:23 ubuntu kernel: [ 1363.084371] inference took in avg.:		 7301
+Apr 14 02:00:23 ubuntu kernel: [ 1363.084371] data processing took in avg.:	 78
+Apr 14 02:00:23 ubuntu kernel: [ 1363.084371] ops/sec average:		 0
+Apr 14 02:00:24 ubuntu kernel: [ 1364.106202] readahead_update thread should stop
+Apr 14 02:00:24 ubuntu kernel: [ 1364.106226] kml readahead update thread stopped
+Apr 14 02:00:25 ubuntu kernel: [ 1365.130858] perf_monitoring thread should stop
+Apr 14 02:00:25 ubuntu kernel: [ 1365.130892] kml readahed perf thread stopped
+Apr 14 02:00:25 ubuntu kernel: [ 1365.133915] KML rocksdb readahead_update ended
+Apr 14 02:00:25 ubuntu kernel: [ 1365.162276] result-kml.sh (4572): drop_caches: 3
+readrandom 15
+Apr 14 02:00:25 ubuntu kernel: [ 1365.177306] kml_readahead_init: hello
+Apr 14 02:00:25 ubuntu kernel: [ 1365.180015] opened block device 00000000a5bb772f
+Apr 14 02:00:26 ubuntu kernel: [ 1365.181008] KML rocksdb readahead_update started
+Apr 14 02:00:26 ubuntu kernel: [ 1366.185997] ----------------------- 1 -----------------------
+Apr 14 02:00:26 ubuntu kernel: [ 1366.186005] readahead val set:		 16
+Apr 14 02:00:26 ubuntu kernel: [ 1366.186005] predicted class:		 readrandom
+Apr 14 02:00:26 ubuntu kernel: [ 1366.186006] inference took in avg.:		 6650
+Apr 14 02:00:26 ubuntu kernel: [ 1366.186006] data processing took in avg.:	 82
+Apr 14 02:00:26 ubuntu kernel: [ 1366.186006] ops/sec average:		 0
+Apr 14 02:00:27 ubuntu kernel: [ 1367.210536] readahead_update thread should stop
+Apr 14 02:00:27 ubuntu kernel: [ 1367.210546] kml readahead update thread stopped
+Apr 14 02:00:28 ubuntu kernel: [ 1368.234459] perf_monitoring thread should stop
+Apr 14 02:00:28 ubuntu kernel: [ 1368.234507] kml readahed perf thread stopped
+Apr 14 02:00:28 ubuntu kernel: [ 1368.237536] KML rocksdb readahead_update ended
+Apr 14 02:00:28 ubuntu kernel: [ 1368.261466] result-kml.sh (4572): drop_caches: 3
+Apr 14 02:00:31 ubuntu kernel: [ 1371.295200] generate-result (3948): drop_caches: 3
+Apr 14 02:00:31 ubuntu kernel: [ 1371.322833] result-kml.sh (4766): drop_caches: 3
+readreverse 1
+Apr 14 02:00:31 ubuntu kernel: [ 1371.337670] kml_readahead_init: hello
+Apr 14 02:00:31 ubuntu kernel: [ 1371.346107] opened block device 00000000a5bb772f
+Apr 14 02:00:32 ubuntu kernel: [ 1371.347124] KML rocksdb readahead_update started
+Apr 14 02:00:32 ubuntu kernel: [ 1372.361448] ----------------------- 1 -----------------------
+Apr 14 02:00:32 ubuntu kernel: [ 1372.361457] readahead val set:		 16
+Apr 14 02:00:32 ubuntu kernel: [ 1372.361458] predicted class:		 readrandom
+Apr 14 02:00:32 ubuntu kernel: [ 1372.361458] inference took in avg.:		 7680
+Apr 14 02:00:32 ubuntu kernel: [ 1372.361458] data processing took in avg.:	 20
+Apr 14 02:00:32 ubuntu kernel: [ 1372.361459] ops/sec average:		 0
+Apr 14 02:00:33 ubuntu kernel: [ 1373.385405] readahead_update thread should stop
+Apr 14 02:00:33 ubuntu kernel: [ 1373.385431] kml readahead update thread stopped
+Apr 14 02:00:33 ubuntu kernel: [ 1373.385440] perf_monitoring thread should stop
+Apr 14 02:00:33 ubuntu kernel: [ 1373.385443] kml readahed perf thread stopped
+Apr 14 02:00:33 ubuntu kernel: [ 1373.388443] KML rocksdb readahead_update ended
+Apr 14 02:00:33 ubuntu kernel: [ 1373.412083] result-kml.sh (4766): drop_caches: 3
+readreverse 2
+Apr 14 02:00:33 ubuntu kernel: [ 1373.428375] kml_readahead_init: hello
+Apr 14 02:00:33 ubuntu kernel: [ 1373.431945] opened block device 00000000a5bb772f
+Apr 14 02:00:34 ubuntu kernel: [ 1373.433007] KML rocksdb readahead_update started
+Apr 14 02:00:34 ubuntu kernel: [ 1374.441288] ----------------------- 1 -----------------------
+Apr 14 02:00:34 ubuntu kernel: [ 1374.441298] readahead val set:		 16
+Apr 14 02:00:34 ubuntu kernel: [ 1374.441299] predicted class:		 readrandom
+Apr 14 02:00:34 ubuntu kernel: [ 1374.441299] inference took in avg.:		 8474
+Apr 14 02:00:34 ubuntu kernel: [ 1374.441299] data processing took in avg.:	 69
+Apr 14 02:00:34 ubuntu kernel: [ 1374.441300] ops/sec average:		 0
+Apr 14 02:00:35 ubuntu kernel: [ 1375.466464] readahead_update thread should stop
+Apr 14 02:00:35 ubuntu kernel: [ 1375.466474] kml readahead update thread stopped
+Apr 14 02:00:37 ubuntu kernel: [ 1376.489689] perf_monitoring thread should stop
+Apr 14 02:00:37 ubuntu kernel: [ 1376.489732] kml readahed perf thread stopped
+Apr 14 02:00:37 ubuntu kernel: [ 1376.492747] KML rocksdb readahead_update ended
+Apr 14 02:00:37 ubuntu kernel: [ 1376.515573] result-kml.sh (4766): drop_caches: 3
+readreverse 3
+Apr 14 02:00:37 ubuntu kernel: [ 1376.531607] kml_readahead_init: hello
+Apr 14 02:00:37 ubuntu kernel: [ 1376.535222] opened block device 00000000a5bb772f
+Apr 14 02:00:38 ubuntu kernel: [ 1376.536265] KML rocksdb readahead_update started
+Apr 14 02:00:38 ubuntu kernel: [ 1377.545486] ----------------------- 1 -----------------------
+Apr 14 02:00:38 ubuntu kernel: [ 1377.545504] readahead val set:		 16
+Apr 14 02:00:38 ubuntu kernel: [ 1377.545505] predicted class:		 readrandom
+Apr 14 02:00:38 ubuntu kernel: [ 1377.545506] inference took in avg.:		 15115
+Apr 14 02:00:38 ubuntu kernel: [ 1377.545506] data processing took in avg.:	 61
+Apr 14 02:00:38 ubuntu kernel: [ 1377.545506] ops/sec average:		 0
+Apr 14 02:00:39 ubuntu kernel: [ 1378.568902] readahead_update thread should stop
+Apr 14 02:00:39 ubuntu kernel: [ 1378.568910] kml readahead update thread stopped
+Apr 14 02:00:40 ubuntu kernel: [ 1379.593106] perf_monitoring thread should stop
+Apr 14 02:00:40 ubuntu kernel: [ 1379.593141] kml readahed perf thread stopped
+Apr 14 02:00:40 ubuntu kernel: [ 1379.605065] KML rocksdb readahead_update ended
+Apr 14 02:00:40 ubuntu kernel: [ 1379.635595] result-kml.sh (4766): drop_caches: 3
+readreverse 4
+Apr 14 02:00:40 ubuntu kernel: [ 1379.651381] kml_readahead_init: hello
+Apr 14 02:00:40 ubuntu kernel: [ 1379.654877] opened block device 00000000a5bb772f
+Apr 14 02:00:41 ubuntu kernel: [ 1379.655923] KML rocksdb readahead_update started
+Apr 14 02:00:41 ubuntu kernel: [ 1380.684746] ----------------------- 1 -----------------------
+Apr 14 02:00:41 ubuntu kernel: [ 1380.684756] readahead val set:		 16
+Apr 14 02:00:41 ubuntu kernel: [ 1380.684757] predicted class:		 readrandom
+Apr 14 02:00:41 ubuntu kernel: [ 1380.684757] inference took in avg.:		 8276
+Apr 14 02:00:41 ubuntu kernel: [ 1380.684758] data processing took in avg.:	 24
+Apr 14 02:00:41 ubuntu kernel: [ 1380.684758] ops/sec average:		 0
+Apr 14 02:00:42 ubuntu kernel: [ 1381.705100] readahead_update thread should stop
+Apr 14 02:00:42 ubuntu kernel: [ 1381.705125] kml readahead update thread stopped
+Apr 14 02:00:43 ubuntu kernel: [ 1382.729140] perf_monitoring thread should stop
+Apr 14 02:00:43 ubuntu kernel: [ 1382.729173] kml readahed perf thread stopped
+Apr 14 02:00:43 ubuntu kernel: [ 1382.737136] KML rocksdb readahead_update ended
+Apr 14 02:00:43 ubuntu kernel: [ 1382.766278] result-kml.sh (4766): drop_caches: 3
+readreverse 5
+Apr 14 02:00:43 ubuntu kernel: [ 1382.780903] kml_readahead_init: hello
+Apr 14 02:00:43 ubuntu kernel: [ 1382.784099] opened block device 00000000a5bb772f
+Apr 14 02:00:44 ubuntu kernel: [ 1382.785092] KML rocksdb readahead_update started
+Apr 14 02:00:44 ubuntu kernel: [ 1383.816460] ----------------------- 1 -----------------------
+Apr 14 02:00:44 ubuntu kernel: [ 1383.816471] readahead val set:		 16
+Apr 14 02:00:44 ubuntu kernel: [ 1383.816472] predicted class:		 readrandom
+Apr 14 02:00:44 ubuntu kernel: [ 1383.816472] inference took in avg.:		 9017
+Apr 14 02:00:44 ubuntu kernel: [ 1383.816472] data processing took in avg.:	 21
+Apr 14 02:00:44 ubuntu kernel: [ 1383.816473] ops/sec average:		 0
+Apr 14 02:00:45 ubuntu kernel: [ 1384.840760] readahead_update thread should stop
+Apr 14 02:00:45 ubuntu kernel: [ 1384.840767] kml readahead update thread stopped
+Apr 14 02:00:46 ubuntu kernel: [ 1385.865159] perf_monitoring thread should stop
+Apr 14 02:00:46 ubuntu kernel: [ 1385.865199] kml readahed perf thread stopped
+Apr 14 02:00:46 ubuntu kernel: [ 1385.876409] KML rocksdb readahead_update ended
+Apr 14 02:00:46 ubuntu kernel: [ 1385.907529] result-kml.sh (4766): drop_caches: 3
+readreverse 6
+Apr 14 02:00:46 ubuntu kernel: [ 1385.923537] kml_readahead_init: hello
+Apr 14 02:00:46 ubuntu kernel: [ 1385.926862] opened block device 00000000a5bb772f
+Apr 14 02:00:47 ubuntu kernel: [ 1385.927914] KML rocksdb readahead_update started
+Apr 14 02:00:47 ubuntu kernel: [ 1386.952220] ----------------------- 1 -----------------------
+Apr 14 02:00:47 ubuntu kernel: [ 1386.952229] readahead val set:		 16
+Apr 14 02:00:47 ubuntu kernel: [ 1386.952229] predicted class:		 readrandom
+Apr 14 02:00:47 ubuntu kernel: [ 1386.952230] inference took in avg.:		 7239
+Apr 14 02:00:47 ubuntu kernel: [ 1386.952230] data processing took in avg.:	 18
+Apr 14 02:00:47 ubuntu kernel: [ 1386.952230] ops/sec average:		 0
+Apr 14 02:00:48 ubuntu kernel: [ 1387.977062] readahead_update thread should stop
+Apr 14 02:00:48 ubuntu kernel: [ 1387.977081] kml readahead update thread stopped
+Apr 14 02:00:49 ubuntu kernel: [ 1389.012198] perf_monitoring thread should stop
+Apr 14 02:00:49 ubuntu kernel: [ 1389.012232] kml readahed perf thread stopped
+Apr 14 02:00:49 ubuntu kernel: [ 1389.028096] KML rocksdb readahead_update ended
+Apr 14 02:00:49 ubuntu kernel: [ 1389.101675] result-kml.sh (4766): drop_caches: 3
+readreverse 7
+Apr 14 02:00:49 ubuntu kernel: [ 1389.152450] kml_readahead_init: hello
+Apr 14 02:00:49 ubuntu kernel: [ 1389.168344] opened block device 00000000a5bb772f
+Apr 14 02:00:50 ubuntu kernel: [ 1389.169329] KML rocksdb readahead_update started
+Apr 14 02:00:50 ubuntu kernel: [ 1390.191466] ----------------------- 1 -----------------------
+Apr 14 02:00:50 ubuntu kernel: [ 1390.191483] readahead val set:		 960
+Apr 14 02:00:50 ubuntu kernel: [ 1390.191483] predicted class:		 readreverse
+Apr 14 02:00:50 ubuntu kernel: [ 1390.191484] inference took in avg.:		 13668
+Apr 14 02:00:50 ubuntu kernel: [ 1390.191484] data processing took in avg.:	 193
+Apr 14 02:00:50 ubuntu kernel: [ 1390.191485] ops/sec average:		 0
+Apr 14 02:00:51 ubuntu kernel: [ 1391.222143] readahead_update thread should stop
+Apr 14 02:00:51 ubuntu kernel: [ 1391.222181] kml readahead update thread stopped
+Apr 14 02:00:51 ubuntu kernel: [ 1391.222186] perf_monitoring thread should stop
+Apr 14 02:00:51 ubuntu kernel: [ 1391.222240] kml readahed perf thread stopped
+Apr 14 02:00:51 ubuntu kernel: [ 1391.237599] KML rocksdb readahead_update ended
+Apr 14 02:00:51 ubuntu kernel: [ 1391.308656] result-kml.sh (4766): drop_caches: 3
+readreverse 8
+Apr 14 02:00:51 ubuntu kernel: [ 1391.347880] kml_readahead_init: hello
+Apr 14 02:00:51 ubuntu kernel: [ 1391.368387] opened block device 00000000a5bb772f
+Apr 14 02:00:52 ubuntu kernel: [ 1391.369441] KML rocksdb readahead_update started
+Apr 14 02:00:52 ubuntu kernel: [ 1392.403026] ----------------------- 1 -----------------------
+Apr 14 02:00:52 ubuntu kernel: [ 1392.403041] readahead val set:		 16
+Apr 14 02:00:52 ubuntu kernel: [ 1392.403042] predicted class:		 readrandom
+Apr 14 02:00:52 ubuntu kernel: [ 1392.403042] inference took in avg.:		 12385
+Apr 14 02:00:52 ubuntu kernel: [ 1392.403043] data processing took in avg.:	 163
+Apr 14 02:00:52 ubuntu kernel: [ 1392.403043] ops/sec average:		 0
+Apr 14 02:00:53 ubuntu kernel: [ 1393.419433] readahead_update thread should stop
+Apr 14 02:00:53 ubuntu kernel: [ 1393.419469] kml readahead update thread stopped
+Apr 14 02:00:53 ubuntu kernel: [ 1393.426908] perf_monitoring thread should stop
+Apr 14 02:00:53 ubuntu kernel: [ 1393.427057] kml readahed perf thread stopped
+Apr 14 02:00:53 ubuntu kernel: [ 1393.430078] KML rocksdb readahead_update ended
+Apr 14 02:00:53 ubuntu kernel: [ 1393.480587] result-kml.sh (4766): drop_caches: 3
+readreverse 9
+Apr 14 02:00:54 ubuntu kernel: [ 1393.528413] kml_readahead_init: hello
+Apr 14 02:00:54 ubuntu kernel: [ 1393.533406] opened block device 00000000a5bb772f
+Apr 14 02:00:55 ubuntu kernel: [ 1393.534402] KML rocksdb readahead_update started
+Apr 14 02:00:55 ubuntu kernel: [ 1394.570098] ----------------------- 1 -----------------------
+Apr 14 02:00:55 ubuntu kernel: [ 1394.570118] readahead val set:		 960
+Apr 14 02:00:55 ubuntu kernel: [ 1394.570118] predicted class:		 readreverse
+Apr 14 02:00:55 ubuntu kernel: [ 1394.570119] inference took in avg.:		 15413
+Apr 14 02:00:55 ubuntu kernel: [ 1394.570119] data processing took in avg.:	 183
+Apr 14 02:00:55 ubuntu kernel: [ 1394.570120] ops/sec average:		 0
+Apr 14 02:00:56 ubuntu kernel: [ 1395.595159] readahead_update thread should stop
+Apr 14 02:00:56 ubuntu kernel: [ 1395.595192] kml readahead update thread stopped
+Apr 14 02:00:56 ubuntu kernel: [ 1395.595236] perf_monitoring thread should stop
+Apr 14 02:00:56 ubuntu kernel: [ 1395.595276] kml readahed perf thread stopped
+Apr 14 02:00:56 ubuntu kernel: [ 1395.610266] KML rocksdb readahead_update ended
+Apr 14 02:00:56 ubuntu kernel: [ 1395.657462] result-kml.sh (4766): drop_caches: 3
+readreverse 10
+Apr 14 02:00:56 ubuntu kernel: [ 1395.682746] kml_readahead_init: hello
+Apr 14 02:00:56 ubuntu kernel: [ 1395.687886] opened block device 00000000a5bb772f
+Apr 14 02:00:57 ubuntu kernel: [ 1395.688923] KML rocksdb readahead_update started
+Apr 14 02:00:57 ubuntu kernel: [ 1396.713551] ----------------------- 1 -----------------------
+Apr 14 02:00:57 ubuntu kernel: [ 1396.713568] readahead val set:		 16
+Apr 14 02:00:57 ubuntu kernel: [ 1396.713569] predicted class:		 readrandom
+Apr 14 02:00:57 ubuntu kernel: [ 1396.713569] inference took in avg.:		 13998
+Apr 14 02:00:57 ubuntu kernel: [ 1396.713570] data processing took in avg.:	 167
+Apr 14 02:00:57 ubuntu kernel: [ 1396.713570] ops/sec average:		 0
+Apr 14 02:00:58 ubuntu kernel: [ 1397.739652] readahead_update thread should stop
+Apr 14 02:00:58 ubuntu kernel: [ 1397.739692] kml readahead update thread stopped
+Apr 14 02:00:59 ubuntu kernel: [ 1398.769374] perf_monitoring thread should stop
+Apr 14 02:00:59 ubuntu kernel: [ 1398.769402] kml readahed perf thread stopped
+Apr 14 02:00:59 ubuntu kernel: [ 1398.784510] KML rocksdb readahead_update ended
+readreverse 11
+Apr 14 02:00:59 ubuntu kernel: [ 1398.816064] result-kml.sh (4766): drop_caches: 3
+Apr 14 02:00:59 ubuntu kernel: [ 1398.846948] kml_readahead_init: hello
+Apr 14 02:00:59 ubuntu kernel: [ 1398.851535] opened block device 00000000a5bb772f
+Apr 14 02:01:00 ubuntu kernel: [ 1398.852563] KML rocksdb readahead_update started
+Apr 14 02:01:00 ubuntu kernel: [ 1399.887211] ----------------------- 1 -----------------------
+Apr 14 02:01:00 ubuntu kernel: [ 1399.887227] readahead val set:		 16
+Apr 14 02:01:00 ubuntu kernel: [ 1399.887228] predicted class:		 readrandom
+Apr 14 02:01:00 ubuntu kernel: [ 1399.887228] inference took in avg.:		 12990
+Apr 14 02:01:00 ubuntu kernel: [ 1399.887229] data processing took in avg.:	 328
+Apr 14 02:01:00 ubuntu kernel: [ 1399.887229] ops/sec average:		 0
+Apr 14 02:01:01 ubuntu kernel: [ 1400.913292] readahead_update thread should stop
+Apr 14 02:01:01 ubuntu kernel: [ 1400.913321] kml readahead update thread stopped
+Apr 14 02:01:02 ubuntu kernel: [ 1401.927268] perf_monitoring thread should stop
+Apr 14 02:01:02 ubuntu kernel: [ 1401.927449] kml readahed perf thread stopped
+Apr 14 02:01:02 ubuntu kernel: [ 1401.943601] KML rocksdb readahead_update ended
+readreverse 12
+Apr 14 02:01:02 ubuntu kernel: [ 1402.008465] result-kml.sh (4766): drop_caches: 3
+Apr 14 02:01:02 ubuntu kernel: [ 1402.108978] kml_readahead_init: hello
+Apr 14 02:01:02 ubuntu kernel: [ 1402.115357] opened block device 00000000a5bb772f
+Apr 14 02:01:03 ubuntu kernel: [ 1402.116358] KML rocksdb readahead_update started
+Apr 14 02:01:03 ubuntu kernel: [ 1403.157985] ----------------------- 1 -----------------------
+Apr 14 02:01:03 ubuntu kernel: [ 1403.157999] readahead val set:		 960
+Apr 14 02:01:03 ubuntu kernel: [ 1403.158000] predicted class:		 readreverse
+Apr 14 02:01:03 ubuntu kernel: [ 1403.158000] inference took in avg.:		 11691
+Apr 14 02:01:03 ubuntu kernel: [ 1403.158000] data processing took in avg.:	 198
+Apr 14 02:01:03 ubuntu kernel: [ 1403.158001] ops/sec average:		 0
+Apr 14 02:01:04 ubuntu kernel: [ 1404.176627] readahead_update thread should stop
+Apr 14 02:01:04 ubuntu kernel: [ 1404.176666] kml readahead update thread stopped
+Apr 14 02:01:05 ubuntu kernel: [ 1405.199448] perf_monitoring thread should stop
+Apr 14 02:01:05 ubuntu kernel: [ 1405.199498] kml readahed perf thread stopped
+Apr 14 02:01:05 ubuntu kernel: [ 1405.215287] KML rocksdb readahead_update ended
+readreverse 13
+Apr 14 02:01:05 ubuntu kernel: [ 1405.280008] result-kml.sh (4766): drop_caches: 3
+Apr 14 02:01:05 ubuntu kernel: [ 1405.319766] kml_readahead_init: hello
+Apr 14 02:01:05 ubuntu kernel: [ 1405.325053] opened block device 00000000a5bb772f
+Apr 14 02:01:06 ubuntu kernel: [ 1405.326105] KML rocksdb readahead_update started
+Apr 14 02:01:06 ubuntu kernel: [ 1406.344593] ----------------------- 1 -----------------------
+Apr 14 02:01:06 ubuntu kernel: [ 1406.344612] readahead val set:		 16
+Apr 14 02:01:06 ubuntu kernel: [ 1406.344612] predicted class:		 readrandom
+Apr 14 02:01:06 ubuntu kernel: [ 1406.344613] inference took in avg.:		 15697
+Apr 14 02:01:06 ubuntu kernel: [ 1406.344613] data processing took in avg.:	 186
+Apr 14 02:01:06 ubuntu kernel: [ 1406.344614] ops/sec average:		 0
+Apr 14 02:01:07 ubuntu kernel: [ 1407.381281] readahead_update thread should stop
+Apr 14 02:01:07 ubuntu kernel: [ 1407.381314] kml readahead update thread stopped
+Apr 14 02:01:07 ubuntu kernel: [ 1407.381319] perf_monitoring thread should stop
+Apr 14 02:01:07 ubuntu kernel: [ 1407.381325] kml readahed perf thread stopped
+Apr 14 02:01:07 ubuntu kernel: [ 1407.391379] KML rocksdb readahead_update ended
+Apr 14 02:01:08 ubuntu kernel: [ 1407.531996] result-kml.sh (4766): drop_caches: 3
+readreverse 14
+Apr 14 02:01:08 ubuntu kernel: [ 1407.575686] kml_readahead_init: hello
+Apr 14 02:01:08 ubuntu kernel: [ 1407.605287] opened block device 00000000a5bb772f
+Apr 14 02:01:09 ubuntu kernel: [ 1407.606812] KML rocksdb readahead_update started
+Apr 14 02:01:09 ubuntu kernel: [ 1408.619296] ----------------------- 1 -----------------------
+Apr 14 02:01:09 ubuntu kernel: [ 1408.619317] readahead val set:		 960
+Apr 14 02:01:09 ubuntu kernel: [ 1408.619318] predicted class:		 readreverse
+Apr 14 02:01:09 ubuntu kernel: [ 1408.619318] inference took in avg.:		 17414
+Apr 14 02:01:09 ubuntu kernel: [ 1408.619319] data processing took in avg.:	 184
+Apr 14 02:01:09 ubuntu kernel: [ 1408.619319] ops/sec average:		 0
+Apr 14 02:01:10 ubuntu kernel: [ 1409.651049] readahead_update thread should stop
+Apr 14 02:01:10 ubuntu kernel: [ 1409.651090] kml readahead update thread stopped
+Apr 14 02:01:11 ubuntu kernel: [ 1410.673051] perf_monitoring thread should stop
+Apr 14 02:01:11 ubuntu kernel: [ 1410.673084] kml readahed perf thread stopped
+Apr 14 02:01:11 ubuntu kernel: [ 1410.676099] KML rocksdb readahead_update ended
+readreverse 15
+Apr 14 02:01:11 ubuntu kernel: [ 1410.727696] result-kml.sh (4766): drop_caches: 3
+Apr 14 02:01:11 ubuntu kernel: [ 1410.751329] kml_readahead_init: hello
+Apr 14 02:01:11 ubuntu kernel: [ 1410.756995] opened block device 00000000a5bb772f
+Apr 14 02:01:12 ubuntu kernel: [ 1410.758044] KML rocksdb readahead_update started
+Apr 14 02:01:12 ubuntu kernel: [ 1411.782865] ----------------------- 1 -----------------------
+Apr 14 02:01:12 ubuntu kernel: [ 1411.782882] readahead val set:		 16
+Apr 14 02:01:12 ubuntu kernel: [ 1411.782882] predicted class:		 readrandom
+Apr 14 02:01:12 ubuntu kernel: [ 1411.782883] inference took in avg.:		 13944
+Apr 14 02:01:12 ubuntu kernel: [ 1411.782883] data processing took in avg.:	 164
+Apr 14 02:01:12 ubuntu kernel: [ 1411.782884] ops/sec average:		 0
+Apr 14 02:01:13 ubuntu kernel: [ 1412.814084] readahead_update thread should stop
+Apr 14 02:01:13 ubuntu kernel: [ 1412.814114] kml readahead update thread stopped
+Apr 14 02:01:14 ubuntu kernel: [ 1413.839337] perf_monitoring thread should stop
+Apr 14 02:01:14 ubuntu kernel: [ 1413.839377] kml readahed perf thread stopped
+Apr 14 02:01:14 ubuntu kernel: [ 1413.855358] KML rocksdb readahead_update ended
+Apr 14 02:01:14 ubuntu kernel: [ 1413.915669] result-kml.sh (4766): drop_caches: 3
+readreverse 16
+Apr 14 02:01:14 ubuntu kernel: [ 1413.964477] kml_readahead_init: hello
+Apr 14 02:01:14 ubuntu kernel: [ 1413.984824] opened block device 00000000a5bb772f
+Apr 14 02:01:15 ubuntu kernel: [ 1413.995947] KML rocksdb readahead_update started
+Apr 14 02:01:15 ubuntu kernel: [ 1415.022178] ----------------------- 1 -----------------------
+Apr 14 02:01:15 ubuntu kernel: [ 1415.022198] readahead val set:		 960
+Apr 14 02:01:15 ubuntu kernel: [ 1415.022198] predicted class:		 readreverse
+Apr 14 02:01:15 ubuntu kernel: [ 1415.022199] inference took in avg.:		 15969
+Apr 14 02:01:15 ubuntu kernel: [ 1415.022199] data processing took in avg.:	 159
+Apr 14 02:01:15 ubuntu kernel: [ 1415.022200] ops/sec average:		 0
+Apr 14 02:01:16 ubuntu kernel: [ 1416.045965] readahead_update thread should stop
+Apr 14 02:01:16 ubuntu kernel: [ 1416.045998] kml readahead update thread stopped
+Apr 14 02:01:16 ubuntu kernel: [ 1416.046092] perf_monitoring thread should stop
+Apr 14 02:01:16 ubuntu kernel: [ 1416.049652] kml readahed perf thread stopped
+Apr 14 02:01:16 ubuntu kernel: [ 1416.061283] KML rocksdb readahead_update ended
+readreverse 17
+Apr 14 02:01:16 ubuntu kernel: [ 1416.122514] result-kml.sh (4766): drop_caches: 3
+Apr 14 02:01:16 ubuntu kernel: [ 1416.153557] kml_readahead_init: hello
+Apr 14 02:01:16 ubuntu kernel: [ 1416.159366] opened block device 00000000a5bb772f
+Apr 14 02:01:17 ubuntu kernel: [ 1416.160374] KML rocksdb readahead_update started
+Apr 14 02:01:17 ubuntu kernel: [ 1417.189950] ----------------------- 1 -----------------------
+Apr 14 02:01:17 ubuntu kernel: [ 1417.189965] readahead val set:		 16
+Apr 14 02:01:17 ubuntu kernel: [ 1417.189966] predicted class:		 readrandom
+Apr 14 02:01:17 ubuntu kernel: [ 1417.189966] inference took in avg.:		 12681
+Apr 14 02:01:17 ubuntu kernel: [ 1417.189967] data processing took in avg.:	 144
+Apr 14 02:01:17 ubuntu kernel: [ 1417.189967] ops/sec average:		 0
+Apr 14 02:01:18 ubuntu kernel: [ 1418.220420] readahead_update thread should stop
+Apr 14 02:01:18 ubuntu kernel: [ 1418.220450] kml readahead update thread stopped
+Apr 14 02:01:19 ubuntu kernel: [ 1419.247009] perf_monitoring thread should stop
+Apr 14 02:01:19 ubuntu kernel: [ 1419.247125] kml readahed perf thread stopped
+Apr 14 02:01:19 ubuntu kernel: [ 1419.262945] KML rocksdb readahead_update ended
+Apr 14 02:01:19 ubuntu kernel: [ 1419.307975] result-kml.sh (4766): drop_caches: 3
+readreverse 18
+Apr 14 02:01:19 ubuntu kernel: [ 1419.355395] kml_readahead_init: hello
+Apr 14 02:01:19 ubuntu kernel: [ 1419.364066] opened block device 00000000a5bb772f
+Apr 14 02:01:20 ubuntu kernel: [ 1419.364944] KML rocksdb readahead_update started
+Apr 14 02:01:20 ubuntu kernel: [ 1420.389652] ----------------------- 1 -----------------------
+Apr 14 02:01:20 ubuntu kernel: [ 1420.389682] readahead val set:		 960
+Apr 14 02:01:20 ubuntu kernel: [ 1420.389682] predicted class:		 readreverse
+Apr 14 02:01:20 ubuntu kernel: [ 1420.389683] inference took in avg.:		 14264
+Apr 14 02:01:20 ubuntu kernel: [ 1420.389683] data processing took in avg.:	 221
+Apr 14 02:01:20 ubuntu kernel: [ 1420.389684] ops/sec average:		 0
+Apr 14 02:01:21 ubuntu kernel: [ 1421.428043] readahead_update thread should stop
+Apr 14 02:01:21 ubuntu kernel: [ 1421.428260] kml readahead update thread stopped
+Apr 14 02:01:22 ubuntu kernel: [ 1422.437878] perf_monitoring thread should stop
+Apr 14 02:01:22 ubuntu kernel: [ 1422.437930] kml readahed perf thread stopped
+Apr 14 02:01:22 ubuntu kernel: [ 1422.454371] KML rocksdb readahead_update ended
+readreverse 19
+Apr 14 02:01:22 ubuntu kernel: [ 1422.480160] result-kml.sh (4766): drop_caches: 3
+Apr 14 02:01:23 ubuntu kernel: [ 1422.495784] kml_readahead_init: hello
+Apr 14 02:01:23 ubuntu kernel: [ 1422.499473] opened block device 00000000a5bb772f
+Apr 14 02:01:24 ubuntu kernel: [ 1422.500464] KML rocksdb readahead_update started
+Apr 14 02:01:24 ubuntu kernel: [ 1423.524516] readahead_update thread should stop
+Apr 14 02:01:24 ubuntu kernel: [ 1423.524520] kml readahead update thread stopped
+Apr 14 02:01:24 ubuntu kernel: [ 1423.524527] perf_monitoring thread should stop
+Apr 14 02:01:24 ubuntu kernel: [ 1423.524529] kml readahed perf thread stopped
+Apr 14 02:01:24 ubuntu kernel: [ 1423.534374] KML rocksdb readahead_update ended
+Apr 14 02:01:24 ubuntu kernel: [ 1423.559708] result-kml.sh (4766): drop_caches: 3
+readreverse 20
+Apr 14 02:01:24 ubuntu kernel: [ 1423.575849] kml_readahead_init: hello
+Apr 14 02:01:24 ubuntu kernel: [ 1423.579528] opened block device 00000000a5bb772f
+Apr 14 02:01:25 ubuntu kernel: [ 1423.580523] KML rocksdb readahead_update started
+Apr 14 02:01:25 ubuntu kernel: [ 1424.603442] readahead_update thread should stop
+Apr 14 02:01:25 ubuntu kernel: [ 1424.603446] kml readahead update thread stopped
+Apr 14 02:01:25 ubuntu kernel: [ 1424.603468] perf_monitoring thread should stop
+Apr 14 02:01:25 ubuntu kernel: [ 1424.603488] kml readahed perf thread stopped
+Apr 14 02:01:25 ubuntu kernel: [ 1424.606795] KML rocksdb readahead_update ended
+Apr 14 02:01:25 ubuntu kernel: [ 1424.635078] result-kml.sh (4766): drop_caches: 3
+readreverse 21
+Apr 14 02:01:25 ubuntu kernel: [ 1424.650794] kml_readahead_init: hello
+Apr 14 02:01:25 ubuntu kernel: [ 1424.654647] opened block device 00000000a5bb772f
+Apr 14 02:01:26 ubuntu kernel: [ 1424.655640] KML rocksdb readahead_update started
+Apr 14 02:01:26 ubuntu kernel: [ 1425.670019] ----------------------- 1 -----------------------
+Apr 14 02:01:26 ubuntu kernel: [ 1425.670030] readahead val set:		 16
+Apr 14 02:01:26 ubuntu kernel: [ 1425.670031] predicted class:		 readrandom
+Apr 14 02:01:26 ubuntu kernel: [ 1425.670031] inference took in avg.:		 9703
+Apr 14 02:01:26 ubuntu kernel: [ 1425.670032] data processing took in avg.:	 17
+Apr 14 02:01:26 ubuntu kernel: [ 1425.670032] ops/sec average:		 0
+Apr 14 02:01:27 ubuntu kernel: [ 1426.693337] readahead_update thread should stop
+Apr 14 02:01:27 ubuntu kernel: [ 1426.693366] kml readahead update thread stopped
+Apr 14 02:01:28 ubuntu kernel: [ 1427.717327] perf_monitoring thread should stop
+Apr 14 02:01:28 ubuntu kernel: [ 1427.717352] kml readahed perf thread stopped
+Apr 14 02:01:28 ubuntu kernel: [ 1427.720379] KML rocksdb readahead_update ended
+Apr 14 02:01:28 ubuntu kernel: [ 1427.745029] result-kml.sh (4766): drop_caches: 3
+readreverse 22
+Apr 14 02:01:28 ubuntu kernel: [ 1427.764453] kml_readahead_init: hello
+Apr 14 02:01:28 ubuntu kernel: [ 1427.768637] opened block device 00000000a5bb772f
+Apr 14 02:01:29 ubuntu kernel: [ 1427.769633] KML rocksdb readahead_update started
+Apr 14 02:01:29 ubuntu kernel: [ 1428.773204] ----------------------- 1 -----------------------
+Apr 14 02:01:29 ubuntu kernel: [ 1428.773221] readahead val set:		 960
+Apr 14 02:01:29 ubuntu kernel: [ 1428.773222] predicted class:		 readreverse
+Apr 14 02:01:29 ubuntu kernel: [ 1428.773222] inference took in avg.:		 14287
+Apr 14 02:01:29 ubuntu kernel: [ 1428.773223] data processing took in avg.:	 42
+Apr 14 02:01:29 ubuntu kernel: [ 1428.773223] ops/sec average:		 0
+Apr 14 02:01:30 ubuntu kernel: [ 1429.797060] readahead_update thread should stop
+Apr 14 02:01:30 ubuntu kernel: [ 1429.797068] kml readahead update thread stopped
+Apr 14 02:01:30 ubuntu kernel: [ 1429.813393] perf_monitoring thread should stop
+Apr 14 02:01:30 ubuntu kernel: [ 1429.813398] kml readahed perf thread stopped
+Apr 14 02:01:30 ubuntu kernel: [ 1429.816401] KML rocksdb readahead_update ended
+Apr 14 02:01:30 ubuntu kernel: [ 1429.842390] result-kml.sh (4766): drop_caches: 3
+readreverse 23
+Apr 14 02:01:30 ubuntu kernel: [ 1429.855609] kml_readahead_init: hello
+Apr 14 02:01:30 ubuntu kernel: [ 1429.859224] opened block device 00000000a5bb772f
+Apr 14 02:01:31 ubuntu kernel: [ 1429.860220] KML rocksdb readahead_update started
+Apr 14 02:01:31 ubuntu kernel: [ 1430.881000] readahead_update thread should stop
+Apr 14 02:01:31 ubuntu kernel: [ 1430.881020] kml readahead update thread stopped
+Apr 14 02:01:31 ubuntu kernel: [ 1430.881024] perf_monitoring thread should stop
+Apr 14 02:01:31 ubuntu kernel: [ 1430.881038] kml readahed perf thread stopped
+Apr 14 02:01:31 ubuntu kernel: [ 1430.889078] KML rocksdb readahead_update ended
+Apr 14 02:01:31 ubuntu kernel: [ 1430.913961] result-kml.sh (4766): drop_caches: 3
+readreverse 24
+Apr 14 02:01:31 ubuntu kernel: [ 1430.928908] kml_readahead_init: hello
+Apr 14 02:01:31 ubuntu kernel: [ 1430.932200] opened block device 00000000a5bb772f
+Apr 14 02:01:32 ubuntu kernel: [ 1430.933215] KML rocksdb readahead_update started
+Apr 14 02:01:32 ubuntu kernel: [ 1431.941088] ----------------------- 1 -----------------------
+Apr 14 02:01:32 ubuntu kernel: [ 1431.941096] readahead val set:		 16
+Apr 14 02:01:32 ubuntu kernel: [ 1431.941097] predicted class:		 readrandom
+Apr 14 02:01:32 ubuntu kernel: [ 1431.941097] inference took in avg.:		 6611
+Apr 14 02:01:32 ubuntu kernel: [ 1431.941097] data processing took in avg.:	 24
+Apr 14 02:01:32 ubuntu kernel: [ 1431.941097] ops/sec average:		 0
+Apr 14 02:01:33 ubuntu kernel: [ 1432.964914] readahead_update thread should stop
+Apr 14 02:01:33 ubuntu kernel: [ 1432.964936] kml readahead update thread stopped
+Apr 14 02:01:34 ubuntu kernel: [ 1433.988856] perf_monitoring thread should stop
+Apr 14 02:01:34 ubuntu kernel: [ 1433.989255] kml readahed perf thread stopped
+Apr 14 02:01:34 ubuntu kernel: [ 1433.997273] KML rocksdb readahead_update ended
+Apr 14 02:01:34 ubuntu kernel: [ 1434.025894] result-kml.sh (4766): drop_caches: 3
+readreverse 25
+Apr 14 02:01:34 ubuntu kernel: [ 1434.040608] kml_readahead_init: hello
+Apr 14 02:01:34 ubuntu kernel: [ 1434.044226] opened block device 00000000a5bb772f
+Apr 14 02:01:35 ubuntu kernel: [ 1434.045218] KML rocksdb readahead_update started
+Apr 14 02:01:35 ubuntu kernel: [ 1435.076651] ----------------------- 1 -----------------------
+Apr 14 02:01:35 ubuntu kernel: [ 1435.076661] readahead val set:		 16
+Apr 14 02:01:35 ubuntu kernel: [ 1435.076661] predicted class:		 readrandom
+Apr 14 02:01:35 ubuntu kernel: [ 1435.076661] inference took in avg.:		 7348
+Apr 14 02:01:35 ubuntu kernel: [ 1435.076661] data processing took in avg.:	 18
+Apr 14 02:01:35 ubuntu kernel: [ 1435.076662] ops/sec average:		 0
+Apr 14 02:01:36 ubuntu kernel: [ 1436.101312] readahead_update thread should stop
+Apr 14 02:01:36 ubuntu kernel: [ 1436.101334] kml readahead update thread stopped
+Apr 14 02:01:36 ubuntu kernel: [ 1436.101340] perf_monitoring thread should stop
+Apr 14 02:01:36 ubuntu kernel: [ 1436.101353] kml readahed perf thread stopped
+Apr 14 02:01:36 ubuntu kernel: [ 1436.113253] KML rocksdb readahead_update ended
+Apr 14 02:01:36 ubuntu kernel: [ 1436.142432] result-kml.sh (4766): drop_caches: 3
+Apr 14 02:01:39 ubuntu kernel: [ 1439.179364] generate-result (3948): drop_caches: 3
+readrandomwriterandom 1
+Apr 14 02:01:39 ubuntu kernel: [ 1439.210714] result-kml.sh (5079): drop_caches: 3
+Apr 14 02:01:39 ubuntu kernel: [ 1439.226376] kml_readahead_init: hello
+Apr 14 02:01:39 ubuntu kernel: [ 1439.233425] opened block device 00000000a5bb772f
+Apr 14 02:01:40 ubuntu kernel: [ 1439.234448] KML rocksdb readahead_update started
+Apr 14 02:01:40 ubuntu kernel: [ 1440.255161] readahead_update thread should stop
+Apr 14 02:01:40 ubuntu kernel: [ 1440.255169] kml readahead update thread stopped
+Apr 14 02:01:40 ubuntu kernel: [ 1440.255171] perf_monitoring thread should stop
+Apr 14 02:01:40 ubuntu kernel: [ 1440.255172] kml readahed perf thread stopped
+Apr 14 02:01:40 ubuntu kernel: [ 1440.258295] KML rocksdb readahead_update ended
+Apr 14 02:01:40 ubuntu kernel: [ 1440.281544] result-kml.sh (5079): drop_caches: 3
+readrandomwriterandom 2
+Apr 14 02:01:40 ubuntu kernel: [ 1440.294604] kml_readahead_init: hello
+Apr 14 02:01:40 ubuntu kernel: [ 1440.297957] opened block device 00000000a5bb772f
+Apr 14 02:01:41 ubuntu kernel: [ 1440.298950] KML rocksdb readahead_update started
+Apr 14 02:01:41 ubuntu kernel: [ 1441.316237] ----------------------- 1 -----------------------
+Apr 14 02:01:41 ubuntu kernel: [ 1441.316247] readahead val set:		 16
+Apr 14 02:01:41 ubuntu kernel: [ 1441.316247] predicted class:		 readrandom
+Apr 14 02:01:41 ubuntu kernel: [ 1441.316247] inference took in avg.:		 7811
+Apr 14 02:01:41 ubuntu kernel: [ 1441.316248] data processing took in avg.:	 23
+Apr 14 02:01:41 ubuntu kernel: [ 1441.316248] ops/sec average:		 0
+Apr 14 02:01:42 ubuntu kernel: [ 1442.340280] readahead_update thread should stop
+Apr 14 02:01:42 ubuntu kernel: [ 1442.340301] kml readahead update thread stopped
+Apr 14 02:01:43 ubuntu kernel: [ 1443.365056] perf_monitoring thread should stop
+Apr 14 02:01:43 ubuntu kernel: [ 1443.365065] kml readahed perf thread stopped
+Apr 14 02:01:43 ubuntu kernel: [ 1443.376230] KML rocksdb readahead_update ended
+Apr 14 02:01:43 ubuntu kernel: [ 1443.406400] result-kml.sh (5079): drop_caches: 3
+readrandomwriterandom 3
+Apr 14 02:01:43 ubuntu kernel: [ 1443.419967] kml_readahead_init: hello
+Apr 14 02:01:43 ubuntu kernel: [ 1443.423091] opened block device 00000000a5bb772f
+Apr 14 02:01:44 ubuntu kernel: [ 1443.424082] KML rocksdb readahead_update started
+Apr 14 02:01:44 ubuntu kernel: [ 1444.452036] ----------------------- 1 -----------------------
+Apr 14 02:01:44 ubuntu kernel: [ 1444.452045] readahead val set:		 16
+Apr 14 02:01:44 ubuntu kernel: [ 1444.452045] predicted class:		 readrandom
+Apr 14 02:01:44 ubuntu kernel: [ 1444.452045] inference took in avg.:		 7378
+Apr 14 02:01:44 ubuntu kernel: [ 1444.452046] data processing took in avg.:	 20
+Apr 14 02:01:44 ubuntu kernel: [ 1444.452046] ops/sec average:		 0
+Apr 14 02:01:45 ubuntu kernel: [ 1445.477062] readahead_update thread should stop
+Apr 14 02:01:45 ubuntu kernel: [ 1445.477084] kml readahead update thread stopped
+Apr 14 02:01:47 ubuntu kernel: [ 1446.500014] perf_monitoring thread should stop
+Apr 14 02:01:47 ubuntu kernel: [ 1446.500052] kml readahed perf thread stopped
+Apr 14 02:01:47 ubuntu kernel: [ 1446.503069] KML rocksdb readahead_update ended
+readrandomwriterandom 4
+Apr 14 02:01:47 ubuntu kernel: [ 1446.538083] result-kml.sh (5079): drop_caches: 3
+Apr 14 02:01:47 ubuntu kernel: [ 1446.554223] kml_readahead_init: hello
+Apr 14 02:01:47 ubuntu kernel: [ 1446.557801] opened block device 00000000a5bb772f
+Apr 14 02:01:48 ubuntu kernel: [ 1446.558788] KML rocksdb readahead_update started
+Apr 14 02:01:48 ubuntu kernel: [ 1447.588065] ----------------------- 1 -----------------------
+Apr 14 02:01:48 ubuntu kernel: [ 1447.588077] readahead val set:		 16
+Apr 14 02:01:48 ubuntu kernel: [ 1447.588078] predicted class:		 readrandom
+Apr 14 02:01:48 ubuntu kernel: [ 1447.588078] inference took in avg.:		 10625
+Apr 14 02:01:48 ubuntu kernel: [ 1447.588079] data processing took in avg.:	 38
+Apr 14 02:01:48 ubuntu kernel: [ 1447.588079] ops/sec average:		 0
+Apr 14 02:01:49 ubuntu kernel: [ 1448.612203] readahead_update thread should stop
+Apr 14 02:01:49 ubuntu kernel: [ 1448.612225] kml readahead update thread stopped
+Apr 14 02:01:50 ubuntu kernel: [ 1449.636971] perf_monitoring thread should stop
+Apr 14 02:01:50 ubuntu kernel: [ 1449.636995] kml readahed perf thread stopped
+Apr 14 02:01:50 ubuntu kernel: [ 1449.639996] KML rocksdb readahead_update ended
+readrandomwriterandom 5
+Apr 14 02:01:50 ubuntu kernel: [ 1449.670043] result-kml.sh (5079): drop_caches: 3
+Apr 14 02:01:50 ubuntu kernel: [ 1449.685594] kml_readahead_init: hello
+Apr 14 02:01:50 ubuntu kernel: [ 1449.689093] opened block device 00000000a5bb772f
+Apr 14 02:01:51 ubuntu kernel: [ 1449.690085] KML rocksdb readahead_update started
+Apr 14 02:01:51 ubuntu kernel: [ 1450.723666] ----------------------- 1 -----------------------
+Apr 14 02:01:51 ubuntu kernel: [ 1450.723679] readahead val set:		 16
+Apr 14 02:01:51 ubuntu kernel: [ 1450.723679] predicted class:		 readrandom
+Apr 14 02:01:51 ubuntu kernel: [ 1450.723680] inference took in avg.:		 10469
+Apr 14 02:01:51 ubuntu kernel: [ 1450.723680] data processing took in avg.:	 24
+Apr 14 02:01:51 ubuntu kernel: [ 1450.723680] ops/sec average:		 0
+Apr 14 02:01:52 ubuntu kernel: [ 1451.747588] readahead_update thread should stop
+Apr 14 02:01:52 ubuntu kernel: [ 1451.747619] kml readahead update thread stopped
+Apr 14 02:01:53 ubuntu kernel: [ 1452.772345] perf_monitoring thread should stop
+Apr 14 02:01:53 ubuntu kernel: [ 1452.772384] kml readahed perf thread stopped
+Apr 14 02:01:53 ubuntu kernel: [ 1452.788250] KML rocksdb readahead_update ended
+Apr 14 02:01:53 ubuntu kernel: [ 1452.818451] result-kml.sh (5079): drop_caches: 3
+readrandomwriterandom 6
+Apr 14 02:01:53 ubuntu kernel: [ 1452.835781] kml_readahead_init: hello
+Apr 14 02:01:53 ubuntu kernel: [ 1452.839219] opened block device 00000000a5bb772f
+Apr 14 02:01:54 ubuntu kernel: [ 1452.840211] KML rocksdb readahead_update started
+Apr 14 02:01:54 ubuntu kernel: [ 1453.859468] ----------------------- 1 -----------------------
+Apr 14 02:01:54 ubuntu kernel: [ 1453.859478] readahead val set:		 16
+Apr 14 02:01:54 ubuntu kernel: [ 1453.859478] predicted class:		 readrandom
+Apr 14 02:01:54 ubuntu kernel: [ 1453.859479] inference took in avg.:		 8443
+Apr 14 02:01:54 ubuntu kernel: [ 1453.859479] data processing took in avg.:	 60
+Apr 14 02:01:54 ubuntu kernel: [ 1453.859479] ops/sec average:		 0
+Apr 14 02:01:55 ubuntu kernel: [ 1454.883645] readahead_update thread should stop
+Apr 14 02:01:55 ubuntu kernel: [ 1454.883695] kml readahead update thread stopped
+Apr 14 02:01:55 ubuntu kernel: [ 1454.883698] perf_monitoring thread should stop
+Apr 14 02:01:55 ubuntu kernel: [ 1454.883703] kml readahed perf thread stopped
+Apr 14 02:01:55 ubuntu kernel: [ 1454.891676] KML rocksdb readahead_update ended
+readrandomwriterandom 7
+Apr 14 02:01:55 ubuntu kernel: [ 1454.917082] result-kml.sh (5079): drop_caches: 3
+Apr 14 02:01:55 ubuntu kernel: [ 1454.935959] kml_readahead_init: hello
+Apr 14 02:01:55 ubuntu kernel: [ 1454.939788] opened block device 00000000a5bb772f
+Apr 14 02:01:56 ubuntu kernel: [ 1454.940797] KML rocksdb readahead_update started
+Apr 14 02:01:56 ubuntu kernel: [ 1455.964895] readahead_update thread should stop
+Apr 14 02:01:56 ubuntu kernel: [ 1455.964909] kml readahead update thread stopped
+Apr 14 02:01:56 ubuntu kernel: [ 1455.964917] perf_monitoring thread should stop
+Apr 14 02:01:56 ubuntu kernel: [ 1455.964930] kml readahed perf thread stopped
+Apr 14 02:01:56 ubuntu kernel: [ 1455.979664] KML rocksdb readahead_update ended
+readrandomwriterandom 8
+Apr 14 02:01:56 ubuntu kernel: [ 1456.008603] result-kml.sh (5079): drop_caches: 3
+Apr 14 02:01:56 ubuntu kernel: [ 1456.025838] kml_readahead_init: hello
+Apr 14 02:01:56 ubuntu kernel: [ 1456.028886] opened block device 00000000a5bb772f
+Apr 14 02:01:57 ubuntu kernel: [ 1456.029879] KML rocksdb readahead_update started
+Apr 14 02:01:57 ubuntu kernel: [ 1457.056618] readahead_update thread should stop
+Apr 14 02:01:57 ubuntu kernel: [ 1457.056622] kml readahead update thread stopped
+Apr 14 02:01:57 ubuntu kernel: [ 1457.056636] perf_monitoring thread should stop
+Apr 14 02:01:57 ubuntu kernel: [ 1457.056654] kml readahed perf thread stopped
+Apr 14 02:01:57 ubuntu kernel: [ 1457.071799] KML rocksdb readahead_update ended
+Apr 14 02:01:57 ubuntu kernel: [ 1457.092591] result-kml.sh (5079): drop_caches: 3
+readrandomwriterandom 9
+Apr 14 02:01:57 ubuntu kernel: [ 1457.107125] kml_readahead_init: hello
+Apr 14 02:01:57 ubuntu kernel: [ 1457.110398] opened block device 00000000a5bb772f
+Apr 14 02:01:58 ubuntu kernel: [ 1457.111391] KML rocksdb readahead_update started
+Apr 14 02:01:58 ubuntu kernel: [ 1458.115208] ----------------------- 1 -----------------------
+Apr 14 02:01:58 ubuntu kernel: [ 1458.115219] readahead val set:		 960
+Apr 14 02:01:58 ubuntu kernel: [ 1458.115219] predicted class:		 readreverse
+Apr 14 02:01:58 ubuntu kernel: [ 1458.115220] inference took in avg.:		 8933
+Apr 14 02:01:58 ubuntu kernel: [ 1458.115220] data processing took in avg.:	 64
+Apr 14 02:01:58 ubuntu kernel: [ 1458.115220] ops/sec average:		 0
+Apr 14 02:01:59 ubuntu kernel: [ 1459.139438] readahead_update thread should stop
+Apr 14 02:01:59 ubuntu kernel: [ 1459.139447] kml readahead update thread stopped
+Apr 14 02:01:59 ubuntu kernel: [ 1459.155657] perf_monitoring thread should stop
+Apr 14 02:01:59 ubuntu kernel: [ 1459.155671] kml readahed perf thread stopped
+Apr 14 02:01:59 ubuntu kernel: [ 1459.158674] KML rocksdb readahead_update ended
+Apr 14 02:01:59 ubuntu kernel: [ 1459.184362] result-kml.sh (5079): drop_caches: 3
+readrandomwriterandom 10
+Apr 14 02:01:59 ubuntu kernel: [ 1459.196967] kml_readahead_init: hello
+Apr 14 02:01:59 ubuntu kernel: [ 1459.200209] opened block device 00000000a5bb772f
+Apr 14 02:02:00 ubuntu kernel: [ 1459.201201] KML rocksdb readahead_update started
+Apr 14 02:02:00 ubuntu kernel: [ 1460.221631] readahead_update thread should stop
+Apr 14 02:02:00 ubuntu kernel: [ 1460.221635] kml readahead update thread stopped
+Apr 14 02:02:00 ubuntu kernel: [ 1460.221651] perf_monitoring thread should stop
+Apr 14 02:02:00 ubuntu kernel: [ 1460.221671] kml readahed perf thread stopped
+Apr 14 02:02:00 ubuntu kernel: [ 1460.224845] KML rocksdb readahead_update ended
+Apr 14 02:02:00 ubuntu kernel: [ 1460.247307] result-kml.sh (5079): drop_caches: 3
+readrandomwriterandom 11
+Apr 14 02:02:00 ubuntu kernel: [ 1460.260419] kml_readahead_init: hello
+Apr 14 02:02:00 ubuntu kernel: [ 1460.263489] opened block device 00000000a5bb772f
+Apr 14 02:02:01 ubuntu kernel: [ 1460.264482] KML rocksdb readahead_update started
+Apr 14 02:02:01 ubuntu kernel: [ 1461.283009] ----------------------- 1 -----------------------
+Apr 14 02:02:01 ubuntu kernel: [ 1461.283018] readahead val set:		 16
+Apr 14 02:02:01 ubuntu kernel: [ 1461.283018] predicted class:		 readrandom
+Apr 14 02:02:01 ubuntu kernel: [ 1461.283019] inference took in avg.:		 7481
+Apr 14 02:02:01 ubuntu kernel: [ 1461.283019] data processing took in avg.:	 15
+Apr 14 02:02:01 ubuntu kernel: [ 1461.283019] ops/sec average:		 0
+Apr 14 02:02:02 ubuntu kernel: [ 1462.307017] readahead_update thread should stop
+Apr 14 02:02:02 ubuntu kernel: [ 1462.307063] kml readahead update thread stopped
+Apr 14 02:02:02 ubuntu kernel: [ 1462.307066] perf_monitoring thread should stop
+Apr 14 02:02:02 ubuntu kernel: [ 1462.307071] kml readahed perf thread stopped
+Apr 14 02:02:02 ubuntu kernel: [ 1462.310077] KML rocksdb readahead_update ended
+Apr 14 02:02:02 ubuntu kernel: [ 1462.340566] result-kml.sh (5079): drop_caches: 3
+readrandomwriterandom 12
+Apr 14 02:02:02 ubuntu kernel: [ 1462.355384] kml_readahead_init: hello
+Apr 14 02:02:02 ubuntu kernel: [ 1462.358547] opened block device 00000000a5bb772f
+Apr 14 02:02:03 ubuntu kernel: [ 1462.359538] KML rocksdb readahead_update started
+Apr 14 02:02:03 ubuntu kernel: [ 1463.362885] ----------------------- 1 -----------------------
+Apr 14 02:02:03 ubuntu kernel: [ 1463.362918] readahead val set:		 960
+Apr 14 02:02:03 ubuntu kernel: [ 1463.362919] predicted class:		 readreverse
+Apr 14 02:02:03 ubuntu kernel: [ 1463.362919] inference took in avg.:		 31309
+Apr 14 02:02:03 ubuntu kernel: [ 1463.362919] data processing took in avg.:	 41
+Apr 14 02:02:03 ubuntu kernel: [ 1463.362920] ops/sec average:		 0
+Apr 14 02:02:04 ubuntu kernel: [ 1464.386970] readahead_update thread should stop
+Apr 14 02:02:04 ubuntu kernel: [ 1464.386978] kml readahead update thread stopped
+Apr 14 02:02:04 ubuntu kernel: [ 1464.402920] perf_monitoring thread should stop
+Apr 14 02:02:04 ubuntu kernel: [ 1464.407841] kml readahed perf thread stopped
+Apr 14 02:02:04 ubuntu kernel: [ 1464.422953] KML rocksdb readahead_update ended
+readrandomwriterandom 13
+Apr 14 02:02:04 ubuntu kernel: [ 1464.452842] result-kml.sh (5079): drop_caches: 3
+Apr 14 02:02:04 ubuntu kernel: [ 1464.465881] kml_readahead_init: hello
+Apr 14 02:02:04 ubuntu kernel: [ 1464.468964] opened block device 00000000a5bb772f
+Apr 14 02:02:05 ubuntu kernel: [ 1464.469960] KML rocksdb readahead_update started
+Apr 14 02:02:05 ubuntu kernel: [ 1465.474851] ----------------------- 1 -----------------------
+Apr 14 02:02:05 ubuntu kernel: [ 1465.475150] readahead val set:		 16
+Apr 14 02:02:05 ubuntu kernel: [ 1465.475151] predicted class:		 readrandom
+Apr 14 02:02:05 ubuntu kernel: [ 1465.475151] inference took in avg.:		 296410
+Apr 14 02:02:05 ubuntu kernel: [ 1465.475151] data processing took in avg.:	 31
+Apr 14 02:02:05 ubuntu kernel: [ 1465.475151] ops/sec average:		 0
+Apr 14 02:02:07 ubuntu kernel: [ 1466.498750] readahead_update thread should stop
+Apr 14 02:02:07 ubuntu kernel: [ 1466.498761] kml readahead update thread stopped
+Apr 14 02:02:08 ubuntu kernel: [ 1467.522838] perf_monitoring thread should stop
+Apr 14 02:02:08 ubuntu kernel: [ 1467.522847] kml readahed perf thread stopped
+Apr 14 02:02:08 ubuntu kernel: [ 1467.530850] KML rocksdb readahead_update ended
+Apr 14 02:02:08 ubuntu kernel: [ 1467.555810] result-kml.sh (5079): drop_caches: 3
+readrandomwriterandom 14
+Apr 14 02:02:08 ubuntu kernel: [ 1467.569665] kml_readahead_init: hello
+Apr 14 02:02:08 ubuntu kernel: [ 1467.572877] opened block device 00000000a5bb772f
+Apr 14 02:02:09 ubuntu kernel: [ 1467.573868] KML rocksdb readahead_update started
+Apr 14 02:02:09 ubuntu kernel: [ 1468.578601] ----------------------- 1 -----------------------
+Apr 14 02:02:09 ubuntu kernel: [ 1468.578617] readahead val set:		 960
+Apr 14 02:02:09 ubuntu kernel: [ 1468.578618] predicted class:		 readreverse
+Apr 14 02:02:09 ubuntu kernel: [ 1468.578618] inference took in avg.:		 14637
+Apr 14 02:02:09 ubuntu kernel: [ 1468.578618] data processing took in avg.:	 33
+Apr 14 02:02:09 ubuntu kernel: [ 1468.578618] ops/sec average:		 0
+Apr 14 02:02:10 ubuntu kernel: [ 1469.603308] readahead_update thread should stop
+Apr 14 02:02:10 ubuntu kernel: [ 1469.603317] kml readahead update thread stopped
+Apr 14 02:02:10 ubuntu kernel: [ 1469.603321] perf_monitoring thread should stop
+Apr 14 02:02:10 ubuntu kernel: [ 1469.603324] kml readahed perf thread stopped
+Apr 14 02:02:10 ubuntu kernel: [ 1469.606330] KML rocksdb readahead_update ended
+readrandomwriterandom 15
+Apr 14 02:02:10 ubuntu kernel: [ 1469.637160] result-kml.sh (5079): drop_caches: 3
+Apr 14 02:02:10 ubuntu kernel: [ 1469.652438] kml_readahead_init: hello
+Apr 14 02:02:10 ubuntu kernel: [ 1469.656017] opened block device 00000000a5bb772f
+Apr 14 02:02:11 ubuntu kernel: [ 1469.657010] KML rocksdb readahead_update started
+Apr 14 02:02:11 ubuntu kernel: [ 1470.678438] readahead_update thread should stop
+Apr 14 02:02:11 ubuntu kernel: [ 1470.678469] kml readahead update thread stopped
+Apr 14 02:02:11 ubuntu kernel: [ 1470.678505] perf_monitoring thread should stop
+Apr 14 02:02:11 ubuntu kernel: [ 1470.678513] kml readahed perf thread stopped
+Apr 14 02:02:11 ubuntu kernel: [ 1470.681531] KML rocksdb readahead_update ended
+Apr 14 02:02:11 ubuntu kernel: [ 1470.712116] result-kml.sh (5079): drop_caches: 3
+Apr 14 02:02:14 ubuntu kernel: [ 1473.755064] generate-result (3948): drop_caches: 3
+Apr 14 02:02:14 ubuntu kernel: [ 1473.790474] result-kml.sh (5273): drop_caches: 3
+updaterandom 1
+Apr 14 02:02:14 ubuntu kernel: [ 1473.809127] kml_readahead_init: hello
+Apr 14 02:02:14 ubuntu kernel: [ 1473.813457] opened block device 00000000a5bb772f
+Apr 14 02:02:15 ubuntu kernel: [ 1473.814503] KML rocksdb readahead_update started
+Apr 14 02:02:15 ubuntu kernel: [ 1474.818250] ----------------------- 1 -----------------------
+Apr 14 02:02:15 ubuntu kernel: [ 1474.818325] readahead val set:		 960
+Apr 14 02:02:15 ubuntu kernel: [ 1474.818325] predicted class:		 readreverse
+Apr 14 02:02:15 ubuntu kernel: [ 1474.818325] inference took in avg.:		 8167
+Apr 14 02:02:15 ubuntu kernel: [ 1474.818326] data processing took in avg.:	 58
+Apr 14 02:02:15 ubuntu kernel: [ 1474.818326] ops/sec average:		 0
+Apr 14 02:02:16 ubuntu kernel: [ 1475.843082] readahead_update thread should stop
+Apr 14 02:02:16 ubuntu kernel: [ 1475.843103] kml readahead update thread stopped
+Apr 14 02:02:16 ubuntu kernel: [ 1475.843106] perf_monitoring thread should stop
+Apr 14 02:02:16 ubuntu kernel: [ 1475.843110] kml readahed perf thread stopped
+Apr 14 02:02:16 ubuntu kernel: [ 1475.846114] KML rocksdb readahead_update ended
+updaterandom 2
+Apr 14 02:02:16 ubuntu kernel: [ 1475.879756] result-kml.sh (5273): drop_caches: 3
+Apr 14 02:02:16 ubuntu kernel: [ 1475.894915] kml_readahead_init: hello
+Apr 14 02:02:16 ubuntu kernel: [ 1475.898303] opened block device 00000000a5bb772f
+Apr 14 02:02:17 ubuntu kernel: [ 1475.899347] KML rocksdb readahead_update started
+Apr 14 02:02:17 ubuntu kernel: [ 1476.932671] readahead_update thread should stop
+Apr 14 02:02:17 ubuntu kernel: [ 1476.932679] kml readahead update thread stopped
+Apr 14 02:02:17 ubuntu kernel: [ 1476.932680] perf_monitoring thread should stop
+Apr 14 02:02:17 ubuntu kernel: [ 1476.932691] kml readahed perf thread stopped
+Apr 14 02:02:17 ubuntu kernel: [ 1476.935922] KML rocksdb readahead_update ended
+Apr 14 02:02:17 ubuntu kernel: [ 1476.965218] result-kml.sh (5273): drop_caches: 3
+updaterandom 3
+Apr 14 02:02:17 ubuntu kernel: [ 1476.978921] kml_readahead_init: hello
+Apr 14 02:02:17 ubuntu kernel: [ 1476.981992] opened block device 00000000a5bb772f
+Apr 14 02:02:18 ubuntu kernel: [ 1476.982983] KML rocksdb readahead_update started
+Apr 14 02:02:18 ubuntu kernel: [ 1477.986055] ----------------------- 1 -----------------------
+Apr 14 02:02:18 ubuntu kernel: [ 1477.986064] readahead val set:		 16
+Apr 14 02:02:18 ubuntu kernel: [ 1477.986064] predicted class:		 readrandom
+Apr 14 02:02:18 ubuntu kernel: [ 1477.986065] inference took in avg.:		 7611
+Apr 14 02:02:18 ubuntu kernel: [ 1477.986065] data processing took in avg.:	 54
+Apr 14 02:02:18 ubuntu kernel: [ 1477.986065] ops/sec average:		 0
+Apr 14 02:02:19 ubuntu kernel: [ 1479.010678] readahead_update thread should stop
+Apr 14 02:02:19 ubuntu kernel: [ 1479.010686] kml readahead update thread stopped
+Apr 14 02:02:19 ubuntu kernel: [ 1479.026694] perf_monitoring thread should stop
+Apr 14 02:02:19 ubuntu kernel: [ 1479.026707] kml readahed perf thread stopped
+Apr 14 02:02:19 ubuntu kernel: [ 1479.029718] KML rocksdb readahead_update ended
+Apr 14 02:02:19 ubuntu kernel: [ 1479.055508] result-kml.sh (5273): drop_caches: 3
+updaterandom 4
+Apr 14 02:02:19 ubuntu kernel: [ 1479.069310] kml_readahead_init: hello
+Apr 14 02:02:19 ubuntu kernel: [ 1479.072535] opened block device 00000000a5bb772f
+Apr 14 02:02:20 ubuntu kernel: [ 1479.073553] KML rocksdb readahead_update started
+Apr 14 02:02:20 ubuntu kernel: [ 1480.097933] ----------------------- 1 -----------------------
+Apr 14 02:02:20 ubuntu kernel: [ 1480.097942] readahead val set:		 16
+Apr 14 02:02:20 ubuntu kernel: [ 1480.097942] predicted class:		 readrandom
+Apr 14 02:02:20 ubuntu kernel: [ 1480.097942] inference took in avg.:		 7545
+Apr 14 02:02:20 ubuntu kernel: [ 1480.097943] data processing took in avg.:	 25
+Apr 14 02:02:20 ubuntu kernel: [ 1480.097943] ops/sec average:		 0
+Apr 14 02:02:21 ubuntu kernel: [ 1481.122335] readahead_update thread should stop
+Apr 14 02:02:21 ubuntu kernel: [ 1481.122353] kml readahead update thread stopped
+Apr 14 02:02:22 ubuntu kernel: [ 1482.145959] perf_monitoring thread should stop
+Apr 14 02:02:22 ubuntu kernel: [ 1482.145982] kml readahed perf thread stopped
+Apr 14 02:02:22 ubuntu kernel: [ 1482.148989] KML rocksdb readahead_update ended
+updaterandom 5
+Apr 14 02:02:22 ubuntu kernel: [ 1482.182286] result-kml.sh (5273): drop_caches: 3
+Apr 14 02:02:22 ubuntu kernel: [ 1482.196478] kml_readahead_init: hello
+Apr 14 02:02:22 ubuntu kernel: [ 1482.199599] opened block device 00000000a5bb772f
+Apr 14 02:02:23 ubuntu kernel: [ 1482.200589] KML rocksdb readahead_update started
+Apr 14 02:02:23 ubuntu kernel: [ 1483.233771] readahead_update thread should stop
+Apr 14 02:02:23 ubuntu kernel: [ 1483.233775] kml readahead update thread stopped
+Apr 14 02:02:23 ubuntu kernel: [ 1483.233798] perf_monitoring thread should stop
+Apr 14 02:02:23 ubuntu kernel: [ 1483.233814] kml readahed perf thread stopped
+Apr 14 02:02:23 ubuntu kernel: [ 1483.242001] KML rocksdb readahead_update ended
+updaterandom 6
+Apr 14 02:02:23 ubuntu kernel: [ 1483.270241] result-kml.sh (5273): drop_caches: 3
+Apr 14 02:02:23 ubuntu kernel: [ 1483.287263] kml_readahead_init: hello
+Apr 14 02:02:23 ubuntu kernel: [ 1483.290864] opened block device 00000000a5bb772f
+Apr 14 02:02:24 ubuntu kernel: [ 1483.291858] KML rocksdb readahead_update started
+Apr 14 02:02:24 ubuntu kernel: [ 1484.321702] ----------------------- 1 -----------------------
+Apr 14 02:02:24 ubuntu kernel: [ 1484.321710] readahead val set:		 16
+Apr 14 02:02:24 ubuntu kernel: [ 1484.321710] predicted class:		 readrandom
+Apr 14 02:02:24 ubuntu kernel: [ 1484.321710] inference took in avg.:		 5971
+Apr 14 02:02:24 ubuntu kernel: [ 1484.321711] data processing took in avg.:	 18
+Apr 14 02:02:24 ubuntu kernel: [ 1484.321711] ops/sec average:		 0
+Apr 14 02:02:25 ubuntu kernel: [ 1485.345689] readahead_update thread should stop
+Apr 14 02:02:25 ubuntu kernel: [ 1485.345698] kml readahead update thread stopped
+Apr 14 02:02:26 ubuntu kernel: [ 1486.369739] perf_monitoring thread should stop
+Apr 14 02:02:26 ubuntu kernel: [ 1486.369806] kml readahed perf thread stopped
+Apr 14 02:02:26 ubuntu kernel: [ 1486.377771] KML rocksdb readahead_update ended
+updaterandom 7
+Apr 14 02:02:26 ubuntu kernel: [ 1486.402177] result-kml.sh (5273): drop_caches: 3
+Apr 14 02:02:26 ubuntu kernel: [ 1486.415903] kml_readahead_init: hello
+Apr 14 02:02:26 ubuntu kernel: [ 1486.418972] opened block device 00000000a5bb772f
+Apr 14 02:02:27 ubuntu kernel: [ 1486.419965] KML rocksdb readahead_update started
+Apr 14 02:02:27 ubuntu kernel: [ 1487.425550] ----------------------- 1 -----------------------
+Apr 14 02:02:27 ubuntu kernel: [ 1487.425558] readahead val set:		 16
+Apr 14 02:02:27 ubuntu kernel: [ 1487.425558] predicted class:		 readrandom
+Apr 14 02:02:27 ubuntu kernel: [ 1487.425558] inference took in avg.:		 6208
+Apr 14 02:02:27 ubuntu kernel: [ 1487.425559] data processing took in avg.:	 91
+Apr 14 02:02:27 ubuntu kernel: [ 1487.425559] ops/sec average:		 0
+Apr 14 02:02:28 ubuntu kernel: [ 1488.449777] readahead_update thread should stop
+Apr 14 02:02:28 ubuntu kernel: [ 1488.449785] kml readahead update thread stopped
+Apr 14 02:02:28 ubuntu kernel: [ 1488.449788] perf_monitoring thread should stop
+Apr 14 02:02:28 ubuntu kernel: [ 1488.449790] kml readahed perf thread stopped
+Apr 14 02:02:28 ubuntu kernel: [ 1488.452797] KML rocksdb readahead_update ended
+updaterandom 8
+Apr 14 02:02:28 ubuntu kernel: [ 1488.478502] result-kml.sh (5273): drop_caches: 3
+Apr 14 02:02:29 ubuntu kernel: [ 1488.493932] kml_readahead_init: hello
+Apr 14 02:02:29 ubuntu kernel: [ 1488.496977] opened block device 00000000a5bb772f
+Apr 14 02:02:30 ubuntu kernel: [ 1488.497969] KML rocksdb readahead_update started
+Apr 14 02:02:30 ubuntu kernel: [ 1489.505419] ----------------------- 1 -----------------------
+Apr 14 02:02:30 ubuntu kernel: [ 1489.505427] readahead val set:		 16
+Apr 14 02:02:30 ubuntu kernel: [ 1489.505428] predicted class:		 readrandom
+Apr 14 02:02:30 ubuntu kernel: [ 1489.505428] inference took in avg.:		 6427
+Apr 14 02:02:30 ubuntu kernel: [ 1489.505448] data processing took in avg.:	 57
+Apr 14 02:02:30 ubuntu kernel: [ 1489.505448] ops/sec average:		 0
+Apr 14 02:02:31 ubuntu kernel: [ 1490.530079] readahead_update thread should stop
+Apr 14 02:02:31 ubuntu kernel: [ 1490.530157] kml readahead update thread stopped
+Apr 14 02:02:32 ubuntu kernel: [ 1491.554019] perf_monitoring thread should stop
+Apr 14 02:02:32 ubuntu kernel: [ 1491.554029] kml readahed perf thread stopped
+Apr 14 02:02:32 ubuntu kernel: [ 1491.562025] KML rocksdb readahead_update ended
+updaterandom 9
+Apr 14 02:02:32 ubuntu kernel: [ 1491.598791] result-kml.sh (5273): drop_caches: 3
+Apr 14 02:02:32 ubuntu kernel: [ 1491.613621] kml_readahead_init: hello
+Apr 14 02:02:32 ubuntu kernel: [ 1491.616709] opened block device 00000000a5bb772f
+Apr 14 02:02:33 ubuntu kernel: [ 1491.617701] KML rocksdb readahead_update started
+Apr 14 02:02:33 ubuntu kernel: [ 1492.641275] ----------------------- 1 -----------------------
+Apr 14 02:02:33 ubuntu kernel: [ 1492.641287] readahead val set:		 16
+Apr 14 02:02:33 ubuntu kernel: [ 1492.641287] predicted class:		 readrandom
+Apr 14 02:02:33 ubuntu kernel: [ 1492.641288] inference took in avg.:		 9718
+Apr 14 02:02:33 ubuntu kernel: [ 1492.641288] data processing took in avg.:	 22
+Apr 14 02:02:33 ubuntu kernel: [ 1492.641288] ops/sec average:		 0
+Apr 14 02:02:34 ubuntu kernel: [ 1493.665742] readahead_update thread should stop
+Apr 14 02:02:34 ubuntu kernel: [ 1493.665765] kml readahead update thread stopped
+Apr 14 02:02:34 ubuntu kernel: [ 1493.665771] perf_monitoring thread should stop
+Apr 14 02:02:34 ubuntu kernel: [ 1493.665775] kml readahed perf thread stopped
+Apr 14 02:02:34 ubuntu kernel: [ 1493.677721] KML rocksdb readahead_update ended
+updaterandom 10
+Apr 14 02:02:34 ubuntu kernel: [ 1493.713507] result-kml.sh (5273): drop_caches: 3
+Apr 14 02:02:34 ubuntu kernel: [ 1493.731706] kml_readahead_init: hello
+Apr 14 02:02:34 ubuntu kernel: [ 1493.735248] opened block device 00000000a5bb772f
+Apr 14 02:02:35 ubuntu kernel: [ 1493.736239] KML rocksdb readahead_update started
+Apr 14 02:02:35 ubuntu kernel: [ 1494.753211] ----------------------- 1 -----------------------
+Apr 14 02:02:35 ubuntu kernel: [ 1494.753221] readahead val set:		 16
+Apr 14 02:02:35 ubuntu kernel: [ 1494.753222] predicted class:		 readrandom
+Apr 14 02:02:35 ubuntu kernel: [ 1494.753222] inference took in avg.:		 7553
+Apr 14 02:02:35 ubuntu kernel: [ 1494.753223] data processing took in avg.:	 37
+Apr 14 02:02:35 ubuntu kernel: [ 1494.753223] ops/sec average:		 0
+Apr 14 02:02:36 ubuntu kernel: [ 1495.777840] readahead_update thread should stop
+Apr 14 02:02:36 ubuntu kernel: [ 1495.777850] kml readahead update thread stopped
+Apr 14 02:02:37 ubuntu kernel: [ 1496.802108] perf_monitoring thread should stop
+Apr 14 02:02:37 ubuntu kernel: [ 1496.802203] kml readahed perf thread stopped
+Apr 14 02:02:37 ubuntu kernel: [ 1496.813256] KML rocksdb readahead_update ended
+updaterandom 11
+Apr 14 02:02:37 ubuntu kernel: [ 1496.847547] result-kml.sh (5273): drop_caches: 3
+Apr 14 02:02:37 ubuntu kernel: [ 1496.864273] kml_readahead_init: hello
+Apr 14 02:02:37 ubuntu kernel: [ 1496.867778] opened block device 00000000a5bb772f
+Apr 14 02:02:38 ubuntu kernel: [ 1496.868770] KML rocksdb readahead_update started
+Apr 14 02:02:38 ubuntu kernel: [ 1497.889005] ----------------------- 1 -----------------------
+Apr 14 02:02:38 ubuntu kernel: [ 1497.889016] readahead val set:		 16
+Apr 14 02:02:38 ubuntu kernel: [ 1497.889016] predicted class:		 readrandom
+Apr 14 02:02:38 ubuntu kernel: [ 1497.889016] inference took in avg.:		 8175
+Apr 14 02:02:38 ubuntu kernel: [ 1497.889017] data processing took in avg.:	 28
+Apr 14 02:02:38 ubuntu kernel: [ 1497.889017] ops/sec average:		 0
+Apr 14 02:02:39 ubuntu kernel: [ 1498.913195] readahead_update thread should stop
+Apr 14 02:02:39 ubuntu kernel: [ 1498.913216] kml readahead update thread stopped
+Apr 14 02:02:39 ubuntu kernel: [ 1498.913222] perf_monitoring thread should stop
+Apr 14 02:02:39 ubuntu kernel: [ 1498.913226] kml readahed perf thread stopped
+Apr 14 02:02:39 ubuntu kernel: [ 1498.925182] KML rocksdb readahead_update ended
+updaterandom 12
+Apr 14 02:02:39 ubuntu kernel: [ 1498.959540] result-kml.sh (5273): drop_caches: 3
+Apr 14 02:02:39 ubuntu kernel: [ 1498.977737] kml_readahead_init: hello
+Apr 14 02:02:39 ubuntu kernel: [ 1498.981453] opened block device 00000000a5bb772f
+Apr 14 02:02:40 ubuntu kernel: [ 1498.982448] KML rocksdb readahead_update started
+Apr 14 02:02:40 ubuntu kernel: [ 1500.000865] ----------------------- 1 -----------------------
+Apr 14 02:02:40 ubuntu kernel: [ 1500.000875] readahead val set:		 16
+Apr 14 02:02:40 ubuntu kernel: [ 1500.000875] predicted class:		 readrandom
+Apr 14 02:02:40 ubuntu kernel: [ 1500.000876] inference took in avg.:		 7880
+Apr 14 02:02:40 ubuntu kernel: [ 1500.000876] data processing took in avg.:	 28
+Apr 14 02:02:40 ubuntu kernel: [ 1500.000876] ops/sec average:		 0
+Apr 14 02:02:41 ubuntu kernel: [ 1501.025509] readahead_update thread should stop
+Apr 14 02:02:41 ubuntu kernel: [ 1501.025517] kml readahead update thread stopped
+Apr 14 02:02:42 ubuntu kernel: [ 1502.049629] perf_monitoring thread should stop
+Apr 14 02:02:42 ubuntu kernel: [ 1502.049639] kml readahed perf thread stopped
+Apr 14 02:02:42 ubuntu kernel: [ 1502.052650] KML rocksdb readahead_update ended
+Apr 14 02:02:42 ubuntu kernel: [ 1502.088344] result-kml.sh (5273): drop_caches: 3
+updaterandom 13
+Apr 14 02:02:42 ubuntu kernel: [ 1502.102784] kml_readahead_init: hello
+Apr 14 02:02:42 ubuntu kernel: [ 1502.105885] opened block device 00000000a5bb772f
+Apr 14 02:02:43 ubuntu kernel: [ 1502.106878] KML rocksdb readahead_update started
+Apr 14 02:02:43 ubuntu kernel: [ 1503.136837] ----------------------- 1 -----------------------
+Apr 14 02:02:43 ubuntu kernel: [ 1503.136846] readahead val set:		 16
+Apr 14 02:02:43 ubuntu kernel: [ 1503.136847] predicted class:		 readrandom
+Apr 14 02:02:43 ubuntu kernel: [ 1503.136847] inference took in avg.:		 7217
+Apr 14 02:02:43 ubuntu kernel: [ 1503.136847] data processing took in avg.:	 18
+Apr 14 02:02:43 ubuntu kernel: [ 1503.136847] ops/sec average:		 0
+Apr 14 02:02:44 ubuntu kernel: [ 1504.161065] readahead_update thread should stop
+Apr 14 02:02:44 ubuntu kernel: [ 1504.161081] kml readahead update thread stopped
+Apr 14 02:02:45 ubuntu kernel: [ 1505.184662] perf_monitoring thread should stop
+Apr 14 02:02:45 ubuntu kernel: [ 1505.184671] kml readahed perf thread stopped
+Apr 14 02:02:45 ubuntu kernel: [ 1505.192666] KML rocksdb readahead_update ended
+Apr 14 02:02:45 ubuntu kernel: [ 1505.221526] result-kml.sh (5273): drop_caches: 3
+updaterandom 14
+Apr 14 02:02:45 ubuntu kernel: [ 1505.236414] kml_readahead_init: hello
+Apr 14 02:02:45 ubuntu kernel: [ 1505.239533] opened block device 00000000a5bb772f
+Apr 14 02:02:46 ubuntu kernel: [ 1505.240525] KML rocksdb readahead_update started
+Apr 14 02:02:46 ubuntu kernel: [ 1506.269624] readahead_update thread should stop
+Apr 14 02:02:46 ubuntu kernel: [ 1506.269683] kml readahead update thread stopped
+Apr 14 02:02:46 ubuntu kernel: [ 1506.269687] perf_monitoring thread should stop
+Apr 14 02:02:46 ubuntu kernel: [ 1506.269700] kml readahed perf thread stopped
+Apr 14 02:02:46 ubuntu kernel: [ 1506.272815] KML rocksdb readahead_update ended
+updaterandom 15
+Apr 14 02:02:46 ubuntu kernel: [ 1506.301328] result-kml.sh (5273): drop_caches: 3
+Apr 14 02:02:46 ubuntu kernel: [ 1506.314726] kml_readahead_init: hello
+Apr 14 02:02:46 ubuntu kernel: [ 1506.317893] opened block device 00000000a5bb772f
+Apr 14 02:02:47 ubuntu kernel: [ 1506.318886] KML rocksdb readahead_update started
+Apr 14 02:02:47 ubuntu kernel: [ 1507.329230] ----------------------- 1 -----------------------
+Apr 14 02:02:47 ubuntu kernel: [ 1507.329237] readahead val set:		 16
+Apr 14 02:02:47 ubuntu kernel: [ 1507.329238] predicted class:		 readrandom
+Apr 14 02:02:47 ubuntu kernel: [ 1507.329238] inference took in avg.:		 5726
+Apr 14 02:02:47 ubuntu kernel: [ 1507.329238] data processing took in avg.:	 57
+Apr 14 02:02:47 ubuntu kernel: [ 1507.329238] ops/sec average:		 0
+Apr 14 02:02:48 ubuntu kernel: [ 1508.352590] readahead_update thread should stop
+Apr 14 02:02:48 ubuntu kernel: [ 1508.352632] kml readahead update thread stopped
+Apr 14 02:02:48 ubuntu kernel: [ 1508.352635] perf_monitoring thread should stop
+Apr 14 02:02:48 ubuntu kernel: [ 1508.352640] kml readahed perf thread stopped
+Apr 14 02:02:48 ubuntu kernel: [ 1508.355640] KML rocksdb readahead_update ended
+Apr 14 02:02:48 ubuntu kernel: [ 1508.397011] result-kml.sh (5273): drop_caches: 3
+Apr 14 02:02:51 ubuntu kernel: [ 1511.426791] generate-result (3948): drop_caches: 3
+Apr 14 02:02:51 ubuntu kernel: [ 1511.455648] result-kml.sh (5512): drop_caches: 3
+mixgraph 1
+Apr 14 02:02:52 ubuntu kernel: [ 1511.467977] kml_readahead_init: hello
+Apr 14 02:02:52 ubuntu kernel: [ 1511.623770] opened block device 00000000a5bb772f
+Apr 14 02:02:53 ubuntu kernel: [ 1511.624853] KML rocksdb readahead_update started
+Apr 14 02:02:53 ubuntu kernel: [ 1512.641019] ----------------------- 1 -----------------------
+Apr 14 02:02:53 ubuntu kernel: [ 1512.641027] readahead val set:		 16
+Apr 14 02:02:53 ubuntu kernel: [ 1512.641027] predicted class:		 readrandom
+Apr 14 02:02:53 ubuntu kernel: [ 1512.641028] inference took in avg.:		 6601
+Apr 14 02:02:53 ubuntu kernel: [ 1512.641028] data processing took in avg.:	 15
+Apr 14 02:02:53 ubuntu kernel: [ 1512.641028] ops/sec average:		 0
+Apr 14 02:02:54 ubuntu kernel: [ 1513.664541] readahead_update thread should stop
+Apr 14 02:02:54 ubuntu kernel: [ 1513.664562] kml readahead update thread stopped
+Apr 14 02:02:54 ubuntu kernel: [ 1513.664570] perf_monitoring thread should stop
+Apr 14 02:02:54 ubuntu kernel: [ 1513.664573] kml readahed perf thread stopped
+Apr 14 02:02:54 ubuntu kernel: [ 1513.667566] KML rocksdb readahead_update ended
+mixgraph 2
+Apr 14 02:02:54 ubuntu kernel: [ 1513.690233] result-kml.sh (5512): drop_caches: 3
+Apr 14 02:02:54 ubuntu kernel: [ 1513.704724] kml_readahead_init: hello
+Apr 14 02:02:54 ubuntu kernel: [ 1513.707456] opened block device 00000000a5bb772f
+Apr 14 02:02:55 ubuntu kernel: [ 1513.708491] KML rocksdb readahead_update started
+Apr 14 02:02:55 ubuntu kernel: [ 1514.720170] ----------------------- 1 -----------------------
+Apr 14 02:02:55 ubuntu kernel: [ 1514.720179] readahead val set:		 16
+Apr 14 02:02:55 ubuntu kernel: [ 1514.720180] predicted class:		 readrandom
+Apr 14 02:02:55 ubuntu kernel: [ 1514.720180] inference took in avg.:		 6874
+Apr 14 02:02:55 ubuntu kernel: [ 1514.720180] data processing took in avg.:	 28
+Apr 14 02:02:55 ubuntu kernel: [ 1514.720180] ops/sec average:		 0
+Apr 14 02:02:56 ubuntu kernel: [ 1515.748257] readahead_update thread should stop
+Apr 14 02:02:56 ubuntu kernel: [ 1515.748803] kml readahead update thread stopped
+Apr 14 02:02:57 ubuntu kernel: [ 1516.773195] perf_monitoring thread should stop
+Apr 14 02:02:57 ubuntu kernel: [ 1516.773238] kml readahed perf thread stopped
+Apr 14 02:02:57 ubuntu kernel: [ 1516.776248] KML rocksdb readahead_update ended
+mixgraph 3
+Apr 14 02:02:57 ubuntu kernel: [ 1516.848427] result-kml.sh (5512): drop_caches: 3
+Apr 14 02:02:57 ubuntu kernel: [ 1516.877648] kml_readahead_init: hello
+Apr 14 02:02:57 ubuntu kernel: [ 1516.886225] opened block device 00000000a5bb772f
+Apr 14 02:02:58 ubuntu kernel: [ 1516.887219] KML rocksdb readahead_update started
+Apr 14 02:02:58 ubuntu kernel: [ 1517.933693] ----------------------- 1 -----------------------
+Apr 14 02:02:58 ubuntu kernel: [ 1517.933717] readahead val set:		 960
+Apr 14 02:02:58 ubuntu kernel: [ 1517.933717] predicted class:		 readreverse
+Apr 14 02:02:58 ubuntu kernel: [ 1517.933718] inference took in avg.:		 18439
+Apr 14 02:02:58 ubuntu kernel: [ 1517.933718] data processing took in avg.:	 205
+Apr 14 02:02:58 ubuntu kernel: [ 1517.933719] ops/sec average:		 0
+Apr 14 02:02:59 ubuntu kernel: [ 1518.957950] readahead_update thread should stop
+Apr 14 02:02:59 ubuntu kernel: [ 1518.957972] kml readahead update thread stopped
+Apr 14 02:03:00 ubuntu kernel: [ 1519.970920] perf_monitoring thread should stop
+Apr 14 02:03:00 ubuntu kernel: [ 1519.970935] kml readahed perf thread stopped
+Apr 14 02:03:00 ubuntu kernel: [ 1519.986918] KML rocksdb readahead_update ended
+mixgraph 4
+Apr 14 02:03:00 ubuntu kernel: [ 1520.044901] result-kml.sh (5512): drop_caches: 3
+Apr 14 02:03:00 ubuntu kernel: [ 1520.085256] kml_readahead_init: hello
+Apr 14 02:03:00 ubuntu kernel: [ 1520.109403] opened block device 00000000a5bb772f
+Apr 14 02:03:01 ubuntu kernel: [ 1520.110464] KML rocksdb readahead_update started
+Apr 14 02:03:01 ubuntu kernel: [ 1521.120939] ----------------------- 1 -----------------------
+Apr 14 02:03:01 ubuntu kernel: [ 1521.120959] readahead val set:		 16
+Apr 14 02:03:01 ubuntu kernel: [ 1521.120960] predicted class:		 readrandom
+Apr 14 02:03:01 ubuntu kernel: [ 1521.120960] inference took in avg.:		 15756
+Apr 14 02:03:01 ubuntu kernel: [ 1521.120961] data processing took in avg.:	 191
+Apr 14 02:03:01 ubuntu kernel: [ 1521.120961] ops/sec average:		 0
+Apr 14 02:03:02 ubuntu kernel: [ 1522.147609] readahead_update thread should stop
+Apr 14 02:03:02 ubuntu kernel: [ 1522.147639] kml readahead update thread stopped
+Apr 14 02:03:02 ubuntu kernel: [ 1522.147644] perf_monitoring thread should stop
+Apr 14 02:03:02 ubuntu kernel: [ 1522.147650] kml readahed perf thread stopped
+Apr 14 02:03:02 ubuntu kernel: [ 1522.162615] KML rocksdb readahead_update ended
+Apr 14 02:03:02 ubuntu kernel: [ 1522.239997] result-kml.sh (5512): drop_caches: 3
+mixgraph 5
+Apr 14 02:03:02 ubuntu kernel: [ 1522.295112] kml_readahead_init: hello
+Apr 14 02:03:02 ubuntu kernel: [ 1522.302605] opened block device 00000000a5bb772f
+Apr 14 02:03:03 ubuntu kernel: [ 1522.303604] KML rocksdb readahead_update started
+Apr 14 02:03:03 ubuntu kernel: [ 1523.327798] ----------------------- 1 -----------------------
+Apr 14 02:03:03 ubuntu kernel: [ 1523.327811] readahead val set:		 16
+Apr 14 02:03:03 ubuntu kernel: [ 1523.327812] predicted class:		 readrandom
+Apr 14 02:03:03 ubuntu kernel: [ 1523.327812] inference took in avg.:		 11209
+Apr 14 02:03:03 ubuntu kernel: [ 1523.327813] data processing took in avg.:	 23
+Apr 14 02:03:03 ubuntu kernel: [ 1523.327813] ops/sec average:		 0
+Apr 14 02:03:04 ubuntu kernel: [ 1524.351815] readahead_update thread should stop
+Apr 14 02:03:04 ubuntu kernel: [ 1524.351837] kml readahead update thread stopped
+Apr 14 02:03:05 ubuntu kernel: [ 1525.375994] perf_monitoring thread should stop
+Apr 14 02:03:05 ubuntu kernel: [ 1525.376003] kml readahed perf thread stopped
+Apr 14 02:03:05 ubuntu kernel: [ 1525.379007] KML rocksdb readahead_update ended
+Apr 14 02:03:05 ubuntu kernel: [ 1525.408701] result-kml.sh (5512): drop_caches: 3
+mixgraph 6
+Apr 14 02:03:05 ubuntu kernel: [ 1525.422110] kml_readahead_init: hello
+Apr 14 02:03:05 ubuntu kernel: [ 1525.425419] opened block device 00000000a5bb772f
+Apr 14 02:03:06 ubuntu kernel: [ 1525.426414] KML rocksdb readahead_update started
+Apr 14 02:03:06 ubuntu kernel: [ 1526.432459] ----------------------- 1 -----------------------
+Apr 14 02:03:06 ubuntu kernel: [ 1526.432468] readahead val set:		 16
+Apr 14 02:03:06 ubuntu kernel: [ 1526.432469] predicted class:		 readrandom
+Apr 14 02:03:06 ubuntu kernel: [ 1526.432469] inference took in avg.:		 7493
+Apr 14 02:03:06 ubuntu kernel: [ 1526.432469] data processing took in avg.:	 71
+Apr 14 02:03:06 ubuntu kernel: [ 1526.432469] ops/sec average:		 0
+Apr 14 02:03:07 ubuntu kernel: [ 1527.455785] readahead_update thread should stop
+Apr 14 02:03:07 ubuntu kernel: [ 1527.455794] kml readahead update thread stopped
+Apr 14 02:03:07 ubuntu kernel: [ 1527.455797] perf_monitoring thread should stop
+Apr 14 02:03:07 ubuntu kernel: [ 1527.455800] kml readahed perf thread stopped
+Apr 14 02:03:07 ubuntu kernel: [ 1527.458813] KML rocksdb readahead_update ended
+Apr 14 02:03:08 ubuntu kernel: [ 1527.481486] result-kml.sh (5512): drop_caches: 3
+mixgraph 7
+Apr 14 02:03:08 ubuntu kernel: [ 1527.500175] kml_readahead_init: hello
+Apr 14 02:03:08 ubuntu kernel: [ 1527.503461] opened block device 00000000a5bb772f
+Apr 14 02:03:09 ubuntu kernel: [ 1527.504456] KML rocksdb readahead_update started
+Apr 14 02:03:09 ubuntu kernel: [ 1528.511929] ----------------------- 1 -----------------------
+Apr 14 02:03:09 ubuntu kernel: [ 1528.511938] readahead val set:		 16
+Apr 14 02:03:09 ubuntu kernel: [ 1528.511938] predicted class:		 readrandom
+Apr 14 02:03:09 ubuntu kernel: [ 1528.511938] inference took in avg.:		 7120
+Apr 14 02:03:09 ubuntu kernel: [ 1528.511939] data processing took in avg.:	 75
+Apr 14 02:03:09 ubuntu kernel: [ 1528.511939] ops/sec average:		 0
+Apr 14 02:03:10 ubuntu kernel: [ 1529.536019] readahead_update thread should stop
+Apr 14 02:03:10 ubuntu kernel: [ 1529.536027] kml readahead update thread stopped
+Apr 14 02:03:11 ubuntu kernel: [ 1530.560092] perf_monitoring thread should stop
+Apr 14 02:03:11 ubuntu kernel: [ 1530.560120] kml readahed perf thread stopped
+Apr 14 02:03:11 ubuntu kernel: [ 1530.572149] KML rocksdb readahead_update ended
+Apr 14 02:03:11 ubuntu kernel: [ 1530.597002] result-kml.sh (5512): drop_caches: 3
+mixgraph 8
+Apr 14 02:03:11 ubuntu kernel: [ 1530.613574] kml_readahead_init: hello
+Apr 14 02:03:11 ubuntu kernel: [ 1530.617029] opened block device 00000000a5bb772f
+Apr 14 02:03:12 ubuntu kernel: [ 1530.618059] KML rocksdb readahead_update started
+Apr 14 02:03:12 ubuntu kernel: [ 1531.647388] ----------------------- 1 -----------------------
+Apr 14 02:03:12 ubuntu kernel: [ 1531.647398] readahead val set:		 16
+Apr 14 02:03:12 ubuntu kernel: [ 1531.647398] predicted class:		 readrandom
+Apr 14 02:03:12 ubuntu kernel: [ 1531.647399] inference took in avg.:		 8411
+Apr 14 02:03:12 ubuntu kernel: [ 1531.647399] data processing took in avg.:	 20
+Apr 14 02:03:12 ubuntu kernel: [ 1531.647399] ops/sec average:		 0
+Apr 14 02:03:13 ubuntu kernel: [ 1532.672313] readahead_update thread should stop
+Apr 14 02:03:13 ubuntu kernel: [ 1532.672386] kml readahead update thread stopped
+Apr 14 02:03:14 ubuntu kernel: [ 1533.696195] perf_monitoring thread should stop
+Apr 14 02:03:14 ubuntu kernel: [ 1533.696279] kml readahed perf thread stopped
+Apr 14 02:03:14 ubuntu kernel: [ 1533.704177] KML rocksdb readahead_update ended
+Apr 14 02:03:14 ubuntu kernel: [ 1533.729837] result-kml.sh (5512): drop_caches: 3
+mixgraph 9
+Apr 14 02:03:14 ubuntu kernel: [ 1533.745879] kml_readahead_init: hello
+Apr 14 02:03:14 ubuntu kernel: [ 1533.748663] opened block device 00000000a5bb772f
+Apr 14 02:03:15 ubuntu kernel: [ 1533.749652] KML rocksdb readahead_update started
+Apr 14 02:03:15 ubuntu kernel: [ 1534.783425] readahead_update thread should stop
+Apr 14 02:03:15 ubuntu kernel: [ 1534.783428] kml readahead update thread stopped
+Apr 14 02:03:15 ubuntu kernel: [ 1534.783453] perf_monitoring thread should stop
+Apr 14 02:03:15 ubuntu kernel: [ 1534.783469] kml readahed perf thread stopped
+Apr 14 02:03:15 ubuntu kernel: [ 1534.786489] KML rocksdb readahead_update ended
+Apr 14 02:03:15 ubuntu kernel: [ 1534.811870] result-kml.sh (5512): drop_caches: 3
+mixgraph 10
+Apr 14 02:03:15 ubuntu kernel: [ 1534.827250] kml_readahead_init: hello
+Apr 14 02:03:15 ubuntu kernel: [ 1534.830813] opened block device 00000000a5bb772f
+Apr 14 02:03:16 ubuntu kernel: [ 1534.831806] KML rocksdb readahead_update started
+Apr 14 02:03:16 ubuntu kernel: [ 1535.840180] ----------------------- 1 -----------------------
+Apr 14 02:03:16 ubuntu kernel: [ 1535.840197] readahead val set:		 960
+Apr 14 02:03:16 ubuntu kernel: [ 1535.840198] predicted class:		 readreverse
+Apr 14 02:03:16 ubuntu kernel: [ 1535.840198] inference took in avg.:		 14018
+Apr 14 02:03:16 ubuntu kernel: [ 1535.840199] data processing took in avg.:	 42
+Apr 14 02:03:16 ubuntu kernel: [ 1535.840199] ops/sec average:		 0
+Apr 14 02:03:17 ubuntu kernel: [ 1536.863284] readahead_update thread should stop
+Apr 14 02:03:17 ubuntu kernel: [ 1536.863319] kml readahead update thread stopped
+Apr 14 02:03:18 ubuntu kernel: [ 1537.887573] perf_monitoring thread should stop
+Apr 14 02:03:18 ubuntu kernel: [ 1537.887620] kml readahed perf thread stopped
+Apr 14 02:03:18 ubuntu kernel: [ 1537.902945] KML rocksdb readahead_update ended
+Apr 14 02:03:18 ubuntu kernel: [ 1537.962755] result-kml.sh (5512): drop_caches: 3
+mixgraph 11
+Apr 14 02:03:18 ubuntu kernel: [ 1537.994724] kml_readahead_init: hello
+Apr 14 02:03:18 ubuntu kernel: [ 1538.002639] opened block device 00000000a5bb772f
+Apr 14 02:03:19 ubuntu kernel: [ 1538.003631] KML rocksdb readahead_update started
+Apr 14 02:03:19 ubuntu kernel: [ 1539.007069] ----------------------- 1 -----------------------
+Apr 14 02:03:19 ubuntu kernel: [ 1539.007085] readahead val set:		 16
+Apr 14 02:03:19 ubuntu kernel: [ 1539.007086] predicted class:		 readrandom
+Apr 14 02:03:19 ubuntu kernel: [ 1539.007086] inference took in avg.:		 12783
+Apr 14 02:03:19 ubuntu kernel: [ 1539.007087] data processing took in avg.:	 174
+Apr 14 02:03:19 ubuntu kernel: [ 1539.007087] ops/sec average:		 0
+Apr 14 02:03:20 ubuntu kernel: [ 1540.045495] readahead_update thread should stop
+Apr 14 02:03:20 ubuntu kernel: [ 1540.045534] kml readahead update thread stopped
+Apr 14 02:03:20 ubuntu kernel: [ 1540.045540] perf_monitoring thread should stop
+Apr 14 02:03:20 ubuntu kernel: [ 1540.045561] kml readahed perf thread stopped
+Apr 14 02:03:20 ubuntu kernel: [ 1540.060545] KML rocksdb readahead_update ended
+mixgraph 12
+Apr 14 02:03:20 ubuntu kernel: [ 1540.103992] result-kml.sh (5512): drop_caches: 3
+Apr 14 02:03:20 ubuntu kernel: [ 1540.134381] kml_readahead_init: hello
+Apr 14 02:03:20 ubuntu kernel: [ 1540.140079] opened block device 00000000a5bb772f
+Apr 14 02:03:21 ubuntu kernel: [ 1540.141104] KML rocksdb readahead_update started
+Apr 14 02:03:21 ubuntu kernel: [ 1541.151249] ----------------------- 1 -----------------------
+Apr 14 02:03:21 ubuntu kernel: [ 1541.151272] readahead val set:		 960
+Apr 14 02:03:21 ubuntu kernel: [ 1541.151273] predicted class:		 readreverse
+Apr 14 02:03:21 ubuntu kernel: [ 1541.151273] inference took in avg.:		 17906
+Apr 14 02:03:21 ubuntu kernel: [ 1541.151274] data processing took in avg.:	 207
+Apr 14 02:03:21 ubuntu kernel: [ 1541.151274] ops/sec average:		 0
+Apr 14 02:03:22 ubuntu kernel: [ 1542.175833] readahead_update thread should stop
+Apr 14 02:03:22 ubuntu kernel: [ 1542.175964] kml readahead update thread stopped
+Apr 14 02:03:23 ubuntu kernel: [ 1543.203348] perf_monitoring thread should stop
+Apr 14 02:03:23 ubuntu kernel: [ 1543.203584] kml readahed perf thread stopped
+Apr 14 02:03:23 ubuntu kernel: [ 1543.219585] KML rocksdb readahead_update ended
+mixgraph 13
+Apr 14 02:03:23 ubuntu kernel: [ 1543.267659] result-kml.sh (5512): drop_caches: 3
+Apr 14 02:03:23 ubuntu kernel: [ 1543.293511] kml_readahead_init: hello
+Apr 14 02:03:23 ubuntu kernel: [ 1543.298538] opened block device 00000000a5bb772f
+Apr 14 02:03:24 ubuntu kernel: [ 1543.299532] KML rocksdb readahead_update started
+Apr 14 02:03:24 ubuntu kernel: [ 1544.322922] ----------------------- 1 -----------------------
+Apr 14 02:03:24 ubuntu kernel: [ 1544.322938] readahead val set:		 16
+Apr 14 02:03:24 ubuntu kernel: [ 1544.322939] predicted class:		 readrandom
+Apr 14 02:03:24 ubuntu kernel: [ 1544.322939] inference took in avg.:		 13254
+Apr 14 02:03:24 ubuntu kernel: [ 1544.322940] data processing took in avg.:	 64
+Apr 14 02:03:24 ubuntu kernel: [ 1544.322940] ops/sec average:		 0
+Apr 14 02:03:25 ubuntu kernel: [ 1545.353790] readahead_update thread should stop
+Apr 14 02:03:25 ubuntu kernel: [ 1545.354286] kml readahead update thread stopped
+Apr 14 02:03:26 ubuntu kernel: [ 1546.377771] perf_monitoring thread should stop
+Apr 14 02:03:26 ubuntu kernel: [ 1546.377865] kml readahed perf thread stopped
+Apr 14 02:03:26 ubuntu kernel: [ 1546.409262] KML rocksdb readahead_update ended
+Apr 14 02:03:26 ubuntu kernel: [ 1546.454607] result-kml.sh (5512): drop_caches: 3
+mixgraph 14
+Apr 14 02:03:27 ubuntu kernel: [ 1546.486093] kml_readahead_init: hello
+Apr 14 02:03:27 ubuntu kernel: [ 1546.490952] opened block device 00000000a5bb772f
+Apr 14 02:03:28 ubuntu kernel: [ 1546.491953] KML rocksdb readahead_update started
+Apr 14 02:03:28 ubuntu kernel: [ 1547.525470] ----------------------- 1 -----------------------
+Apr 14 02:03:28 ubuntu kernel: [ 1547.525492] readahead val set:		 16
+Apr 14 02:03:28 ubuntu kernel: [ 1547.525492] predicted class:		 readrandom
+Apr 14 02:03:28 ubuntu kernel: [ 1547.525493] inference took in avg.:		 17413
+Apr 14 02:03:28 ubuntu kernel: [ 1547.525493] data processing took in avg.:	 179
+Apr 14 02:03:28 ubuntu kernel: [ 1547.525494] ops/sec average:		 0
+Apr 14 02:03:29 ubuntu kernel: [ 1548.553391] readahead_update thread should stop
+Apr 14 02:03:29 ubuntu kernel: [ 1548.553402] kml readahead update thread stopped
+Apr 14 02:03:29 ubuntu kernel: [ 1548.553434] perf_monitoring thread should stop
+Apr 14 02:03:29 ubuntu kernel: [ 1548.553439] kml readahed perf thread stopped
+Apr 14 02:03:29 ubuntu kernel: [ 1548.599275] KML rocksdb readahead_update ended
+Apr 14 02:03:29 ubuntu kernel: [ 1548.699101] result-kml.sh (5512): drop_caches: 3
+mixgraph 15
+Apr 14 02:03:29 ubuntu kernel: [ 1548.734018] kml_readahead_init: hello
+Apr 14 02:03:29 ubuntu kernel: [ 1548.738672] opened block device 00000000a5bb772f
+Apr 14 02:03:30 ubuntu kernel: [ 1548.739670] KML rocksdb readahead_update started
+Apr 14 02:03:30 ubuntu kernel: [ 1549.765936] ----------------------- 1 -----------------------
+Apr 14 02:03:30 ubuntu kernel: [ 1549.765954] readahead val set:		 960
+Apr 14 02:03:30 ubuntu kernel: [ 1549.765954] predicted class:		 readreverse
+Apr 14 02:03:30 ubuntu kernel: [ 1549.765955] inference took in avg.:		 13949
+Apr 14 02:03:30 ubuntu kernel: [ 1549.765955] data processing took in avg.:	 204
+Apr 14 02:03:30 ubuntu kernel: [ 1549.765956] ops/sec average:		 0
+Apr 14 02:03:31 ubuntu kernel: [ 1550.794236] readahead_update thread should stop
+Apr 14 02:03:31 ubuntu kernel: [ 1550.794652] kml readahead update thread stopped
+Apr 14 02:03:32 ubuntu kernel: [ 1551.820461] perf_monitoring thread should stop
+Apr 14 02:03:32 ubuntu kernel: [ 1551.820555] kml readahed perf thread stopped
+Apr 14 02:03:32 ubuntu kernel: [ 1551.836308] KML rocksdb readahead_update ended
+Apr 14 02:03:32 ubuntu kernel: [ 1551.888584] result-kml.sh (5512): drop_caches: 3

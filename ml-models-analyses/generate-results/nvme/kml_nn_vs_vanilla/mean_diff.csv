@@ -1,0 +1,7 @@
+0,1
+readseq,1.0061405800888426
+readrandom,1.0064754856614244
+readreverse,1.0333708286464192
+readrandomwriterandom,1.0
+updaterandom,1.0
+mixgraph,1.0

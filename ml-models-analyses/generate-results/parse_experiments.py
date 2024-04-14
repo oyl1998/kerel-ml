@@ -24,30 +24,34 @@ rc('font', **{'family': 'Calibri'})
 
 
 def parse_detail_file(file_path) -> defaultdict:
+    print(file_path)
     dict_exp = defaultdict(list)
     with open(os.path.join(os.curdir, file_path)) as f:
         lines = f.readlines()
         for line in lines:
             values = line.split()
+            # print(values)
             if len(values) == 2:
                 curr_exp = values[0]
-            else:
+            # else:
                 if curr_exp != 'readwhilewriting':
-                    dict_exp[curr_exp].append(float(values[2]))
+                    dict_exp[curr_exp].append(float(values[1]))
     return dict_exp
 
 
 def parse_kern_log_file(file_path) -> defaultdict:
     dict_exp = defaultdict(list)
+    flag = False
     with open(os.path.join(os.curdir, file_path)) as f:
         lines = f.readlines()
         for line in lines:
             values = line.split()
             if len(values) == 2:
                 curr_exp = values[0]
+                flag = True
             # readahead exp - start
-            elif values[5] == 'readahead':
-                dict_exp[curr_exp].append(float(values[8]))
+            if flag == True and len(values) > 10 and values[7] == 'readahead':
+                dict_exp[curr_exp].append(float(values[10]))
             # readahead exp - end
             # NFS exp - start
             # elif values[5] == 'rsize':
@@ -83,6 +87,7 @@ if __name__ == '__main__':
     result_kml = parse_detail_file(args.kml_file)
     result_vanilla = parse_detail_file(args.vanilla_file)
     readahed_values = parse_kern_log_file(args.kern_log_file)
+    print("readahed_values:", readahed_values)
     df_average = pd.DataFrame()
     kv_pairs = zip(result_kml.items(), result_vanilla.items(),
                    readahed_values.items())
