@@ -1,0 +1,2600 @@
+/usr/bin/time: /usr/bin/time: cannot run /home/benchmarks/rocksdb/db_benchcannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+: No such file or directory
+Command exited with non-zero status 127
+	CoCommand exited with non-zero status 127
+m	mCaonmdm abnedi nbge itnigm etdi:m e"d/home/benchmarks/rocksdb2/db_bench:  --benchmarks=readrandom" -cache_size=268435456/home/benchmarks/rocksdb/db_bench  -keyrange_dist_a=14.18--benchmarks=readreverse  -keyrange_dist_b=-2.917-cache_size=268435456  -keyrange_dist_c=0.0164-keyrange_dist_a=14.18  -keyrange_dist_d=-0.08082-keyrange_dist_b=-2.917  -keyrange_num=30-keyrange_dist_c=0.0164  -value_k=0.2615-keyrange_dist_d=-0.08082  -value_sigma=25.45-keyrange_num=30  -iter_k=2.517-value_k=0.2615  -iter_sigma=14.236-value_sigma=25.45  -mix_get_ratio=0.85-iter_k=2.517  -mix_put_ratio=0.14-iter_sigma=14.236  -mix_seek_ratio=0.01-mix_get_ratio=0.85  -sine_mix_rate_interval_milliseconds=5000-mix_put_ratio=0.14  -sine_a=1000-mix_seek_ratio=0.01  -sine_b=0.0000073-sine_mix_rate_interval_milliseconds=5000  -sine_d=45000-sine_a=1000  --perf_level=0-sine_b=0.0000073  -reads=200000-sine_d=45000  -num=20000000--perf_level=0  -key_size=48-reads=20000000  --db=/mnt//rocksdb_bench2-num=20000000  --use_existing_db=true-key_size=48  -mmap_read=true--db=/mnt//rocksdb_bench  -mmap_write=true--use_existing_db=true  -statistics-mmap_read=true  --stats_interval_seconds=1-mmap_write=true" 
+-statistics	 U--stats_interval_seconds=1s"e
+r	 Utsiemre  t(ismeec o(nsdesc)o:n ds0.00)
+:	 S0.00y
+s	tSeyms tteimm et i(msee c(osnedcso)n:d s0.00)
+:	 P0.00e
+r	cPeenrtc eonft  CoPfU  CtPhUi st hjiosb  jgoobt :g o?%t
+:	 E?%l
+a	pEsleadp s(ewda l(lw aclllo cckl)o ctki)m et i(mhe: m(mh::smsm :osrs  mo:rs sm)::s s0:00.00)
+:	 A0:00.00v
+e	rAavgeer asghea rsehda rteedx tt esxitz es i(zkeb y(tkebsy)t:e s0)
+:	 A0v
+e	rAavgeer augnes huanrsehda rdeadt ad astiaz es i(zkeb y(tkebsy)t:e s0)
+:	 A0v
+e	rAavgeer asgtea cskt ascikz es i(zkeb y(tkebsy)t:e s0)
+:	 A0v
+e	rAavgeer atgoet atlo tsailz es i(zkeb y(tkebsy)t:e s0)
+:	 M0a
+x	iMmauxmi mruems irdeesnitd esnett  sseitz es i(zkeb y(tkebsy)t:e s980)
+:	 A1108v
+e	rAavgeer argees irdeesnitd esnett  sseitz es i(zkeb y(tkebsy)t:e s0)
+:	 M0a
+j	oMra j(orre q(urierqiunigr iIn/gO )I /pOa)g ep afgaeu lftasu:l t0s
+:	 M0i
+n	oMri n(orre c(lraeicmlianigm ian gf raa mfer)a mpea)g ep afgaeu lftasu:l t24s
+:	 V26o
+l	uVnotlaurnyt acroyn tceoxntt esxwti tscwhietsc:h e2s
+:	 I1n
+v	oIlnuvnotlaurnyt acroyn tceoxntt esxwti tscwhietsc:h e0s
+:	 S1w
+a	pSsw:a p0s
+:	 F0i
+l	eF islyes tseyms tienmp uitnsp:u t0s
+:	 F8i
+l	eF islyes tseyms toeumt pouuttsp:u t0s
+:	 S8o
+c	kSeotc kmeets smaegsessa gseesn ts:e n0t
+:	 S0o
+c	kSeotc kmeets smaegsessa greesc erievceedi:v e0d
+:	 S0i
+g	nSailgsn adlesl idveelrievde:r e0d
+:	 P0a
+g	eP asgiez es i(zbey t(ebsy)t:e s4096)
+:	 E4096x
+i	tE xsitta tsutsa:t u127s
+: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1116
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 27
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+: No such file or directory
+Command exited with non-zero status 127
+	CommanCommand exited with non-zero status 127
+d	 Cboemimnagn dt ibmeeidn:g  "t/home/benchmarks/rocksdb2/db_benchi m--benchmarks=readrandome d-cache_size=268435456:  -keyrange_dist_a=14.18" /home/benchmarks/rocksdb/db_bench-keyrange_dist_b=-2.917  --benchmarks=readreverse-keyrange_dist_c=0.0164  -cache_size=268435456-keyrange_dist_d=-0.08082  -keyrange_dist_a=14.18-keyrange_num=30  -keyrange_dist_b=-2.917-value_k=0.2615  -keyrange_dist_c=0.0164-value_sigma=25.45  -keyrange_dist_d=-0.08082-iter_k=2.517  -keyrange_num=30-iter_sigma=14.236  -value_k=0.2615-mix_get_ratio=0.85  -value_sigma=25.45-mix_put_ratio=0.14  -iter_k=2.517-mix_seek_ratio=0.01  -iter_sigma=14.236-sine_mix_rate_interval_milliseconds=5000  -mix_get_ratio=0.85-sine_a=1000  -mix_put_ratio=0.14-sine_b=0.0000073  -mix_seek_ratio=0.01-sine_d=45000  -sine_mix_rate_interval_milliseconds=5000--perf_level=0  -sine_a=1000-reads=200000  -sine_b=0.0000073-num=20000000  -sine_d=45000-key_size=48  --perf_level=0--db=/mnt//rocksdb_bench2  -reads=20000000--use_existing_db=true  -num=20000000-mmap_read=true  -key_size=48-mmap_write=true  --db=/mnt//rocksdb_bench-statistics  --use_existing_db=true--stats_interval_seconds=1 "-mmap_read=true
+ 	-mmap_write=trueU s-statisticse r--stats_interval_seconds=1 "t
+i	mUes e(rs etciomned s()s:e con0.00d
+s	)S:y st0.00e
+m	 Styismtee m( steicmoen d(ss)e:c o0.00n
+d	sP)e:r c0.00e
+n	tP eorfc eCnPtU  otfh iCsP Uj otbh igso tj:o b?% 
+g	oEtl:a p?%s
+e	dE l(awpasleld  c(lwoaclkl)  ctliomcek )( ht:immme: s(sh :omrm :ms:ss so)r:  m0:00.00:
+s	sA)v:e r0:00.00a
+g	eA vsehraargeed  stheaxrte ds itzeex t( ksbiyztee s()k:b y0t
+e	sA)v:e r0a
+g	eA vuenrsahgaer eudn sdhaatrae ds idzaet a( ksbiyztee s()k:b y0t
+e	sA)v:e r0a
+g	eA vsetraacgke  ssitzaec k( ksbiyztee s()k:b y0t
+e	sA)v:e r0a
+g	eA vteortaagle  stioztea l( ksbiyztee s()k:b y0t
+e	sM)aximu:m  res0i
+d	eMnatx ismeutm  sriezsei d(eknbty tseest) :s i1108z
+e	 A(vkebryatgees )r:e s984i
+d	eAnvte rsaegte  sriezsei d(eknbty tseest) :s i0z
+e	 M(akjboyrt e(sr)e:q u0i
+r	iMnagj oIr/ O()r epqaugier ifnagu lIt/sO:)  0p
+a	gMei nfoaru l(trse:c l0a
+i	mMiinngo ra  (frreacmlea)i mpiangge  af afurlatmse:)  26p
+a	gVeo lfuanutlatrsy:  c24o
+n	tVeoxltu nstwairtyc hceosn:t e2x
+t	 Isnwviotlcuhnetsa:r y1 
+c	oInntveoxltu nstwairtyc hceosn:t e2x
+t	 Sswwaiptsc:h e0s
+:	 F0i
+l	eS wsaypsst:e m0 
+i	nFpiultes :s y16s
+t	eFmi lien psuytsst:e m0 
+o	uFtipluet ss:y s8t
+e	mS oocukteptu tmse:s s0a
+g	eSso cskeentt :m e0s
+s	aSgoecsk este nmte:s s0a
+g	eSso crkeecte imveesds:a g0e
+s	 Sriegcneailvse dd:e l0i
+v	eSriegdn:a l0s
+ 	dPealgiev esriezde:  (0b
+y	tPeasg)e:  s4096i
+z	eE x(ibty tsetsa)t:u s4096:
+ 	127E
+xit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 2
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24
+	Voluntary context switches: 3
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1112
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 972
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 980
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24
+	Voluntary context switches: 1
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+: No such file or directory
+Command exited with non-zero status 127
+	Command being timedCommand exited with non-zero status 127
+:	 C"om/home/benchmarks/rocksdb2/db_benchm a--benchmarks=readrandomn d-cache_size=268435456  b-keyrange_dist_a=14.18e i-keyrange_dist_b=-2.917n g-keyrange_dist_c=0.0164  t-keyrange_dist_d=-0.08082i m-keyrange_num=30e d-value_k=0.2615:  -value_sigma=25.45" -iter_k=2.517/home/benchmarks/rocksdb/db_bench  -iter_sigma=14.236--benchmarks=readreverse  -mix_get_ratio=0.85-cache_size=268435456  -mix_put_ratio=0.14-keyrange_dist_a=14.18  -mix_seek_ratio=0.01-keyrange_dist_b=-2.917  -sine_mix_rate_interval_milliseconds=5000-keyrange_dist_c=0.0164  -sine_a=1000-keyrange_dist_d=-0.08082  -sine_b=0.0000073-keyrange_num=30  -sine_d=45000-value_k=0.2615  --perf_level=0-value_sigma=25.45  -reads=200000-iter_k=2.517  -num=20000000-iter_sigma=14.236  -key_size=48-mix_get_ratio=0.85  -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss o--db=/mnt//rocksdb_bench2r  --use_existing_db=truem :-mmap_read=trues s-mmap_write=true) :-statistics  0:00.00--stats_interval_seconds=1
+"	
+A	vUesrearg et ismhea r(esde ctoenxdts )s:i ze0.00 
+(	kSbyystteesm) :t i0m
+e	 A(vseercaogned su)n:s h0.00a
+r	ePde rdcaetnat  soifz eC P(Uk btyhtiess )j:o b0 
+g	oAtv:e r?%a
+g	eE lsatpascekd  s(iwzael l( kcblyotceks)) :t i0m
+e	 A(vhe:rmamg:es st ootra lm :ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Averagsei zuen s(hkabryetde sd)a:t a0 
+s	iMzaex i(mkubmy treess)i:d e0n
+t	 Asveetr asgiez es t(akcbky tseisz)e:  (1044k
+b	yAtveesr)a:g e0 
+r	eAsviedreangte  steott asli zsei z(ek b(yktbeyst)e:s )0:
+ 	0M
+a	jMoarx i(mruemq uriersiindge nIt/ Os)e tp asgiez ef a(uklbtyst:e s0)
+:	 M984i
+n	oArv e(rraegcel ariemsiindge nat  fsreatm es)i zpea g(ek bfyatuelst)s::  025
+
+		MVaojlourn t(arreyq uciornitnegx tI /sOw)i tpcahgees :f a3u
+l	tIsn:v o0l
+u	nMtianroyr  c(ornetcelxati msiwnigt cah efsr:a m0e
+)	 Spwaagpes :f a0u
+l	tFsi:l e24 
+s	yVsotleumn tianrpyu tcso:n t0e
+x	tF islwei tscyhsetse:m  3o
+u	tIpnuvtoslu:n t0a
+r	yS occoknette xmte ssswaigtecsh esse:n t2:
+ 	0S
+w	aSposc:k e0t
+ 	mFeislsea gseyss treemc eiinvpeudt:s :0 
+16	
+S	iFginlael ss ydsetleimv eoruetdp:u t0s
+:	 P8a
+g	eS oscikzeet  (mbeystseasg)e:s  4096s
+e	nEtx:i t0 
+s	tSaotcukse:t  127m
+essages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+: No such file or directory
+Command exited with non-zero status 127
+	ComCommand exited with non-zero status 127
+m	aCnodm mbaenidn gb etiinmge dt:i m"e/home/benchmarks/rocksdb2/db_benchd :--benchmarks=readrandom  "-cache_size=268435456/home/benchmarks/rocksdb/db_bench  -keyrange_dist_a=14.18--benchmarks=readreverse  -keyrange_dist_b=-2.917-cache_size=268435456  -keyrange_dist_c=0.0164-keyrange_dist_a=14.18  -keyrange_dist_d=-0.08082-keyrange_dist_b=-2.917  -keyrange_num=30-keyrange_dist_c=0.0164  -value_k=0.2615-keyrange_dist_d=-0.08082  -value_sigma=25.45-keyrange_num=30  -iter_k=2.517-value_k=0.2615  -iter_sigma=14.236-value_sigma=25.45  -mix_get_ratio=0.85-iter_k=2.517  -mix_put_ratio=0.14-iter_sigma=14.236  -mix_seek_ratio=0.01-mix_get_ratio=0.85  -sine_mix_rate_interval_milliseconds=5000-mix_put_ratio=0.14  -sine_a=1000-mix_seek_ratio=0.01  -sine_b=0.0000073-sine_mix_rate_interval_milliseconds=5000  -sine_d=45000-sine_a=1000  --perf_level=0-sine_b=0.0000073  -reads=200000-sine_d=45000  -num=20000000--perf_level=0  -key_size=48-reads=20000000  --db=/mnt//rocksdb_bench2-num=20000000  --use_existing_db=true-key_size=48  -mmap_read=true--db=/mnt//rocksdb_bench  -mmap_write=true--use_existing_db=true  -statistics-mmap_read=true  --stats_interval_seconds=1-mmap_write=true" 
+-statistics	 U--stats_interval_seconds=1s"e
+r	 Utsiemre  t(ismeec o(nsdesc)o:n ds0.00)
+:	 S0.00y
+s	tSeyms tteimm et i(msee c(osnedcso)n:d s0.00)
+:	 P0.00e
+r	cPeenrtc eonft  CoPfU  CtPhUi st hjiosb  jgoobt :g o?%t
+:	 E?%l
+a	pEsleadp s(ewda l(lw aclllo cckl)o ctki)m et i(mhe: m(mh::smsm :osrs  mo:rs sm)::s s0:00.00)
+:	 A0:00.00v
+e	rAavgeer asghea rsehda rteedx tt esxitz es i(zkeb y(tkebsy)t:e s0)
+:	 A0v
+e	rAavgeer augnes huanrsehda rdeadt ad astiaz es i(zkeb y(tkebsy)t:e s0)
+:	 A0v
+e	rAavgeer asgtea cskt ascikz es i(zkeb y(tkebsy)t:e s0)
+:	 A0v
+e	rAavgeer atgoet atlo tsailz es i(zkeb y(tkebsy)t:e s0)
+:	 M0a
+x	iMmauxmi mruems irdeesnitd esnett  sseitz es i(zkeb y(tkebsy)t:e s1096)
+:	 A980v
+e	rAavgeer argees irdeesnitd esnett  sseitz es i(zkeb y(tkebsy)t:e s0)
+:	 M0a
+j	oMra j(orre q(urierqiunigr iIn/gO )I /pOa)g ep afgaeu lftasu:l t0s
+:	 M0i
+n	oMri n(orre c(lraeicmlianigm ian gf raa mfer)a mpea)g ep afgaeu lftasu:l t26s
+:	 V25o
+l	uVnotlaurnyt acroyn tceoxntt esxwti tscwhietsc:h e3s
+:	 I3n
+v	oIlnuvnotlaurnyt acroyn tceoxntt esxwti tscwhietsc:h e2s
+:	 S0w
+a	pSsw:a p0s
+:	 F0i
+l	eF islyes tseyms tienmp uitnsp:u t16s
+:	 F0i
+l	eF islyes tseyms toeumt pouuttsp:u t8s
+:	 S0o
+c	kSeotc kmeets smaegsessa gseesn ts:e n0t
+:	 S0o
+c	kSeotc kmeets smaegsessa greesc erievcede:i v0e
+d	:S i0g
+n	aSlisg ndaellsi vdeerleidv:e r0e
+d	:P a0g
+e	 Psaigzee  s(ibzyet e(sb)y:t e4096s
+)	:E x4096i
+t	 Esxtiatt usst:a t127u
+s: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 0
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24
+	Voluntary context switches: 1
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 2
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 3
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse Command exited with non-zero status 127
+-cache_size=268435456	 C-keyrange_dist_a=14.18o m-keyrange_dist_b=-2.917m a-keyrange_dist_c=0.0164n d-keyrange_dist_d=-0.08082  b-keyrange_num=30e i-value_k=0.2615n g-value_sigma=25.45  t-iter_k=2.517i m-iter_sigma=14.236e d-mix_get_ratio=0.85:  -mix_put_ratio=0.14" -mix_seek_ratio=0.01/home/benchmarks/rocksdb2/db_bench  -sine_mix_rate_interval_milliseconds=5000--benchmarks=readrandom  -sine_a=1000-cache_size=268435456  -sine_b=0.0000073-keyrange_dist_a=14.18  -sine_d=45000-keyrange_dist_b=-2.917  --perf_level=0-keyrange_dist_c=0.0164  -reads=20000000-keyrange_dist_d=-0.08082  -num=20000000-keyrange_num=30  -key_size=48-value_k=0.2615  --db=/mnt//rocksdb_bench-value_sigma=25.45  --use_existing_db=true-iter_k=2.517  -mmap_read=true-iter_sigma=14.236  -mmap_write=true-mix_get_ratio=0.85  -statistics-mix_put_ratio=0.14  --stats_interval_seconds=1-mix_seek_ratio=0.01" 
+-sine_mix_rate_interval_milliseconds=5000	 U-sine_a=1000s e-sine_b=0.0000073r  -sine_d=45000t i--perf_level=0m e-reads=200000  (-num=20000000s e-key_size=48c o--db=/mnt//rocksdb_bench2n d--use_existing_db=trues )-mmap_read=true:  -mmap_write=true 0.00-statistics
+ 	--stats_interval_seconds=1S"y
+s	tUesme rt itmiem e( s(esceocnodnsd)s:) :0.00 
+0.00	
+P	eSrycsetnetm  otfi mCeP U( stehciosn djso)b:  g0.00o
+t	:P e?%r
+c	eEnlta posfe dC P(Uw atlhli sc ljoocbk )g otti:m e?% 
+(	hE:lmamp:ssesd  o(rw aml:ls sc)l:o c0:00.00k
+)	 Atviemrea g(eh :smhma:rsesd  otre xmt: sssi)z:e  0:00.00(
+k	bAyvteersa)g:e  0s
+h	aArveedr atgeex tu nssihzaer e(dk bdyatteas )s:i z0e
+ 	(Akvbeyrtaegse) :u n0s
+h	aArveedr adgaet as tsaiczke  s(ikzbey t(eksb)y:t e0s
+)	:A v0e
+r	aAgvee rsatgaec kt ostiazle  s(ikzbey t(eksb)y:t e0s
+)	:A v0e
+r	aMgaex itmoutma lr essiizdee n(tk bsyette ss)i:z e0 
+(	kMbayxtiemsu)m:  r1104e
+s	iAdveenrta gsee tr essiizdee n(tk bsyette ss)i:z e1048 
+(	kAbvyetreasg)e:  r0e
+s	iMdaejnotr  s(erte qsuiizrei n(gk bIy/tOe)s )p:a g0e
+ 	fMaaujlotrs :( r0e
+q	uMiirnionrg  (Ir/eOc)l apiamgien gf aau lftrsa:m e0)
+ 	pMaigneo rf a(urletcsl:a i26m
+i	nVgo lau nftraarmye )c opnatgeex tf asuwlittsc:h e25s
+:	 V1o
+l	uInntvaorlyu nctoanrtye xcto nstweixttc hsewsi:t c3h
+e	sI:n v2o
+l	uSnwtaaprsy:  c0o
+n	tFeixlte  sswyisttcehme si:n p0u
+t	sS:w a16p
+s	:F i0l
+e	 Fsiylset esmy sotuetmp uitnsp:u t8s
+:	 S0o
+c	kFeitl em essyssatgeems  osuetnptu:t s0:
+ 	0S
+o	cSkoectk emte smseasgseasg erse cseeinvte:d :0 
+0	
+S	oScikgenta lmse sdsealgievse rreedc:e i0v
+e	dP:a g0e
+ 	sSiizgen a(lbsy tdeesl)i:v e4096r
+e	dE:x i0t
+ 	sPtaagteu ss:i z127e
+ (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 3
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 3
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 3
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 976
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 23
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 23
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1052
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 3
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 980
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24
+	Voluntary context switches: 3
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1116
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1116
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 3
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 3
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 23
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 3
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24
+	Voluntary context switches: 3
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1052
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 0%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 980
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24
+	Voluntary context switches: 1
+	Involuntary context switches: 4
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench/usr/bin/time: : No such file or directorycannot run /home/benchmarks/rocksdb/db_bench
+: No such file or directory
+Command exited with non-zero status 127
+	Command being timedCommand exited with non-zero status 127
+:	 C"o/home/benchmarks/rocksdb2/db_benchm m--benchmarks=readrandoma n-cache_size=268435456d  -keyrange_dist_a=14.18b e-keyrange_dist_b=-2.917i n-keyrange_dist_c=0.0164g  -keyrange_dist_d=-0.08082t i-keyrange_num=30m e-value_k=0.2615d :-value_sigma=25.45  "-iter_k=2.517/home/benchmarks/rocksdb/db_bench  -iter_sigma=14.236--benchmarks=readreverse  -mix_get_ratio=0.85-cache_size=268435456  -mix_put_ratio=0.14-keyrange_dist_a=14.18  -mix_seek_ratio=0.01-keyrange_dist_b=-2.917  -sine_mix_rate_interval_milliseconds=5000-keyrange_dist_c=0.0164  -sine_a=1000-keyrange_dist_d=-0.08082  -sine_b=0.0000073-keyrange_num=30  -sine_d=45000-value_k=0.2615  --perf_level=0-value_sigma=25.45  -reads=200000-iter_k=2.517  -num=20000000-iter_sigma=14.236  -key_size=48-mix_get_ratio=0.85  --db=/mnt//rocksdb_bench2-mix_put_ratio=0.14  --use_existing_db=true-mix_seek_ratio=0.01  -mmap_read=true-sine_mix_rate_interval_milliseconds=5000  -mmap_write=true-sine_a=1000  -statistics-sine_b=0.0000073  --stats_interval_seconds=1-sine_d=45000" 
+--perf_level=0	 U-reads=20000000s e-num=20000000r  -key_size=48t i--db=/mnt//rocksdb_benchm e--use_existing_db=true  (-mmap_read=trues e-mmap_write=truec o-statisticsn d--stats_interval_seconds=1s")
+:	 Us0.00e
+r	 Styismtee m( steicmoen d(ss)e:c o0.00n
+d	sS)y:s t0.00e
+m	 Pteirmec (esnetc oonfd s)C:P U0.00 
+t	hPiesr cjeonbt  gooft :C P?%U
+ 	tEhliasp sjeodb  (gwoatl:l  ?%c
+l	oEclka)p steidm e( w(ahl:lm mc:lsosc ko)r  tmi:mses )(:h :0:00.00m
+m	:Asvse roarg em :sshsa)r:e d0:00.00 
+t	eAxvte rsaigzee  s(hkabryetde st)ex:t  0s
+i	zAev e(rkabgyet eusn)s:h a0r
+e	dA vdeartaag es iuznes h(akrbeydt edsa)t:a  0s
+i	zAev e(rkabgyet esst)a:c k0 
+s	iAvzeer a(gkeb ystteasc)k:  s0i
+z	eA v(ekrbaygtee st)o:t a0l
+ 	sAivzeera g(ek btyotteasl) :s i0z
+e	 M(akxbiymtuems ):r e0s
+i	dMeanxti msuemt  rseiszied e(nktb ysteets )s:i z984e
+ 	(Akvbeyrtaegse) :r e988s
+i	dAevnetr asgeet  rseiszied e(nktb ystete ss)i:z e0 
+(	kMbayjtoers )(:r e0q
+u	iMrajionrg  (Ir/eOq)u ipraigneg  fIa/uOl)t sp:a g0e
+ 	fMaiunlotrs :( r0e
+c	lMaiinmoirn g( rae cflraaimmei)n gp aag ef rfaamuel)t sp:a g24e
+ 	fVaoullutnst:a r24y
+ 	cVoonltuenxtta rsyw ictocnhteesx:t  3s
+w	iItncvhoelsu:n t3a
+r	yI ncvoonltuenxtta rsyw ictocnhteesx:t  2s
+w	iStwcahpess::  00
+
+		FSiwlaep ss:y s0t
+e	mF iilnep ustyss:t e16m
+ 	iFnipluet ss:y s0t
+e	mF ioluet psuytsst:e m8 
+o	uStopcuktest:  m0e
+s	sSaogcekse ts emnets:s a0g
+e	sS osceknett:  m0e
+s	sSaogcekse tr emceesisvaegde:s  0r
+e	cSeiigvneadl:s  0d
+e	lSiivgenraelds:  d0e
+l	iPvaegree ds:i z0e
+ 	(Pbaygtee ss)i:z e4096 
+(	bEyxtiets )s:t a4096t
+u	sEx:i t127 
+status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1112
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1112
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 984
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24
+	Voluntary context switches: 1
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_benchCommand exited with non-zero status 127
+ 	--benchmarks=readreverseC o-cache_size=268435456m m-keyrange_dist_a=14.18a n-keyrange_dist_b=-2.917d  -keyrange_dist_c=0.0164b e-keyrange_dist_d=-0.08082i n-keyrange_num=30g  -value_k=0.2615t i-value_sigma=25.45m e-iter_k=2.517d :-iter_sigma=14.236  "-mix_get_ratio=0.85 /home/benchmarks/rocksdb2/db_bench-mix_put_ratio=0.14  --benchmarks=readrandom-mix_seek_ratio=0.01  -cache_size=268435456-sine_mix_rate_interval_milliseconds=5000  -keyrange_dist_a=14.18-sine_a=1000  -keyrange_dist_b=-2.917-sine_b=0.0000073  -keyrange_dist_c=0.0164-sine_d=45000  -keyrange_dist_d=-0.08082--perf_level=0  -keyrange_num=30-reads=20000000  -value_k=0.2615-num=20000000  -value_sigma=25.45-key_size=48  -iter_k=2.517--db=/mnt//rocksdb_bench  -iter_sigma=14.236--use_existing_db=true  -mix_get_ratio=0.85-mmap_read=true  -mix_put_ratio=0.14-mmap_write=true  -mix_seek_ratio=0.01-statistics  -sine_mix_rate_interval_milliseconds=5000--stats_interval_seconds=1 "-sine_a=1000
+ 	-sine_b=0.0000073U s-sine_d=45000e r--perf_level=0  t-reads=200000i m-num=20000000e  -key_size=48( s--db=/mnt//rocksdb_bench2e c--use_existing_db=trueo n-mmap_read=trued s-mmap_write=true) :-statistics  --stats_interval_seconds=10.00"
+
+		SUyssetre mt itmiem e( s(esceocnodnsd)s:) : 0.000.00
+
+		SPyesrtceemn tt iomfe  C(PsUe ctohnidss )j:o b0.00 
+g	oPte:r c?%e
+n	tE loafp sCePdU  (twhailsl  jcolbo cgko)t :t i?%m
+e	 E(lha:pmsme:ds s( woarl lm :cslso)c:k ) 0:00.00t
+i	mAev e(rha:gmem :sshsa roerd  mt:esxst) :s i0:00.00z
+e	 A(vkebryatgees )s:h a0r
+e	dA vteerxatg es iuznes h(akrbeydt edsa)t:a  0s
+i	zAev e(rkabgyet eusn)s:h a0r
+e	dA vdeartaag es isztea c(kk bsyitzees )(:k b0y
+t	eAsv)e:r a0g
+e	 Asvtearcakg es itzoet a(lk bsyitzees )(:k b0y
+t	eAsv)e:r a0g
+e	 Mtaoxtiamlu ms irzees i(dkebnytt esse)t:  s0i
+z	eM a(xkibmyutme sr)e:s i1044d
+e	nAtv esreatg es irzees i(dkebnytt esse)t:  s1040i
+z	eA v(ekrbaygtee sr)e:s i0d
+e	nMta jsoert  (sriezqeu i(rkibnygt eIs/)O:)  0p
+a	gMea jfoaru l(trse:q u0i
+r	iMnign oIr/ O()r epcalgaei mfianugl tas :f r0a
+m	eM)i npoarg e( rfeacullatism:i n25g
+ 	aV oflruanmtea)r yp acgoen tfeaxutl tssw:i t25c
+h	eVso: l1u
+n	tIanrvyo lcuonnttaerxyt  csownittecxhte ss:w i3t
+c	hIensv:o l2u
+n	tSawrayp sc:o n0t
+e	xFti lsew istycshteesm:  i0n
+p	uStwsa:p s16:
+ 	0F
+i	lFei lsey sstyesmt eomu tipnuptust:s :8 
+0	
+S	oFcikleet  smyesstseamg eosu tspeuntts::  00
+
+		SSoocckkeett  mmeessssaaggeess  rseecneti:v e0d
+:	 S0o
+	cSkiegtn amless sdaegleisv erreecde:i v0e
+d	:P a0g
+e	 Ssiigznea l(sb ydteels)i:v e4096r
+e	dE:x i0t
+ 	stPaatgues :s i127z
+e (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1048
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1052
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 24
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb2/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb2/db_bench --benchmarks=readrandom -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=200000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench2 --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 2
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1052
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1104
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1052
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1040
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127
+/usr/bin/time: cannot run /home/benchmarks/rocksdb/db_bench: No such file or directory
+Command exited with non-zero status 127
+	Command being timed: "/home/benchmarks/rocksdb/db_bench --benchmarks=readreverse -cache_size=268435456 -keyrange_dist_a=14.18 -keyrange_dist_b=-2.917 -keyrange_dist_c=0.0164 -keyrange_dist_d=-0.08082 -keyrange_num=30 -value_k=0.2615 -value_sigma=25.45 -iter_k=2.517 -iter_sigma=14.236 -mix_get_ratio=0.85 -mix_put_ratio=0.14 -mix_seek_ratio=0.01 -sine_mix_rate_interval_milliseconds=5000 -sine_a=1000 -sine_b=0.0000073 -sine_d=45000 --perf_level=0 -reads=20000000 -num=20000000 -key_size=48 --db=/mnt//rocksdb_bench --use_existing_db=true -mmap_read=true -mmap_write=true -statistics --stats_interval_seconds=1"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: ?%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1044
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 25
+	Voluntary context switches: 1
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 127

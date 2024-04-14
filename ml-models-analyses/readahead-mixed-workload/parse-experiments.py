@@ -32,6 +32,7 @@ from kmlparsing import *
 import sys
 import matplotlib
 import csv
+from parsefaults import *
 
 matplotlib.rcParams['pdf.fonttype'] = 42
 matplotlib.rcParams['ps.fonttype'] = 42
@@ -56,35 +57,35 @@ if __name__ == '__main__':
         '--kml_seq_file',
         dest='kml_seq_file',
         required=False,
-        default='detail-kml-1.txt',
+        default='output_result/detail-kml-1.txt',
         help='relative path to sequential detail file for kml experiments')
     parser.add_argument(
         '--kml_rand_file',
         dest='kml_rand_file',
         required=False,
-        default='detail-kml-2.txt',
+        default='output_result/detail-kml-2.txt',
         help='relative path to random detail file for kml experiments')
     parser.add_argument(
         '--vanilla_seq_file',
         dest='vanilla_seq_file',
         required=False,
-        default='detail-vanilla-1.txt',
+        default='output_result/detail-vanilla-1.txt',
         help='relative path to sequential detail file for vanilla experiments')
     parser.add_argument(
         '--vanilla_rand_file',
         dest='vanilla_rand_file',
         required=False,
-        default='detail-vanilla-2.txt',
+        default='output_result/detail-vanilla-2.txt',
         help='relative path to random detail file for vanilla experiments')
     parser.add_argument('--kern_log_file',
                         dest='kern_log_file',
                         required=False,
-                        default='kern.log',
+                        default='output_result/kern.log',
                         help='path to kern.log file')
     parser.add_argument('--bench_output_dir',
                         dest="bench_output_dir",
                         required=False,
-                        default='.',
+                        default='output_result/',
                         help='directory containing bench_output_* files')
     parser.add_argument('--output_dir',
                         dest='output_dir',
